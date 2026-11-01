@@ -1,0 +1,28 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  29,
+  30,
+  31
+ ],
+ "figures_placed": [],
+ "footnotes": [
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "notes": [
+  "Typos marked <!-- sic -->: fn 18 'Department of Planning Development' (missing 'and'); callout 'of special uses applications'.",
+  "Internal link 'page 17' (→ internal PDF p19) mapped to #planned-developments.",
+  "Fn 19 'APPENDIX: RESEARCH METHODOLOGY.' is not a link in the PDF; left as plain text (could link #appx-methodology).",
+  "Fn 18 link spans two lines in the PDF (two link rects, same URL); emitted as one <a>, final period outside link.",
+  "Fn 20 link boundaries follow the PDF's blue text (quote marks partly outside, commas inside).",
+  "PDF 29: '28' callout box (left) placed before intro paragraph (right); '11 out of 12' callout placed before the ZBA finding beside it.",
+  "PDF 30 pull quote is a paraphrase of body text (not identical); emitted once as .pullquote before the special-use finding; body paragraph left complete.",
+  "Lead 'The Zoning Board of Appeals approves most applications it receives.' — period is a different color in PDF; included inside the bold lead.",
+  "Dump spacing artifacts normalized silently: '14. 7'→'14.7', 'U. S.'→'U.S.', 'PM2. 5'→'PM2.5', 'D. C.'→'D.C.', 'DataUSA. io'→'DataUSA.io'."
+ ]
+}

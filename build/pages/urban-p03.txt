@@ -1,0 +1,83 @@
+=== urban PDF page 3 (w=612 h=792) ===
+[B 46,37,447,51]
+  {Lato-Regular 11.5 #353535}ADU development to five pilot areas and, in some areas, owner-occupied parcels.
+[B 46,65,561,95]
+  {Lato-Regular 11.5 #353535}Taken together, these reforms could help Chicago produce more housing and spread development
+  {Lato-Regular 11.5 #353535}beyond the Loop and its surroundings, {Lato-Regular 11.5 #1696d2}where recent development has been concentrated.{Lato-Regular 8.6 #1696d2} (https://www.urba
+[B 46,102,430,112]
+  {Lato-Regular 8.6 #1696d2}n.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing)
+[B 46,127,537,140]
+  {Lato-Regular 11.5 #353535}But zoning reform alone doesn’t address the market conditions and structural inequities that shape
+[B 46,144,558,158]
+  {Lato-Regular 11.5 #353535}where development occurs—and could even intensify uneven development patterns. To ensure housing
+[B 46,161,565,175]
+  {Lato-Regular 11.5 #353535}growth benefits all residents, the city will need to {Lato-Regular 11.5 #1696d2}pair zoning changes with{Lato-Regular 8.6 #1696d2} (https://www.urban.org/urban-wire/no-
+[B 46,178,498,192]
+  {Lato-Regular 8.6 #1696d2}single-policy-will-increase-housing-affordability-we-need-comprehensive-strategy){Lato-Regular 11.5 #353535} targeted public investment,
+[B 46,196,536,209]
+  {Lato-Regular 11.5 #353535}conscientious private investment, and antidisplacement and community wealth-building measures.
+[B 46,232,557,299]
+  {FuturaPTWeb-Heavy 17.8 #000000}Without zoning changes, most housing construction over the
+  {FuturaPTWeb-Heavy 17.8 #000000}next 15 years will likely cluster in downtown Chicago and
+  {FuturaPTWeb-Heavy 17.8 #000000}expensive neighborhoods with higher shares of white residents
+[B 46,315,530,329]
+  {Lato-Regular 11.5 #353535}Between 2011 and 2025, Chicago permitted more than 86,400 housing units, most of which were
+[B 46,332,563,346]
+  {Lato-Regular 11.5 #353535}constructed. But this development {Lato-Regular 11.5 #1696d2}wasn’t spread evenly across the city{Lato-Regular 8.6 #1696d2} (https://www.urban.org/urban-wire/zoning-
+[B 46,349,338,362]
+  {Lato-Regular 8.6 #1696d2}restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing){Lato-Regular 11.5 #353535}.
+[B 46,376,546,390]
+  {Lato-Regular 11.5 #353535}Using a two-stage hurdle regression model to analyze where and how this development occurred, we
+[B 46,394,434,407]
+  {Lato-Regular 11.5 #353535}found that parcels were more likely to have housing permitted on them if they:
+[B 61,421,561,434]
+  {Lato-Regular 11.5 #353535}had accommodating zoning allowances (i.e., they were located in a zoning district that allowed higher
+[B 61,438,181,452]
+  {Lato-Regular 11.5 #353535}development densities);
+[B 61,466,564,479]
+  {Lato-Regular 11.5 #353535}had a higher share of their value come from their land rather than their buildings (i.e., were underbuilt
+[B 61,483,456,497]
+  {Lato-Regular 11.5 #353535}compared with what real estate market actors might consider appropriate); and
+[B 61,510,564,524]
+  {Lato-Regular 11.5 #353535}were located in neighborhoods with lower shares of Black residents, with older average building ages,
+[B 61,527,519,541]
+  {Lato-Regular 11.5 #353535}with lower existing building densities, with higher rent levels, with higher shares of residents
+[B 61,544,472,558]
+  {Lato-Regular 11.5 #353535}commuting by transit, and that were closer to other higher-income neighborhoods.
+[B 46,572,529,586]
+  {Lato-Regular 11.5 #353535}In other words, zoning capacity—what the zoning code allows to be built by right on a parcel—was
+[B 46,589,510,603]
+  {Lato-Regular 11.5 #353535}important but only one of several factors that affected development potential. Land value and
+[B 46,607,414,620]
+  {Lato-Regular 11.5 #353535}neighborhood conditions also strongly influenced development outcomes.
+[B 46,634,532,647]
+  {Lato-Regular 11.5 #353535}The lower probability of housing permitting in areas with a higher share of Black residents reflects
+[B 46,651,558,665]
+  {Lato-Regular 11.5 #353535}systemic racism’s complex influence on developers’ and residents’ perceptions related to neighborhood
+[B 46,668,528,682]
+  {Lato-Regular 11.5 #353535}safety, attractiveness, and profitability rather than any intrinsic characteristic of the communities
+[B 46,685,564,699]
+  {Lato-Regular 11.5 #353535}themselves. Historical practices such as {Lato-Regular 11.5 #1696d2}redlining{Lato-Regular 8.6 #1696d2} (https://www.urban.org/research/publication/addressing-legacies-histori
+[B 46,703,564,716]
+  {Lato-Regular 8.6 #1696d2}cal-redlining){Lato-Regular 11.5 #353535}, {Lato-Regular 11.5 #1696d2}segregation{Lato-Regular 8.6 #1696d2} (https://metroplanning.org/projects/the-cost-of-segregation/){Lato-Regular 11.5 #353535}, {Lato-Regular 11.5 #1696d2}discriminatory policing{Lato-Regular 8.6 #1696d2} (https://librar
+[B 46,720,564,734]
+  {Lato-Regular 8.6 #1696d2}y.oapen.org/handle/20.500.12657/98051){Lato-Regular 11.5 #353535}, {Lato-Regular 11.5 #1696d2}extractive or predatory lending{Lato-Regular 8.6 #1696d2} (https://woodstockinst.org/press-release/new-fact-b
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}3/17
+--- LINKS ---
+  [where recent development has been concentrated. (https://www.urba] -> https://www.urban.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing
+  [n.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing)] -> https://www.urban.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing
+  [pair zoning changes with (https://www.urban.org/urban-wire/no-] -> https://www.urban.org/urban-wire/no-single-policy-will-increase-housing-affordability-we-need-comprehensive-strategy
+  [single-policy-will-increase-housing-affordability-we-need-comprehensive-strategy)] -> https://www.urban.org/urban-wire/no-single-policy-will-increase-housing-affordability-we-need-comprehensive-strategy
+  [wasn’t spread evenly across the city (https://www.urban.org/urban-wire/zoning-] -> https://www.urban.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing
+  [restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing)] -> https://www.urban.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing
+  [redlining (https://www.urban.org/research/publication/addressing-legacies-histori] -> https://www.urban.org/research/publication/addressing-legacies-historical-redlining
+  [cal-redlining),] -> https://www.urban.org/research/publication/addressing-legacies-historical-redlining
+  [segregation (https://metroplanning.org/projects/the-cost-of-segregation/)] -> https://metroplanning.org/projects/the-cost-of-segregation/
+  [discriminatory policing (https://librar] -> https://library.oapen.org/handle/20.500.12657/98051
+  [y.oapen.org/handle/20.500.12657/98051)] -> https://library.oapen.org/handle/20.500.12657/98051
+  [extractive or predatory lending (https://woodstockinst.org/press-release/new-fact-b] -> https://woodstockinst.org/press-release/new-fact-book/

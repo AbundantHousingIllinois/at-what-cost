@@ -1,0 +1,11 @@
+=== urban PDF page 17 (w=612 h=792) ===
+[B 46,37,425,48]
+  {Lato-Italic 8.9 #353535}Institute’s funding principles is available at {Lato-Italic 8.9 #1696d2}http://urban.org/fundingprinciples{Lato-Italic 6.7 #1696d2} (http://urban.org/fundingprinciples){Lato-Italic 8.9 #353535}.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}17/17
+--- LINKS ---
+  [http://urban.org/fundingprinciples (http://urban.org/fundingprinciples).] -> http://urban.org/fundingprinciples

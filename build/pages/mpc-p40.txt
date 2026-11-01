@@ -1,0 +1,106 @@
+=== mpc PDF page 40 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    38
+[IMAGE 51,753,150,767]
+[B 58,55,115,82]
+  {ProximaNova-Bold 11.0 #000000}Zoning 
+  {ProximaNova-Bold 11.0 #000000}designation
+[B 151,55,375,70]
+  {ProximaNova-Bold 11.0 #000000}Uses
+  {ProximaNova-Bold 11.0 #000000}Zoning district categories{ProximaNova-RegularIt 11.0 #000000} 
+[B 249,87,474,150]
+  {ProximaNova-RegularIt 9.0 #000000}Additional bulk and density designations (e.g. M1{ProximaNova-BoldIt 9.0 #000000}-1{ProximaNova-RegularIt 9.0 #000000}, M2{ProximaNova-BoldIt 9.0 #000000}-3{ProximaNova-RegularIt 9.0 #000000}) 
+  {ProximaNova-RegularIt 9.0 #000000}correspond to more specific requirements. As the bulk 
+  {ProximaNova-RegularIt 9.0 #000000}and density number increases, the zoning code allows 
+  {ProximaNova-RegularIt 9.0 #000000}bigger buildings. For residential districts, instead of 
+  {ProximaNova-RegularIt 9.0 #000000}dashes, the bulk and density number is contained in the 
+  {ProximaNova-RegularIt 9.0 #000000}district name (e.g. RS{ProximaNova-BoldIt 9.0 #000000}2{ProximaNova-RegularIt 9.0 #000000}, RT{ProximaNova-BoldIt 9.0 #000000}4{ProximaNova-RegularIt 9.0 #000000}).
+[B 492,55,551,94]
+  {ProximaNova-Bold 11.0 #000000}Share of 
+  {ProximaNova-Bold 11.0 #000000}zoned land, 
+  {ProximaNova-Bold 11.0 #000000}2023
+[B 492,101,554,143]
+  {ProximaNova-Regular 9.0 #000000}Numbers may 
+  {ProximaNova-Regular 9.0 #000000}not add exactly 
+  {ProximaNova-Regular 9.0 #000000}to 100% due to 
+  {ProximaNova-Regular 9.0 #000000}rounding.
+[B 58,172,228,244]
+  {ProximaNova-Bold 9.0 #000000}Business (B)
+  {ProximaNova-Regular 9.0 #000000}Retail and service 
+  {ProximaNova-Regular 9.0 #000000}uses (such as cafes 
+  {ProximaNova-Regular 9.0 #000000}and dry cleaners), 
+  {ProximaNova-Regular 9.0 #000000}some public and 
+  {ProximaNova-Regular 9.0 #000000}civic uses, and 
+  {ProximaNova-Regular 9.0 #000000}some residential 
+  {ProximaNova-Regular 9.0 #000000}uses.
+[B 249,172,461,244]
+  {ProximaNova-Regular 9.0 #000000}B1 (Neighborhood Shopping): Small scale retail and 
+  {ProximaNova-Regular 9.0 #000000}service uses with a pedestrian orientation, permits 
+  {ProximaNova-Regular 9.0 #000000}residential above the ground floor
+  {ProximaNova-Regular 9.0 #000000}B2 (Neighborhood Mixed-Use): Same as B1, but allows 
+  {ProximaNova-Regular 9.0 #000000}ground-floor residential uses
+  {ProximaNova-Regular 9.0 #000000}B3 (Community Shopping): Shopping centers, larger 
+  {ProximaNova-Regular 9.0 #000000}buildings, destination oriented for cars
+[B 492,171,508,188]
+  {ProximaNova-Bold 12.0 #000000}6%
+[B 58,257,229,410]
+  {ProximaNova-Bold 9.0 #000000}Commercial (C)
+  {ProximaNova-Regular 9.0 #000000}Retail and 
+  {ProximaNova-Regular 9.0 #000000}services uses, and 
+  {ProximaNova-Regular 9.0 #000000}more intensive 
+  {ProximaNova-Regular 9.0 #000000}commercial uses 
+  {ProximaNova-Regular 9.0 #000000}and tend to be 
+  {ProximaNova-Regular 9.0 #000000}larger and more 
+  {ProximaNova-Regular 9.0 #000000}oriented to users 
+  {ProximaNova-Regular 9.0 #000000}in cars (such as 
+  {ProximaNova-Regular 9.0 #000000}banks and car 
+  {ProximaNova-Regular 9.0 #000000}washes), with some 
+  {ProximaNova-Regular 9.0 #000000}residential, public 
+  {ProximaNova-Regular 9.0 #000000}and civic uses, 
+  {ProximaNova-Regular 9.0 #000000}plus manufacturing 
+  {ProximaNova-Regular 9.0 #000000}allowed in some 
+  {ProximaNova-Regular 9.0 #000000}districts.
+[B 249,257,471,340]
+  {ProximaNova-Regular 9.0 #000000}C1 (Neighborhood Commercial): Similar to B3, plus more 
+  {ProximaNova-Regular 9.0 #000000}intensive, car-oriented uses
+  {ProximaNova-Regular 9.0 #000000}C2 (Motor Vehicle-Related Commercial): High intensity 
+  {ProximaNova-Regular 9.0 #000000}business or commercial, allowing virtually any type of 
+  {ProximaNova-Regular 9.0 #000000}business, service, or commercial use
+  {ProximaNova-Regular 9.0 #000000}C3 (Commercial, Manufacturing and Employment): High 
+  {ProximaNova-Regular 9.0 #000000}intensity commercial use intended to serve as a buffer to 
+  {ProximaNova-Regular 9.0 #000000}manufacturing districts; does not permit residential uses
+[B 492,256,508,273]
+  {ProximaNova-Bold 12.0 #000000}3%
+[B 58,422,222,505]
+  {ProximaNova-Bold 9.0 #000000}Downtown (D)
+  {ProximaNova-Regular 9.0 #000000}Only in the 
+  {ProximaNova-Regular 9.0 #000000}designated 
+  {ProximaNova-Regular 9.0 #000000}“downtown” area; 
+  {ProximaNova-Regular 9.0 #000000}a variety of uses 
+  {ProximaNova-Regular 9.0 #000000}with high density, 
+  {ProximaNova-Regular 9.0 #000000}including public, 
+  {ProximaNova-Regular 9.0 #000000}civic, commercial, 
+  {ProximaNova-Regular 9.0 #000000}and residential.
+[B 249,422,476,545]
+  {ProximaNova-Regular 9.0 #000000}DC (Downtown Core): Allows a broad mix of office, 
+  {ProximaNova-Regular 9.0 #000000}commercial, public, recreation, and entertainment uses, 
+  {ProximaNova-Regular 9.0 #000000}along with mixed-use and residential
+  {ProximaNova-Regular 9.0 #000000}DX (Downtown Mixed-Use): Allows office, commercial, 
+  {ProximaNova-Regular 9.0 #000000}public, institutional, and residential with vertical mixed-
+  {ProximaNova-Regular 9.0 #000000}uses that contain active ground floors
+  {ProximaNova-Regular 9.0 #000000}DR (Downtown Residential): Allows residential and small-
+  {ProximaNova-Regular 9.0 #000000}scale commercial uses on lower floors, with residential 
+  {ProximaNova-Regular 9.0 #000000}above
+  {ProximaNova-Regular 9.0 #000000}DS (Downtown Service): Allows a mix of small-scale 
+  {ProximaNova-Regular 9.0 #000000}office, commercial services, public use, transportation and 
+  {ProximaNova-Regular 9.0 #000000}communication services, and industrial uses
+[B 492,421,506,439]
+  {ProximaNova-Bold 12.0 #000000}1%
+[B 58,557,212,580]
+  {ProximaNova-Bold 9.0 #000000}Transportation (T){ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}Uses related to 
+  {ProximaNova-Regular 9.0 #000000}transportation. 
+[B 249,556,512,580]
+  {ProximaNova-Regular 9.0 #000000}T (Transportation): Land used to protect roads, rail, 
+  {ProximaNova-Regular 9.0 #000000}busways, pedestrian and bicycle trails, and minor utilities.{ProximaNova-RegularIt 9.0 #000000}   {ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Bold 12.0 #000000}<1%

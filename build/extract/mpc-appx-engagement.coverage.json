@@ -1,0 +1,15 @@
+{
+  "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+  "pages": [57, 58, 59],
+  "figures_placed": [],
+  "footnotes": [],
+  "notes": [
+    "Org list: 45 organizations, in printed order (not alphabetical: e.g. 'Chinese Mutual Aid Association' precedes the Chicago Department entries; 'Mayor's Office' entries follow them). Straight apostrophes kept as printed in 'Chicago Lawyers' Committee' and 'Mayor's Office – BEND' (the other two Mayor’s Office entries use curly apostrophes).",
+    "Timeline: 11 items, left column top→bottom then right column. Type from dot/text color in the PDF: #e36841 orange = advisory, #304362 navy = additional, #62a398 teal = public. Dates and titles kept in ALL CAPS as printed.",
+    "Timeline items with bullet lists use <p> + nested <ul> inside the <li> (deviation from the single-<p> shape in the brief). The ZONING ASSESSMENT WORKSHOPS item has only bullets, no lead <p>.",
+    "Judgment: last item printed as 'JULY 2026 - ONGOING ADDITIONAL ENGAGEMENT:' / 'ZONING 101 WORKSHOPS' — split as date 'JULY 2026 - ONGOING' and h5 'ADDITIONAL ENGAGEMENT: ZONING 101 WORKSHOPS' (item is teal = public despite the 'ADDITIONAL ENGAGEMENT' wording). Hyphen (not en dash) kept in that date.",
+    "Typos/inconsistencies kept: 'SUMMER 2022 YEAR – WINTER 2025' (sic); 'Selected 13 priority outcomes through consensus voting and discussion:' trailing colon with no list (sic); '13 priority outcomes' here vs 'seven priority outcomes' in methodology not reconciled; 'FALL 2023 – WINTER 2023'; lowercase 'how' in “Arbitrary Lines: how Zoning Broke…”; 'Tonika Lewis Johnson' here vs 'Tonika Johnson' in acknowledgments.",
+    "Heading levels: 'Engagement timeline' and 'Engagement strategies' (15pt) → h3; 'Participating Steering Committee (SC) and Community Advisory Group (CAG) organizations' and 'Documenting and synthesizing feedback on recommendations' (bold 11pt) → h4.",
+    "Vision Statement box kept with printed curly quotes."
+  ]
+}

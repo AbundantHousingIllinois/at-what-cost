@@ -1,0 +1,88 @@
+=== mpc PDF page 26 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    24
+[IMAGE 51,753,150,767]
+[B 49,46,302,69]
+  {ProximaNova-Bold 9.0 #000000}Share of land zoned for manufacturing in most populous areas  
+  {ProximaNova-Bold 9.0 #000000}for each demographic
+[B 58,207,293,243]
+  {ProximaNova-RegularIt 7.8 #000000}This looks at the top 30% most populous tracts for each demographic 
+  {ProximaNova-RegularIt 7.8 #000000}(roughly 75 to 85 percent of the citywide population for each 
+  {ProximaNova-RegularIt 7.8 #000000}demographic). For example, in the top 30% of tracts with the most 
+  {ProximaNova-RegularIt 7.8 #000000}Latinx Chicagoans, 29% of the land is zoned for manufacturing.
+[B 64,171,68,182]
+  {ProximaNovaCond-Medium 7.3 #000000}0
+[B 59,160,68,170]
+  {ProximaNovaCond-Medium 7.3 #000000}5%
+[B 57,148,68,158]
+  {ProximaNovaCond-Medium 7.3 #000000}10%
+[B 57,136,68,146]
+  {ProximaNovaCond-Medium 7.3 #000000}15%
+[B 56,124,68,134]
+  {ProximaNovaCond-Medium 7.3 #000000}20%
+[B 56,112,68,122]
+  {ProximaNovaCond-Medium 7.3 #000000}25%
+[B 56,100,68,110]
+  {ProximaNovaCond-Medium 7.3 #000000}30%
+[B 56,88,68,98]
+  {ProximaNovaCond-Medium 7.3 #000000}35%
+[B 260,176,297,196]
+  {ProximaNovaCond-Semibold 8.3 #000000}White 
+  {ProximaNovaCond-Semibold 8.3 #000000}Chicagoans
+[B 274,151,284,162]
+  {ProximaNovaCond-Semibold 8.3 #000000}6%
+[B 214,176,251,196]
+  {ProximaNovaCond-Semibold 8.3 #000000}Asian 
+  {ProximaNovaCond-Semibold 8.3 #000000}Chicagoans
+[B 227,142,237,154]
+  {ProximaNovaCond-Semibold 8.3 #000000}9%
+[B 167,176,204,196]
+  {ProximaNovaCond-Semibold 8.3 #000000}Black 
+  {ProximaNovaCond-Semibold 8.3 #000000}Chicagoans
+[B 178,110,192,122]
+  {ProximaNovaCond-Semibold 8.3 #000000}23%
+[B 120,176,157,196]
+  {ProximaNovaCond-Semibold 8.3 #000000}Latinx 
+  {ProximaNovaCond-Semibold 8.3 #000000}Chicagoans
+[B 131,95,145,107]
+  {ProximaNovaCond-Semibold 8.3 #000000}29%
+[B 79,176,104,196]
+  {ProximaNovaCond-Semibold 8.3 #000000}City of 
+  {ProximaNovaCond-Semibold 8.3 #000000}Chicago
+[B 86,124,98,136]
+  {ProximaNovaCond-Semibold 8.3 #000000}17%
+[IMAGE 320,83,333,97]
+[B 319,80,564,213]
+  {ProximaNova-Extrabld 9.0 #57657a}Latinx and Black Chicagoans tend to have more land 
+  {ProximaNova-Extrabld 9.0 #57657a}in their neighborhoods zoned for heavy 
+  {ProximaNova-Extrabld 9.0 #57657a}manufacturing, and manufacturing overall, compared to 
+  {ProximaNova-Extrabld 9.0 #57657a}other groups.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}23% of land is zoned for manufacturing in areas 
+  {ProximaNova-Regular 9.0 #000000}most populated by Black Chicagoans, while 29% of land is 
+  {ProximaNova-Regular 9.0 #000000}zoned for manufacturing in areas most populated by Latinx 
+  {ProximaNova-Regular 9.0 #000000}Chicagoans.{ProximaNova-Regular 5.2 #000000} 15{ProximaNova-Regular 9.0 #000000} This compares to only 6% and 9% of land zoned 
+  {ProximaNova-Regular 9.0 #000000}this way in areas most populated by white and Asian 
+  {ProximaNova-Regular 9.0 #000000}Chicagoans, respectively. In areas where most Black and 
+  {ProximaNova-Regular 9.0 #000000}Latinx Chicagoans live, manufacturing zoning is also much 
+  {ProximaNova-Regular 9.0 #000000}more likely to be for heavy industry (M3 zoning). 
+[IMAGE 49,296,62,310]
+[B 49,293,559,354]
+  {ProximaNova-Extrabld 9.0 #57657a}Different neighborhoods face different types and levels of climate challenges, which require different solutions. {ProximaNova-Regular 9.0 #000000}Some 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods face urban heat challenges, others experience urban flooding challenges, and some face both. Multipronged 
+  {ProximaNova-Regular 9.0 #000000}mitigation and adaptation strategies are required to adequately address climate challenges.  Neighborhoods also have different 
+  {ProximaNova-Regular 9.0 #000000}types and availabilities of land for implementing mitigation and adaptation strategies, such as vacant land, City-owned 
+  {ProximaNova-Regular 9.0 #000000}properties, and land uses with a large amount of pavement (like industrial land and heavy arterials). 
+[B 49,360,539,383]
+  {ProximaNova-Bold 9.0 #000000} 
+  {ProximaNova-Bold 9.0 #000000}All-day heat index	
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}Flooding index	
+  {ProximaNova-Bold 9.0 #000000}Combined heat and flooding index
+[IMAGE 49,398,208,594]
+[IMAGE 226,398,385,594]
+[IMAGE 402,398,562,594]
+[B 49,609,474,619]
+  {ProximaNova-RegularIt 7.5 #000000}Source: City of Chicago 2023 Cool Chi/Heat Watch, Chicago Metropolitan Agency for Planning (CMAP), City of Chicago data portal
+[B 49,628,51,641]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 49,712,535,722]
+  {ProximaNova-Regular 7.5 #4e5154}15 This refers to the top 30% most populous tracts for each demographic (roughly 75 to 85 percent of the citywide population for each demographic).

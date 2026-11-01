@@ -1,0 +1,85 @@
+=== mpc PDF page 11 (w=612 h=792) ===
+[B 370,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    9
+[IMAGE 51,753,150,767]
+[B 49,45,230,61]
+  {ProximaNova-Bold 11.0 #000000}Conducting and refining the research
+[B 49,69,438,81]
+  {ProximaNova-Regular 9.0 #000000}For each of these seven priority outcomes, the research team approached the work in three stages. 
+[B 58,100,182,116]
+  {ProximaNova-Bold 11.0 #000000}Understand the outcome:
+[B 58,117,203,164]
+  {ProximaNovaCond-Regular 10.0 #000000}What is the current state of this 
+  {ProximaNovaCond-Regular 10.0 #000000}outcome? How have trends shown up 
+  {ProximaNovaCond-Regular 10.0 #000000}across neighborhoods in the city? How 
+  {ProximaNovaCond-Regular 10.0 #000000}has this outcome changed over time?
+[B 235,99,352,115]
+  {ProximaNova-Bold 11.0 #000000}Understand the zoning: 
+[B 235,116,379,163]
+  {ProximaNovaCond-Regular 10.0 #000000}Which elements of zoning could be 
+  {ProximaNovaCond-Regular 10.0 #000000}connected to this outcome? How are 
+  {ProximaNovaCond-Regular 10.0 #000000}those elements distributed throughout 
+  {ProximaNovaCond-Regular 10.0 #000000}the city? 
+[B 409,98,548,114]
+  {ProximaNova-Bold 11.0 #000000}Understand the relationship:
+[B 409,115,544,151]
+  {ProximaNovaCond-Regular 10.0 #000000}What can the data tell us about the 
+  {ProximaNovaCond-Regular 10.0 #000000}connection between zoning and the 
+  {ProximaNovaCond-Regular 10.0 #000000}outcome?
+[IMAGE 306,188,563,347]
+[B 49,190,302,299]
+  {ProximaNova-Regular 9.0 #000000}To complete these analyses, the team first had to assemble 
+  {ProximaNova-Regular 9.0 #000000}foundational data on zoning and data related to each individual 
+  {ProximaNova-Regular 9.0 #000000}outcome. MPC compiled zoning data for three separate points 
+  {ProximaNova-Regular 9.0 #000000}in time: 2003, 2012, and 2023.{ProximaNova-Regular 5.2 #000000} 2{ProximaNova-Regular 9.0 #000000} Having zoning data for three 
+  {ProximaNova-Regular 9.0 #000000}separate years allowed the team to track trends over time. Then, 
+  {ProximaNova-Regular 9.0 #000000}MPC compiled data on each individual outcome from a variety 
+  {ProximaNova-Regular 9.0 #000000}of sources. Analyses varied depending on available data—for 
+  {ProximaNova-Regular 9.0 #000000}example, some metrics could be longitudinally analyzed, while 
+  {ProximaNova-Regular 9.0 #000000}others could not.
+[B 49,307,386,368]
+  {ProximaNova-Regular 9.0 #000000}For each outcome, the research team refined the analysis 
+  {ProximaNova-Regular 9.0 #000000}through stakeholder engagement. Stakeholders provided 
+  {ProximaNova-Regular 9.0 #000000}feedback on initial drafts of the research during Steering 
+  {ProximaNova-Regular 9.0 #000000}Committee meetings, Community Advisory Group meetings, or 
+  {ProximaNova-Regular 9.0 #000000}public workshops, and the research team used that feedback to improve the analyses. 
+[B 60,384,227,493]
+  {ProximaNova-Regular 14.7 #000000}MPC collected more than{ProximaNova-Regular 16.7 #000000} 
+  {ProximaNovaCond-Black 23.6 #6d95bc}1,200{ProximaNovaCond-Black 35.4 #6d95bc} {ProximaNova-Regular 14.7 #000000}pieces of 
+  {ProximaNova-Regular 14.7 #000000}written feedback while 
+  {ProximaNova-Regular 14.7 #000000}developing and reﬁning 
+  {ProximaNova-Regular 14.7 #000000}the recommendations 
+  {ProximaNova-Regular 14.7 #000000}in this report.
+[B 245,378,410,394]
+  {ProximaNova-Bold 11.0 #000000}Developing the recommendations
+[B 245,402,546,426]
+  {ProximaNova-Regular 9.0 #000000}As with the research approach, stakeholders also informed the Assessment’s 
+  {ProximaNova-Regular 9.0 #000000}recommendations.
+[B 245,435,563,507]
+  {ProximaNova-Regular 9.0 #000000}In response to initial drafts of research results, stakeholders weighed in on which 
+  {ProximaNova-Regular 9.0 #000000}policy implications stood out to them, creating an initial list of possible policy 
+  {ProximaNova-Regular 9.0 #000000}directions. To further ground policy development, MPC also conducted a national 
+  {ProximaNova-Regular 9.0 #000000}scan of zoning best practices. MPC staff teams worked together to synthesize the 
+  {ProximaNova-Regular 9.0 #000000}research findings, policy implications from stakeholders, and best practices into 
+  {ProximaNova-Regular 9.0 #000000}preliminary policy recommendations.
+[B 49,516,561,564]
+  {ProximaNova-Regular 9.0 #000000}MPC teams then solicited feedback on these preliminary recommendations in a series of stakeholder workshops. Using dot boards, 
+  {ProximaNova-Regular 9.0 #000000}participants voted on the effectiveness of each recommendation, and provided written feedback on how the recommendations 
+  {ProximaNova-Regular 9.0 #000000}might impact their communities and how they might be strengthened. MPC collected more than 1,200 pieces of written feedback in 
+  {ProximaNova-Regular 9.0 #000000}response to the preliminary recommendations.
+[B 49,573,561,609]
+  {ProximaNova-Regular 9.0 #000000}MPC staff used this feedback to further refine the recommendations. As recommendations were finalized and themes emerged, the 
+  {ProximaNova-Regular 9.0 #000000}team moved from an outcome-based structure into the structure you see in this report, which aligns policy recommendations and 
+  {ProximaNova-Regular 9.0 #000000}research findings with five separate challenges and visions for zoning and land use. 
+[B 49,618,53,655]
+  {ProximaNova-Regular 9.0 #000000} 
+  {IvyPrestoHeadline-Regula 20.0 #e36841} 
+[IMAGE 52,616,300,705]
+[B 300,628,308,655]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}  
+[IMAGE 308,615,561,704]
+[B 561,628,565,655]
+  {IvyPrestoHeadline-Regula 20.0 #e36841} 
+[B 49,721,539,741]
+  {ProximaNova-Regular 7.5 #4e5154}2 To compile the 2003 zoning data, the team digitized physical maps archived at the Chicago Public Library. The 2012 and 2023 maps were available 
+  {ProximaNova-Regular 7.5 #4e5154}digitally, though they required some preparation to analyze.

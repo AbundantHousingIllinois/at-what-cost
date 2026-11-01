@@ -1,0 +1,9 @@
+=== mpc PDF page 1 (w=612 h=792) ===
+[IMAGE 0,0,612,792]
+[B 333,48,501,86]
+  {IvyPrestoHeadline-Regula 28.0 #000000}At What Cost? 
+[B 333,88,571,150]
+  {ProximaNova-Medium 16.3 #000000}How Chicago's Outdated Zoning 
+  {ProximaNova-Medium 16.3 #000000}and Land Use Systems Thwart 
+  {ProximaNova-Medium 16.3 #000000}Inclusive Growth
+[IMAGE 919,342,612,792]

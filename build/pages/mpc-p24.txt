@@ -1,0 +1,69 @@
+=== mpc PDF page 24 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    22
+[IMAGE 51,753,150,767]
+[IMAGE 326,73,563,384]
+[IMAGE 49,73,286,384]
+[B 50,635,292,664]
+  {ProximaNova-RegularIt 7.7 #000000}Source: EPA EJ Screen; Year: 2019-2023
+  {ProximaNova-RegularIt 7.7 #000000}*varies by pollution source; the index reﬂects the variety of ways people 
+  {ProximaNova-RegularIt 7.7 #000000}encounter pollution, from breathing it in to living near a waste site.
+[B 195,48,417,62]
+  {ProximaNova-Semibold 9.2 #000000}Pollution is concentrated where tree coverage is sparse
+[B 50,403,279,416]
+  {ProximaNova-Semibold 9.2 #000000}Racial composition in highest and lowest pollution tracts
+[B 67,426,269,437]
+  {ProximaNovaCond-Semibold 8.2 #000000}Latinx
+  {ProximaNovaCond-Semibold 8.2 #000000}White
+  {ProximaNovaCond-Semibold 8.2 #000000}Black
+  {ProximaNovaCond-Semibold 8.2 #000000}Asian
+[B 60,556,277,567]
+  {ProximaNovaCond-Semibold 7.7 #6a2310}34%
+  {ProximaNovaCond-Semibold 7.7 #64676b}42%
+  {ProximaNovaCond-Semibold 7.7 #6a2310}14%
+  {ProximaNovaCond-Semibold 7.7 #64676b}26%
+  {ProximaNovaCond-Semibold 7.7 #6a2310}37%
+  {ProximaNovaCond-Semibold 7.7 #64676b}21%
+  {ProximaNovaCond-Semibold 7.7 #6a2310}13%
+  {ProximaNovaCond-Semibold 7.7 #64676b}7%
+[B 50,588,109,607]
+  {ProximaNovaCond-Medium 8.2 #000000}City of Chicago
+  {ProximaNovaCond-Medium 8.2 #000000}Racial Composition
+[B 158,580,212,607]
+  {ProximaNovaCond-Medium 8.2 #000000}Highest Pollution 
+  {ProximaNovaCond-Medium 8.2 #000000}Tracts (Top 20%
+  {ProximaNovaCond-Medium 8.2 #000000}of Tracts)
+[B 233,580,285,607]
+  {ProximaNovaCond-Medium 8.2 #000000}Lowest Pollution
+  {ProximaNovaCond-Medium 8.2 #000000}Tracts (Bottom 
+  {ProximaNovaCond-Medium 8.2 #000000}20% of Tracts)
+[B 325,635,494,645]
+  {ProximaNova-RegularIt 7.7 #000000}Source: Chicago Region Trees Initiative; Year: 2017
+[B 323,403,559,416]
+  {ProximaNova-Semibold 9.2 #000000}Racial composition in highest and lowest tree cover tracts
+[B 342,426,543,437]
+  {ProximaNovaCond-Semibold 8.2 #000000}Latinx
+  {ProximaNovaCond-Semibold 8.2 #000000}White
+  {ProximaNovaCond-Semibold 8.2 #000000}Black
+  {ProximaNovaCond-Semibold 8.2 #000000}Asian
+[B 325,588,384,607]
+  {ProximaNovaCond-Medium 8.2 #000000}City of Chicago
+  {ProximaNovaCond-Medium 8.2 #000000}Racial Composition
+[B 428,577,479,605]
+  {ProximaNovaCond-Medium 8.2 #000000}Highest Tree
+  {ProximaNovaCond-Medium 8.2 #000000}Cover Tracts 
+  {ProximaNovaCond-Medium 8.2 #000000}(25%+ coverage)
+[B 508,577,555,613]
+  {ProximaNovaCond-Medium 8.2 #000000}Lowest Tree
+  {ProximaNovaCond-Medium 8.2 #000000}Cover Tracts 
+  {ProximaNovaCond-Medium 8.2 #000000}(Less than 10% 
+  {ProximaNovaCond-Medium 8.2 #000000}coverage)
+[B 333,555,556,565]
+  {ProximaNovaCond-Semibold 7.7 #2e5754}7%
+  {ProximaNovaCond-Semibold 7.7 #64676b}16%
+  {ProximaNovaCond-Semibold 7.7 #2e5754}36%
+  {ProximaNovaCond-Semibold 7.7 #64676b}15%
+  {ProximaNovaCond-Semibold 7.7 #2e5754}37%
+  {ProximaNovaCond-Semibold 7.7 #64676b}41%
+  {ProximaNovaCond-Semibold 7.7 #2e5754}16%
+  {ProximaNovaCond-Semibold 7.7 #64676b}24%

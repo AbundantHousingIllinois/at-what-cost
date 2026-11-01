@@ -1,0 +1,87 @@
+=== mpc PDF page 57 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    55
+[IMAGE 51,753,150,767]
+[B 49,42,350,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Appendix: Engagement methodology 
+[B 49,82,561,131]
+  {ProximaNova-Regular 9.0 #000000}The Assessment was designed as a stakeholder-guided research project. MPC gathered a wide range of decision-makers, thought 
+  {ProximaNova-Regular 9.0 #000000}leaders, and community organizations to learn and problem-solve together. This appendix provides more detail on the engagement 
+  {ProximaNova-Regular 9.0 #000000}conducted over the course of the Assessment. It includes an engagement timeline, example activities MPC used to share 
+  {ProximaNova-Regular 9.0 #000000}information and seek feedback, and a discussion of how MPC documented and synthesized feedback.
+[B 58,153,258,193]
+  {ProximaNova-Bold 11.0 #000000}Vision Statement created by Community 
+  {ProximaNova-Bold 11.0 #000000}Advisory Group to guide development of 
+  {ProximaNova-Bold 11.0 #000000}zoning resource
+[B 58,206,285,517]
+  {ProximaNova-Regular 12.0 #4e5154}“We want to see access to nature in our 
+  {ProximaNova-Regular 12.0 #4e5154}neighborhoods—trees and plants, an open, 
+  {ProximaNova-Regular 12.0 #4e5154}public riverfront, parks, and healthy air. We 
+  {ProximaNova-Regular 12.0 #4e5154}want to walk down safe and accessible 
+  {ProximaNova-Regular 12.0 #4e5154}streets that are friendly for pedestrians, 
+  {ProximaNova-Regular 12.0 #4e5154}bicyclists, children, and people of all ages 
+  {ProximaNova-Regular 12.0 #4e5154}and abilities. We want the places we live 
+  {ProximaNova-Regular 12.0 #4e5154}and work to feel welcoming and active, 
+  {ProximaNova-Regular 12.0 #4e5154}with affordable housing options that 
+  {ProximaNova-Regular 12.0 #4e5154}prevent displacement, do not compete with 
+  {ProximaNova-Regular 12.0 #4e5154}sustainability needs, and neighborhoods 
+  {ProximaNova-Regular 12.0 #4e5154}of a sufficient density to avoid sprawl. We 
+  {ProximaNova-Regular 12.0 #4e5154}want consistent and reliable transit access, 
+  {ProximaNova-Regular 12.0 #4e5154}fresh food and clean water, cultural events, 
+  {ProximaNova-Regular 12.0 #4e5154}schools, and a variety of small businesses 
+  {ProximaNova-Regular 12.0 #4e5154}that serve the community. We aspire to have 
+  {ProximaNova-Regular 12.0 #4e5154}people of all ages spending time out and 
+  {ProximaNova-Regular 12.0 #4e5154}about, in clean spaces filled with uses that 
+  {ProximaNova-Regular 12.0 #4e5154}meet community needs. Finally, we envision 
+  {ProximaNova-Regular 12.0 #4e5154}a community that is resilient and adaptive 
+  {ProximaNova-Regular 12.0 #4e5154}to changing climate, social, and economic 
+  {ProximaNova-Regular 12.0 #4e5154}conditions.”
+[B 312,142,547,170]
+  {ProximaNova-Bold 11.0 #000000}Participating Steering Committee (SC) and 
+  {ProximaNova-Bold 11.0 #000000}Community Advisory Group (CAG) organizations
+[B 312,180,562,721]
+  {ProximaNova-Regular 9.0 #000000}Acosta Ezgur LLC (SC)
+  {ProximaNova-Regular 9.0 #000000}Alliance for the Great Lakes (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}Alliance of the Southeast – ASE (CAG)
+  {ProximaNova-Regular 9.0 #000000}Austin Coming Together (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}Bickerdike (CAG)
+  {ProximaNova-Regular 9.0 #000000}Calumet Collaborative (CAG)
+  {ProximaNova-Regular 9.0 #000000}Carter Temple Community Development Corporation (CAG)
+  {ProximaNova-Regular 9.0 #000000}Chicago Community Trust (SC)
+  {ProximaNova-Regular 9.0 #000000}Chicago Lawyers' Committee for Civil Rights (SC)
+  {ProximaNova-Regular 9.0 #000000}Chinese Mutual Aid Association (CAG)
+  {ProximaNova-Regular 9.0 #000000}Chicago Department of Buildings (SC)
+  {ProximaNova-Regular 9.0 #000000}Chicago Department of Environment (SC)
+  {ProximaNova-Regular 9.0 #000000}Chicago Department of Housing (SC)
+  {ProximaNova-Regular 9.0 #000000}Chicago Department of Planning and Development (SC)
+  {ProximaNova-Regular 9.0 #000000}Chicago Department of Public Health (SC)
+  {ProximaNova-Regular 9.0 #000000}Chicago Department of Transportation (SC)
+  {ProximaNova-Regular 9.0 #000000}Mayor's Office – BEND (SC)
+  {ProximaNova-Regular 9.0 #000000}Mayor’s Office – OERJ (SC)
+  {ProximaNova-Regular 9.0 #000000}Mayor’s Office – Policy (SC)
+  {ProximaNova-Regular 9.0 #000000}Communities United (CAG)
+  {ProximaNova-Regular 9.0 #000000}DL3 Realty (SC)
+  {ProximaNova-Regular 9.0 #000000}Egret and Ox (CAG)
+  {ProximaNova-Regular 9.0 #000000}Far South Community Development Corporation (CAG)
+  {ProximaNova-Regular 9.0 #000000}Folded Map Project (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}Friends of the Parks (CAG)
+  {ProximaNova-Regular 9.0 #000000}Future Firm (SC)
+  {ProximaNova-Regular 9.0 #000000}Greater Englewood Chamber of Commerce (CAG)
+  {ProximaNova-Regular 9.0 #000000}Grow Greater Englewood (CAG)
+  {ProximaNova-Regular 9.0 #000000}IFF (CAG) 
+  {ProximaNova-Regular 9.0 #000000}McKinley Park Development Council (CAG)
+  {ProximaNova-Regular 9.0 #000000}Muse Community Design (CAG)
+  {ProximaNova-Regular 9.0 #000000}Near North Unity Program (CAG)
+  {ProximaNova-Regular 9.0 #000000}Neighbors for EJ (CAG)
+  {ProximaNova-Regular 9.0 #000000}Northwest Side Community Development Corporation (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}ONE Northside (CAG)
+  {ProximaNova-Regular 9.0 #000000}Palenque LSNA (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}Perkins&Will (CAG)
+  {ProximaNova-Regular 9.0 #000000}Related Midwest (SC)
+  {ProximaNova-Regular 9.0 #000000}Rogers Park Business Alliance (CAG)
+  {ProximaNova-Regular 9.0 #000000}Taft Law (SC)
+  {ProximaNova-Regular 9.0 #000000}Tishman Speyer (SC)
+  {ProximaNova-Regular 9.0 #000000}UIC Institute for Research on Race and Public Policy (SC)
+  {ProximaNova-Regular 9.0 #000000}Urban Growers Collective (CAG)
+  {ProximaNova-Regular 9.0 #000000}1st Ward (SC)
+  {ProximaNova-Regular 9.0 #000000}35th Ward (SC)

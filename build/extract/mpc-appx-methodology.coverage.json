@@ -1,0 +1,19 @@
+{
+  "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+  "pages": [42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56],
+  "figures_placed": [],
+  "footnotes": [],
+  "notes": [
+    "Tables: 'Data files' = 64 body rows (PDF 44–47, header repeated on each page, emitted once); 'Geographic shapefiles and layers' = 10 rows; 'RESPONSIVE: URBAN SERVICES INDEX' = 23 rows (Education 6, Transportation 9, Neighborhood Amenities 8), category cells as <th rowspan> plus data-category on every <tr>; empty Radius cells kept empty.",
+    "Data tables extracted by cell grid (PDF ruling lines) with PyMuPDF and checked against page images. The two big tables have no <caption>; they are labelled by their h4 headings via aria-labelledby (ids data-files, geographic-layers) to avoid duplicating the heading.",
+    "Heading levels (judgment): 'Notes on outcome analyses' and 'Notes on additional analyses' are printed at the same size as the appendix title but made h3 per brief; 15pt outcome names and 'Data files' → h4; bold 11pt 'Longitudinal zoning data', 'Additional longitudinal variables', 'Geographic shapefiles and layers' → h4; all-caps 9pt 'ESTABLISHING COMMON GEOGRAPHIES…' and 'THE EXCLUSION OF PLANNED DEVELOPMENTS' → h5. 'Part 1 (Groceries)' / 'Part 2 (Healthcare)' kept inside the h4 as <strong class=\"h-sub\"> (printed bold on a second line).",
+    "Added ids on h3s: methodology-scope, methodology-data, methodology-outcomes, methodology-additional.",
+    "Internal link 'page 6' (→ internal PDF page 8) mapped to #how-conducted (best guess).",
+    "USI table placed inside the 'Creating an Urban Services Index (Infrastructure)' list item; the following 'o' items (Density Score with ■ sub-bullets, Building Space, Developable Land) continue the same nested list, as printed. Density Score/Building Space/Developable Land labels are italic (not bold) as printed.",
+    "Page markers that fall between list items were placed at the start of the next <li> to keep HTML valid.",
+    "Typos kept with <!-- sic -->: 'World Lnaguage' (Data files, p46; USI table p55 correctly says 'World Language'), 'Associates, Inc.mp' (p47 layers table), 'National Center for Education Stat' (p46), missing ')' in 'Food Access (Percentage … large grocery store' (p45), 'High-way On-Ramp' (p46; p55 has 'Highway On-Ramp'), 'Are there zones consistently do not have' (p50 and p51), 'Low Infrastructure Low-Density' (p56).",
+    "Kept as printed without sic: 'Understand the outcome:' vs 'Understanding the zoning:'; 'Primary dependent variables</strong>:' colon outside bold (p48); 'Education (6 Points)' vs '(6 points)'; 'Business Corridors' heading (vs 'Strong Business Corridors' elsewhere); Steering Committee definition ending with period only in Part 2 (Healthcare); unclosed parenthesis '(CMAP’s urban flood susceptibility index combined with…' (p53); 'seven priority outcomes' (p42) vs '13 priority outcomes' (p58) not reconciled; 'For example, A built space ratio'; 'in near transit stations'; 'Pearsons correlations'; 'business of commercial zoning'.",
+    "PyMuPDF spacing artifacts normalized (not typos): 'U. S.'→'U.S.', 'e. g.'→'e.g.', 'i. e. ,'→'i.e.,', 'etc. )'→'etc.)', 'PM 2. 5'→'PM 2.5', 'pm2. 5'→'pm2.5', '1. 25'→'1.25', 'selected. )'→'selected.)'.",
+    "Line-break hyphens: '2019-\\n2023' in Data Year(s) joined as '2019-2023' (real range hyphen)."
+  ]
+}

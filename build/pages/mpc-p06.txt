@@ -1,0 +1,195 @@
+=== mpc PDF page 6 (w=612 h=792) ===
+[B 371,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    4
+[IMAGE 51,753,150,767]
+[B 49,67,51,80]
+  {ProximaNova-Bold 9.0 #000000}	
+[IMAGE 74,41,108,75]
+[B 109,67,115,80]
+  {ProximaNova-Bold 9.0 #000000}  	
+[IMAGE 154,40,192,79]
+[B 192,67,196,80]
+  {ProximaNova-Bold 9.0 #000000} 	
+[IMAGE 368,41,404,77]
+[B 404,67,406,80]
+  {ProximaNova-Bold 9.0 #000000} 
+[B 49,83,446,96]
+  {ProximaNova-Bold 9.0 #000000}	 THE CHALLENGE 	
+  {ProximaNova-Bold 9.0 #000000}THE VISION	
+  {ProximaNova-Bold 9.0 #000000}POLICY RECOMMENDATIONS
+[IMAGE 82,113,102,133]
+[B 104,117,107,130]
+  {ProximaNova-Bold 9.0 #ffffff} 
+[B 67,141,119,154]
+  {ProximaNova-Bold 9.0 #ffffff}A worsening 
+[B 59,151,127,174]
+  {ProximaNova-Bold 9.0 #ffffff}affordability 
+  {ProximaNova-Bold 9.0 #ffffff}crisis is pinching 
+[B 67,171,119,184]
+  {ProximaNova-Bold 9.0 #ffffff}budgets and 
+[B 68,181,116,204]
+  {ProximaNova-Bold 9.0 #ffffff}displacing 
+  {ProximaNova-Bold 9.0 #ffffff}Chicagoans
+[IMAGE 163,111,188,135]
+[B 190,117,192,130]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 143,142,212,165]
+  {ProximaNova-Regular 9.0 #000000} Make space for 
+  {ProximaNova-Regular 9.0 #000000}more homes that 
+[B 145,162,210,175]
+  {ProximaNova-Regular 9.0 #000000}Chicagoans can 
+[B 157,172,195,198]
+  {ProximaNova-Regular 9.0 #000000}afford
+  {ProximaNova-Regular 9.0 #0000ff}(pp. 10-17)
+[B 227,108,556,240]
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Legalize 4-flats and ADUs citywide: {ProximaNova-Regular 9.0 #000000}At minimum, allow housing types with up to 
+  {ProximaNova-Regular 9.0 #000000}four units by-right and additional dwelling units (ADUs) in all residential areas.
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Legalize 6 stories near transit: {ProximaNova-Regular 9.0 #000000}At minimum, allow apartment buildings with up to 
+  {ProximaNova-Regular 9.0 #000000}6 stories by-right near rail stations and the most frequent and highest-volume bus 
+  {ProximaNova-Regular 9.0 #000000}lines. 
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Decrease reliance on Planned Developments for multifamily construction: 
+  {ProximaNova-Regular 9.0 #000000}Right-size thresholds for Planned Developments so more multifamily housing can 
+  {ProximaNova-Regular 9.0 #000000}be built by-right.
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Use zoning tools to promote deep affordability: {ProximaNova-Regular 9.0 #000000}Prioritize and incentivize 
+  {ProximaNova-Regular 9.0 #000000}affordable housing (fast-track zoning approvals for affordable development, 
+  {ProximaNova-Regular 9.0 #000000}prohibit reactive downzoning, and protect against the loss of naturally affordable 
+  {ProximaNova-Regular 9.0 #000000}units).
+[IMAGE 82,257,102,277]
+[B 104,262,109,275]
+  {ProximaNova-Bold 9.0 #ffffff}  
+[B 60,286,126,309]
+  {ProximaNova-Bold 9.0 #ffffff}Jobs and 
+  {ProximaNova-Bold 9.0 #ffffff}business vitality 
+[B 62,306,124,319]
+  {ProximaNova-Bold 9.0 #ffffff}are inequitably 
+[B 70,316,114,329]
+  {ProximaNova-Bold 9.0 #ffffff}distributed
+[IMAGE 163,255,188,279]
+[B 190,262,192,274]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 143,286,212,299]
+  {ProximaNova-Regular 9.0 #000000}Clear the way for 
+[B 148,296,207,309]
+  {ProximaNova-Regular 9.0 #000000}vibrant, livable 
+[B 151,306,201,319]
+  {ProximaNova-Regular 9.0 #000000}communities
+[B 156,319,196,332]
+  {ProximaNova-Regular 9.0 #0000ff}(pp. 18-20)
+[B 227,252,544,351]
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Zone for a dynamic mix of uses near transit: {ProximaNova-Regular 9.0 #000000}Allow more opportunities for 
+  {ProximaNova-Regular 9.0 #000000}Chicagoans to live, work, and visit places near transit, especially in areas with 
+  {ProximaNova-Regular 9.0 #000000}fewer jobs and/or higher vacancy rates.
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Expand pedestrian streets near transit: {ProximaNova-Regular 9.0 #000000}Standardize the use of the pedestrian 
+  {ProximaNova-Regular 9.0 #000000}street designation near transit and modernize pedestrian street eligibility and 
+  {ProximaNova-Regular 9.0 #000000}standards. 
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Bring small-scale business into neighborhoods: {ProximaNova-Regular 9.0 #000000}Increase the types of 
+  {ProximaNova-Regular 9.0 #000000}businesses allowed in residential neighborhoods, like home-based and small-
+  {ProximaNova-Regular 9.0 #000000}scale businesses.
+[IMAGE 82,369,102,389]
+[B 104,374,109,387]
+  {ProximaNova-Bold 9.0 #ffffff}  
+[B 63,397,123,450]
+  {ProximaNova-Bold 9.0 #ffffff}Too many 
+  {ProximaNova-Bold 9.0 #ffffff}Chicagoans 
+  {ProximaNova-Bold 9.0 #ffffff}are exposed 
+  {ProximaNova-Bold 9.0 #ffffff}to unhealthy 
+  {ProximaNova-Bold 9.0 #ffffff}pollutants and 
+[B 60,447,126,470]
+  {ProximaNova-Bold 9.0 #ffffff}vulnerable to 
+  {ProximaNova-Bold 9.0 #ffffff}climate impacts{ProximaNova-Regular 9.0 #ffffff} 
+[IMAGE 163,367,188,391]
+[B 190,374,192,386]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 140,398,215,421]
+  {ProximaNova-Regular 9.0 #000000}Integrate healthy 
+  {ProximaNova-Regular 9.0 #000000}air, water, and land 
+[B 141,418,212,441]
+  {ProximaNova-Regular 9.0 #000000}into zoning and 
+  {ProximaNova-Regular 9.0 #000000}land use practices
+[B 156,441,196,454]
+  {ProximaNova-Regular 9.0 #0000ff}(pp. 21-26)
+[B 227,365,555,506]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Update zoning for modern industry: {ProximaNova-Regular 9.0 #000000}Re-classify manufacturing and industrial 
+  {ProximaNova-Regular 9.0 #000000}uses based on measurable benefits and harms—such as jobs, pollution, 
+  {ProximaNova-Regular 9.0 #000000}environmental impacts, and public health impacts—to encourage low-impact, job-
+  {ProximaNova-Regular 9.0 #000000}dense industry.
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Protect overburdened communities from cumulative impacts: {ProximaNova-Regular 9.0 #000000}Require a holistic 
+  {ProximaNova-Regular 9.0 #000000}review of the expected health and quality-of-life impacts of all proposed intensive 
+  {ProximaNova-Regular 9.0 #000000}industrial facilities. 
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Leverage unbuilt land for permeable surfaces: {ProximaNova-Regular 9.0 #000000}Use zoning to ensure unbuilt 
+  {ProximaNova-Regular 9.0 #000000}land helps counter flood and heat risk, by requiring or incentivizing permeable 
+  {ProximaNova-Regular 9.0 #000000}surfaces and green infrastructure in setbacks open space, parkways, and parking 
+  {ProximaNova-Regular 9.0 #000000}lots.
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Target climate-vulnerable areas for mitigation strategies:{ProximaNova-Regular 9.0 #000000} Prioritize communities 
+  {ProximaNova-Regular 9.0 #000000}most vulnerable to heat and flooding for more green space and remediation.
+[IMAGE 82,523,102,543]
+[B 104,528,109,541]
+  {ProximaNova-Bold 9.0 #ffffff}  
+[B 62,551,124,574]
+  {ProximaNova-Bold 9.0 #ffffff}Zoning and 
+  {ProximaNova-Bold 9.0 #ffffff}land use policy 
+[B 63,571,123,584]
+  {ProximaNova-Bold 9.0 #ffffff}is opaque and 
+[B 71,581,115,594]
+  {ProximaNova-Bold 9.0 #ffffff}difficult to 
+[B 74,591,112,604]
+  {ProximaNova-Bold 9.0 #ffffff}navigate{ProximaNova-Regular 9.0 #ffffff} 
+[IMAGE 163,521,188,546]
+[B 190,528,192,541]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 142,552,213,575]
+  {ProximaNova-Regular 9.0 #000000}Clarify and 
+  {ProximaNova-Regular 9.0 #000000}streamline zoning 
+[B 152,572,203,585]
+  {ProximaNova-Regular 9.0 #000000}process and 
+[B 155,582,197,608]
+  {ProximaNova-Regular 9.0 #000000}categories
+  {ProximaNova-Regular 9.0 #0000ff}(pp. 27-29)
+[B 227,519,553,630]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Modernize special uses: {ProximaNova-Regular 9.0 #000000}Allow most current special use categories by-right, with 
+  {ProximaNova-Regular 9.0 #000000}accompanying use standards. Require Zoning Board of Appeals (ZBA) review 
+  {ProximaNova-Regular 9.0 #000000}only for uses with likely impacts on health and safety. 
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Reassess other zoning relief categories: {ProximaNova-Regular 9.0 #000000}Conduct a review of variation and 
+  {ProximaNova-Regular 9.0 #000000}administrative adjustment requests to determine zoning code updates. 
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Centralize information about zoning: {ProximaNova-Regular 9.0 #000000}Provide a central hub for plain-language 
+  {ProximaNova-Regular 9.0 #000000}materials around zoning standards and processes, prioritizing information that 
+  {ProximaNova-Regular 9.0 #000000}facilitates housing and small business development.
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Close zoning data gaps:{ProximaNova-Regular 9.0 #000000} Standardize and publicize data on zoning processes 
+  {ProximaNova-Regular 9.0 #000000}and outcomes.
+[IMAGE 82,647,102,667]
+[B 104,652,109,665]
+  {ProximaNova-Bold 9.0 #ffffff}  
+[B 54,671,132,684]
+  {ProximaNova-Bold 9.0 #ffffff}Proactive planning 
+[B 58,681,128,694]
+  {ProximaNova-Bold 9.0 #ffffff}is piecemeal and 
+[B 62,691,124,704]
+  {ProximaNova-Bold 9.0 #ffffff}focused on the 
+[B 63,701,123,714]
+  {ProximaNova-Bold 9.0 #ffffff}neighborhood 
+[B 82,711,101,724]
+  {ProximaNova-Bold 9.0 #ffffff}level
+[IMAGE 163,645,188,670]
+[B 190,652,192,665]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 150,671,205,684]
+  {ProximaNova-Bold 9.0 #000000} {ProximaNova-Regular 9.0 #000000}Tie zoning to 
+[B 142,681,213,704]
+  {ProximaNova-Regular 9.0 #000000}foundational 
+  {ProximaNova-Regular 9.0 #000000}citywide planning 
+[B 143,701,210,714]
+  {ProximaNova-Regular 9.0 #000000}and engagement
+[B 156,714,196,727]
+  {ProximaNova-Regular 9.0 #0000ff}(pp. 30-31)
+[B 227,643,553,698]
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Periodically update zoning to align with a planning vision{ProximaNova-Regular 9.0 #000000}: Require regular 
+  {ProximaNova-Regular 9.0 #000000}reviews of the zoning code and map based on comprehensive citywide planning 
+  {ProximaNova-Regular 9.0 #000000}that meaningfully engages the public.
+  {ProximaNova-Regular 9.0 #000000}•	 {ProximaNova-Bold 9.0 #000000}Improve public input processes:{ProximaNova-Regular 9.0 #000000} Create a more standardized, transparent, and 
+  {ProximaNova-Regular 9.0 #000000}equitable public input process on land use.
+--- LINKS ---
+  [(pp. 10-17)] -> internal page 12
+  [(pp. 18-20)] -> internal page 20
+  [(pp. 21-26)] -> internal page 23
+  [(pp. 27-29)] -> internal page 29
+  [(pp. 30-31)] -> internal page 32

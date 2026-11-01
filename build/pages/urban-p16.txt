@@ -1,0 +1,82 @@
+=== urban PDF page 16 (w=612 h=792) ===
+[B 46,36,172,57]
+  {FuturaPTWeb-Light 17.8 #000000}ABOUT THE DATA
+[B 46,73,547,87]
+  {Lato-Regular 11.5 #353535}This analysis combines parcel-level data from the Cook County Assessor, the City of Chicago, and our
+[B 46,91,554,121]
+  {Lato-Regular 11.5 #353535}research partners at the Chicago Metropolitan Planning Council—including panel zoning data, building
+  {Lato-Regular 11.5 #353535}permits, building footprints, and transit access—with census tract characteristics from the American
+[B 46,124,144,138]
+  {Lato-Regular 11.5 #353535}Community Survey.
+[B 46,152,565,166]
+  {Lato-Regular 11.5 #353535}To analyze housing development from 2011 to 2025, we examine parcels where residential development
+[B 46,169,543,183]
+  {Lato-Regular 11.5 #353535}was allowed by right. We estimate each parcel’s zoned housing capacity and use a two-stage Poisson
+[B 46,187,550,200]
+  {Lato-Regular 11.5 #353535}hurdle regression model. For parcels that underwent planned development reforms (i.e., a custom site
+[B 46,204,565,218]
+  {Lato-Regular 11.5 #353535}plan that bypasses zoning requirements through negotiations with the city) in this timeframe, we assume
+[B 46,221,553,235]
+  {Lato-Regular 11.5 #353535}that by-right development is equivalent to each planned development’s final underlying zoning district
+[B 46,238,538,252]
+  {Lato-Regular 11.5 #353535}(as available). {Lato-Regular 11.5 #1696d2}Between 2006 and 2024, more than 60 percent of all multifamily development was in
+[B 46,256,542,269]
+  {Lato-Regular 11.5 #1696d2}planned developments. {Lato-Regular 8.6 #1696d2}(https://metroplanning.org/affordable-housing-outcome-part-2-of-2/){Lato-Regular 11.5 #353535}Our approach is limited
+[B 46,273,552,303]
+  {Lato-Regular 11.5 #353535}because we do not have data on all planned development projects and thus exclude about half of these
+  {Lato-Regular 11.5 #353535}projects from our analysis. This also means a large share of the by-right permits we evaluate are on
+[B 46,307,373,320]
+  {Lato-Regular 11.5 #353535}parcels that underwent planned development changes in the past.
+[B 46,334,550,348]
+  {Lato-Regular 11.5 #353535}Using this data, we estimate the likelihood that a parcel received a housing permit based on its zoning,
+[B 46,352,532,365]
+  {Lato-Regular 11.5 #353535}land value, and neighborhood characteristics. Then, we estimate the number of units permitted on
+[B 46,369,558,383]
+  {Lato-Regular 11.5 #353535}parcels where development occurred. We applied these relationships to 2026 parcel and neighborhood
+[B 46,386,560,400]
+  {Lato-Regular 11.5 #353535}conditions to construct a 2041 baseline and then model how permitting could change under four zoning
+[B 46,403,566,417]
+  {Lato-Regular 11.5 #353535}reforms that would allow triplexes, four-to-nine-unit buildings, and higher-density housing near frequent
+[B 46,421,551,434]
+  {Lato-Regular 11.5 #353535}transit. We assume that the baseline level of development in the next 15 years is the same as that over
+[B 46,438,134,452]
+  {Lato-Regular 11.5 #353535}the past 15 years.
+[B 46,465,530,479]
+  {Lato-Regular 11.5 #353535}For the ADU analysis, we link ADU permits issued from 2021 to 2025 to parcel and neighborhood
+[B 46,482,544,496]
+  {Lato-Regular 11.5 #353535}characteristics and estimate a logistic regression for eligible parcels in Chicago’s pilot areas. We then
+[B 46,499,539,513]
+  {Lato-Regular 11.5 #353535}sum parcel-level predicted probabilities and the geographic variation across pilot areas that did and
+[B 46,517,545,530]
+  {Lato-Regular 11.5 #353535}didn’t require owner occupancy to estimate how many ADUs might have been permitted without the
+[B 46,534,551,548]
+  {Lato-Regular 11.5 #353535}owner-occupancy requirements. Finally, we apply the model to eligible low-density residential parcels
+[B 46,551,315,565]
+  {Lato-Regular 11.5 #353535}outside the pilot areas to simulate a citywide program.
+[B 46,578,556,592]
+  {Lato-Regular 11.5 #353535}These scenarios illustrate how permitting might differ under alternative policies. They remain sensitive
+[B 46,595,274,609]
+  {Lato-Regular 11.5 #353535}to future market and demographic conditions.
+[B 46,613,48,626]
+  {Lato-Regular 11.5 #353535} 
+[B 46,640,548,651]
+  {Lato-Italic 8.9 #353535}This research, done in partnership with the Chicago's Metropolitan Planning Council, was made possible by the generous support of Chicago
+[B 46,653,540,677]
+  {Lato-Italic 8.9 #353535}Community Trust, Robert Wood Johnson Foundation, John D. and Catherine T. MacArthur Foundation, Robert R. McCormick Foundation,
+  {Lato-Italic 8.9 #353535}Walder Foundation, U.S. Bank, Regional Plan Association, PNC Foundation, Peoples Gas Community Fund at the Chicago Community
+[B 46,680,308,690]
+  {Lato-Italic 8.9 #353535}Foundation, Bowman C. Lingle Trust, and the Conant Family Foundation.
+[B 46,704,543,714]
+  {Lato-Italic 8.9 #353535}We are grateful to all our partners and funders, who make it possible for Urban to advance its mission. The views expressed are those of the
+[B 46,717,563,741]
+  {Lato-Italic 8.9 #353535}authors and should not be attributed to the Urban Institute, Metropolitan Planning Council, or either organization’s trustees, project advisors, or
+  {Lato-Italic 8.9 #353535}funders. Funders do not determine research findings or the insights and recommendations of Urban experts. Further information on the Urban
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}16/17
+--- LINKS ---
+  [Between 2006 and 2024, more than 60 percent of all multifamily development was in] -> https://metroplanning.org/affordable-housing-outcome-part-2-of-2/
+  [planned developments. (https://metroplanning.org/affordable-housing-outcome-part-2-of-2/)] -> https://metroplanning.org/affordable-housing-outcome-part-2-of-2/

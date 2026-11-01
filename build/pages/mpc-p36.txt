@@ -1,0 +1,58 @@
+=== mpc PDF page 36 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    34
+[IMAGE 51,753,150,767]
+[B 49,46,152,59]
+  {ProximaNova-Bold 9.0 #000000}Cumulative Density Score
+[B 59,325,129,333]
+  {Arial-BoldMT 5.7 #000000}Cumulative Density Score
+[B 73,335,102,343]
+  {ArialMT 5.7 #000000}1st Quartile
+[B 73,345,104,353]
+  {ArialMT 5.7 #000000}2nd Quartile
+[B 73,355,103,363]
+  {ArialMT 5.7 #000000}3rd Quartile
+[B 73,366,103,373]
+  {ArialMT 5.7 #000000}4th Quartile
+[IMAGE 49,406,62,420]
+[B 49,403,301,536]
+  {ProximaNova-Extrabld 9.0 #6a2310}There are dense places across the city, but the most 
+  {ProximaNova-Extrabld 9.0 #6a2310}dense places are in and near downtown and the North 
+  {ProximaNova-Extrabld 9.0 #6a2310}side. {ProximaNova-Regular 9.0 #000000}While dense areas exist across the city, density—measured 
+  {ProximaNova-Regular 9.0 #000000}through MPC’s Density Index, which captured population, job, 
+  {ProximaNova-Regular 9.0 #000000}and built-space density—is heavily concentrated near the urban 
+  {ProximaNova-Regular 9.0 #000000}core: roughly two-thirds of Chicago's densest areas are located 
+  {ProximaNova-Regular 9.0 #000000}downtown and on the North side. Not only do the Central and 
+  {ProximaNova-Regular 9.0 #000000}North regions contain the city's most dense areas, but the dense 
+  {ProximaNova-Regular 9.0 #000000}areas within these regions also have greater population, job, 
+  {ProximaNova-Regular 9.0 #000000}and built-space density than dense areas located in other 
+  {ProximaNova-Regular 9.0 #000000}regions of the city. 
+[B 312,46,445,59]
+  {ProximaNova-Bold 9.0 #000000}Infrastructure-Density Typologies
+[B 336,371,429,379]
+  {ArialMT 5.7 #000000}Low Infrastructure, Moderate Density
+[B 336,362,429,369]
+  {ArialMT 5.7 #000000}Moderate Infrastructure, Low Density
+[B 336,352,416,360]
+  {ArialMT 5.7 #000000}Low Infrastructure, Low Density
+[B 324,333,430,351]
+  {ArialMT 5.7 #000000}High Infrastructure, High Density
+  {ArialMT 7.3 #000000}Infrastructure-Density Typologies
+[IMAGE 312,406,326,420]
+[B 312,403,564,488]
+  {ProximaNova-Extrabld 9.0 #6a2310}Chicago’s densest areas have a significant amount of 
+  {ProximaNova-Extrabld 9.0 #6a2310}low-density zoning.{ProximaNova-Regular 9.0 #000000} For places in Chicago with the 
+  {ProximaNova-Regular 9.0 #000000}highest levels of infrastructure and density, nearly one-third of 
+  {ProximaNova-Regular 9.0 #000000}land is zoned for low-density residential uses. This compares to 
+  {ProximaNova-Regular 9.0 #000000}15% of New York City zoned for single family residential, or 0% in 
+  {ProximaNova-Regular 9.0 #000000}Portland. Our areas of existing infrastructural strength offers 
+  {ProximaNova-Regular 9.0 #000000}opportunities to support greater housing supply . 
+[IMAGE 312,499,326,513]
+[B 312,496,564,581]
+  {ProximaNova-Extrabld 9.0 #6a2310}A significant portion of the city has more infrastructure 
+  {ProximaNova-Extrabld 9.0 #6a2310}than density. {ProximaNova-Regular 9.0 #000000}Areas classified as {ProximaNova-Bold 9.0 #000000}Moderate Infrastructure 
+  {ProximaNova-Bold 9.0 #000000}and Low Density{ProximaNova-Regular 9.0 #000000} comprise nearly 15% of Chicago. These are 
+  {ProximaNova-Regular 9.0 #000000}communities located largely across the West, Southwest, and 
+  {ProximaNova-Regular 9.0 #000000}Southeast sides, which have infrastructure to support more 
+  {ProximaNova-Regular 9.0 #000000}people working, living, and visiting. Gentle increases in density 
+  {ProximaNova-Regular 9.0 #000000}would support growth in these communities. 

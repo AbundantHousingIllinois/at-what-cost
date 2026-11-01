@@ -1,0 +1,39 @@
+=== urban PDF page 8 (w=612 h=792) ===
+[B 46,37,534,51]
+  {Lato-Regular 11.5 #353535}Still, these estimates show how permitting and development patterns could be distributed without
+[B 46,55,268,68]
+  {Lato-Regular 11.5 #353535}significant policy or investment intervention.
+[B 46,91,552,158]
+  {FuturaPTWeb-Heavy 17.8 #000000}Legalizing small-scale apartment buildings and upzoning
+  {FuturaPTWeb-Heavy 17.8 #000000}around transit stations could add 5 to 11 percent more housing,
+  {FuturaPTWeb-Heavy 17.8 #000000}compared with the baseline, by 2041
+[B 46,174,525,188]
+  {Lato-Regular 11.5 #353535}To understand how policymakers in Chicago could boost housing supply and affordability, we use
+[B 46,191,510,205]
+  {Lato-Regular 11.5 #353535}Urban’s Housing Market Forecaster to see how zoning reforms in other cities (such as Boston,
+[B 46,208,529,222]
+  {Lato-Regular 11.5 #353535}Massachusetts; Minneapolis, Minnesota; Portland, Oregon; and Seattle, Washington) could affect
+[B 46,226,206,239]
+  {Lato-Regular 11.5 #353535}Chicago’s housing development.
+[B 46,253,179,266]
+  {Lato-Regular 11.5 #353535}We examine the effects of:
+[B 50,280,532,294]
+  {Lato-Regular 11.5 #353535}1. allowing duplexes and triplexes on parcels that are currently exclusively zoned for single-family
+[B 61,298,184,311]
+  {Lato-Regular 11.5 #353535}residential construction;
+[B 50,325,534,338]
+  {Lato-Regular 11.5 #353535}2. small apartment buildings (four to nine units) on parcels that are currently exclusively zoned for
+[B 61,342,250,356]
+  {Lato-Regular 11.5 #353535}single-family residential construction;
+[B 50,370,539,383]
+  {Lato-Regular 11.5 #353535}3. enabling higher-density multifamily buildings within one-quarter mile of an L, Metra, or frequent
+[B 61,387,271,401]
+  {Lato-Regular 11.5 #353535}Chicago Transit Authority bus station; and
+[B 50,414,197,428]
+  {Lato-Regular 11.5 #353535}4. combining reforms 2 and 3.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}8/17

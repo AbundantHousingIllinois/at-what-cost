@@ -1,0 +1,76 @@
+=== urban PDF page 15 (w=612 h=792) ===
+[B 46,37,565,51]
+  {Lato-Regular 11.5 #353535}We then estimated how ADU permitting could have changed had the city removed the owner-occupancy
+[B 46,55,517,68]
+  {Lato-Regular 11.5 #353535}rules in some of the city’s pilot areas. We found this change could have increased the number of
+[B 46,72,552,86]
+  {Lato-Regular 11.5 #353535}permitted ADUs by about 30 percent, resulting in about 100 additional units between 2021 and 2025.
+[B 46,99,549,113]
+  {Lato-Regular 11.5 #353535}If the pilot had allowed ADUs to be built throughout Chicago, without any owner-occupancy rules, we
+[B 46,116,559,130]
+  {Lato-Regular 11.5 #353535}estimate that the city could have permitted about 860 additional ADUs over the four years for a total of
+[B 46,133,429,147]
+  {Lato-Regular 11.5 #353535}1,203 ADUS—or 3.5 times the number of ADUs that were actually permitted.
+[B 46,161,545,175]
+  {Lato-Regular 11.5 #353535}To add more housing to low-density neighborhoods, city leaders could consider removing the owner-
+[B 46,178,549,192]
+  {Lato-Regular 11.5 #353535}occupancy option from the alderpersons’ choice list. They could also consider ADU caps or quotas per
+[B 46,196,276,209]
+  {Lato-Regular 11.5 #353535}ward, rather than the current opt-in structure.
+[B 46,232,551,299]
+  {FuturaPTWeb-Heavy 17.8 #000000}Zoning reforms can help boost housing supply, but other
+  {FuturaPTWeb-Heavy 17.8 #000000}investments are needed to ensure development is spread fairly
+  {FuturaPTWeb-Heavy 17.8 #000000}across the city
+[B 46,315,560,329]
+  {Lato-Regular 11.5 #353535}By-right zoning changes for small-scale apartments and transit-oriented density, plus an expanded ADU
+[B 46,332,371,346]
+  {Lato-Regular 11.5 #353535}policy could meaningfully increase housing permitting in Chicago.
+[B 46,359,564,373]
+  {Lato-Regular 11.5 #353535}According to our model, the city could permit about 97,000 housing units by 2041 (87,500 from baseline
+[B 46,376,547,390]
+  {Lato-Regular 11.5 #353535}development estimates plus 9,500 from the combined zoning reforms) and potentially add thousands
+[B 46,394,302,407]
+  {Lato-Regular 11.5 #353535}more units by liberalizing the city’s new ADU policy.
+[B 46,421,566,434]
+  {Lato-Regular 11.5 #353535}But intentional investment is needed to spread development across the city without displacing residents.
+[B 46,438,564,452]
+  {Lato-Regular 11.5 #353535}Our analysis highlights that zoning reforms alone risk concentrating development in already-advantaged
+[B 46,455,459,469]
+  {Lato-Regular 11.5 #353535}neighborhoods and exacerbating the city’s already polarized investment landscape.
+[B 46,483,555,497]
+  {Lato-Regular 11.5 #353535}To boost housing development across the city, the city council should combine regulatory liberalization
+[B 46,500,519,514]
+  {Lato-Regular 11.5 #353535}with targeted public investment and antidisplacement measures. To spur housing and economic
+[B 46,517,562,531]
+  {Lato-Regular 11.5 #353535}development in neighborhoods that aren’t expected to have much development in the coming years, city
+[B 46,535,565,548]
+  {Lato-Regular 11.5 #353535}leaders could invest in predevelopment work to {Lato-Regular 11.5 #1696d2}clean and green vacant lots{Lato-Regular 8.6 #1696d2} (https://academiccommons.columbia.e
+[B 46,552,564,566]
+  {Lato-Regular 8.6 #1696d2}du/doi/10.7916/D8G17HQ0){Lato-Regular 11.5 #353535}, {Lato-Regular 11.5 #1696d2}offer property tax adjustments,{Lato-Regular 8.6 #1696d2} (https://www.minneapolisfed.org/research/institute-working-pap
+[B 46,569,560,583]
+  {Lato-Regular 8.6 #1696d2}ers/the-assessment-gap-racial-inequalities-in-property-taxation){Lato-Regular 11.5 #1696d2}expand homeownership and wealth-building programs
+[B 46,586,564,600]
+  {Lato-Regular 8.6 #1696d2}(https://www.chicago.gov/city/en/depts/doh/provdrs/homebuyers.html){Lato-Regular 11.5 #353535}, {Lato-Regular 11.5 #1696d2}strengthen community land trusts{Lato-Regular 8.6 #1696d2} (https://groundedso
+[B 46,603,544,617]
+  {Lato-Regular 8.6 #1696d2}lutions.org/strengthening-neighborhoods/community-land-trusts/){Lato-Regular 11.5 #353535}, or strengthen {Lato-Regular 11.5 #1696d2}local investment programs to build
+[B 46,620,283,634]
+  {Lato-Regular 11.5 #1696d2}wealth among current residents{Lato-Regular 8.6 #1696d2} (https://ccwbe.org/){Lato-Regular 11.5 #353535}.
+[B 46,637,48,651]
+  {Lato-Regular 11.5 #353535} 
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}15/17
+--- LINKS ---
+  [clean and green vacant lots (https://academiccommons.columbia.e] -> https://academiccommons.columbia.edu/doi/10.7916/D8G17HQ0
+  [du/doi/10.7916/D8G17HQ0),] -> https://academiccommons.columbia.edu/doi/10.7916/D8G17HQ0
+  [offer property tax adjustments, (https://www.minneapolisfed.org/research/institute-working-pap] -> https://www.minneapolisfed.org/research/institute-working-papers/the-assessment-gap-racial-inequalities-in-property-taxation
+  [ers/the-assessment-gap-racial-inequalities-in-property-taxation)e] -> https://www.minneapolisfed.org/research/institute-working-papers/the-assessment-gap-racial-inequalities-in-property-taxation
+  [expand homeownership and wealth-building programs] -> https://www.chicago.gov/city/en/depts/doh/provdrs/homebuyers.html
+  [(https://www.chicago.gov/city/en/depts/doh/provdrs/homebuyers.html),] -> https://www.chicago.gov/city/en/depts/doh/provdrs/homebuyers.html
+  [strengthen community land trusts (https://groundedso] -> https://groundedsolutions.org/strengthening-neighborhoods/community-land-trusts/
+  [lutions.org/strengthening-neighborhoods/community-land-trusts/)] -> https://groundedsolutions.org/strengthening-neighborhoods/community-land-trusts/
+  [local investment programs to build] -> https://ccwbe.org/
+  [wealth among current residents (https://ccwbe.org/)] -> https://ccwbe.org/

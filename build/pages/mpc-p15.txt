@@ -1,0 +1,43 @@
+=== mpc PDF page 15 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    13
+[IMAGE 51,753,150,767]
+[B 49,46,270,69]
+  {ProximaNova-Bold 9.0 #000000}Multifamily housing is the predominant type of existing 
+  {ProximaNova-Bold 9.0 #000000}housing in many community areas 
+[IMAGE 49,74,300,374]
+[B 300,68,302,81]
+  {ProximaNova-Regular 9.0 #000000} 
+[B 49,385,190,395]
+  {ProximaNova-RegularIt 7.5 #000000}Source: Census ACS, 2020-2024 estimates
+[B 313,46,563,69]
+  {ProximaNova-Bold 9.0 #000000}Chicago zoning limits room for new housing: many community 
+  {ProximaNova-Bold 9.0 #000000}areas are completely built out under current regulations 
+[IMAGE 313,74,564,373]
+[B 313,376,559,404]
+  {ProximaNova-RegularIt 7.5 #000000}The percentage of zoning capacity, or room for housing, that is used by 
+  {ProximaNova-RegularIt 7.5 #000000}housing already built. Note: Does not include parcels zoned for PD or PMD. 
+  {ProximaNova-RegularIt 7.5 #000000}Does not account for zoning bonuses. 
+[B 313,412,499,422]
+  {ProximaNova-RegularIt 7.5 #000000}Created by Urban Institute. Source: Chicago zoning 2023
+[IMAGE 49,448,62,462]
+[B 49,445,564,542]
+  {ProximaNova-Extrabld 9.0 #4e717a}It is illegal to build new multi-family housing in much of the city without a zoning change. {ProximaNova-Regular 9.0 #000000}Just 11% of the city is zoned for 
+  {ProximaNova-Regular 9.0 #000000}multifamily housing development: 8% is zoned Residential Two-Flat, Townhouse, and Multi-Unit (RT), and 3% is zoned 
+  {ProximaNova-Regular 9.0 #000000}Residential Multi-Unit (RM).{ProximaNova-Regular 5.2 #000000} 7{ProximaNova-Regular 9.0 #000000} This restrictive zoning policy leaves very little room to build new housing in large swaths of the city. This 
+  {ProximaNova-Regular 9.0 #000000}also means that across substantial portions of the city, much of the housing that already exists, such as two-to-four flats, would be 
+  {ProximaNova-Regular 9.0 #000000}illegal to build according to today’s rules. Significant portions of the city—the periphery of the city, as well as much of the Northwest 
+  {ProximaNova-Regular 9.0 #000000}side—have fully utilized the current zoning envelope, meaning current zoning cannot accommodate any more housing units in those 
+  {ProximaNova-Regular 9.0 #000000}areas. Other areas—the mid-South side and much of the near West side—do have room in the zoning envelope for housing 
+  {ProximaNova-Regular 9.0 #000000}development. 
+[IMAGE 49,553,62,567]
+[B 49,550,565,623]
+  {ProximaNova-Extrabld 9.0 #4e717a}Low-density residential zoning predominates even near transit. {ProximaNova-Regular 9.0 #000000}About half of Chicagoans live within a half-mile of a CTA ‘L’ 
+  {ProximaNova-Regular 9.0 #000000}station, and just 15% live within a quarter-mile, meaning they can get to a transit station by walking or using a mobility device in 
+  {ProximaNova-Regular 9.0 #000000}5 minutes or less. One factor limiting the number of people who can live in transit-accessible housing is that a large amount of land 
+  {ProximaNova-Regular 9.0 #000000}near transit (26% of land within a half-mile of an ‘L’ station) is still zoned to allow only low-density residential development (RS), 
+  {ProximaNova-Regular 9.0 #000000}limiting access to both transit and housing. Citywide, a total of about 15 square miles of land is both within a half-mile radius of a CTA 
+  {ProximaNova-Regular 9.0 #000000}rail station and zoned RS.
+[B 49,702,557,722]
+  {ProximaNova-Regular 7.5 #4e5154}7 Many, but not all B, C, and D districts also allow the development of housing units as part of mixed-use development. Some districts require that multi-unit 
+  {ProximaNova-Regular 7.5 #4e5154}residential development receive special use approval. These districts together cover about 10% of the city.

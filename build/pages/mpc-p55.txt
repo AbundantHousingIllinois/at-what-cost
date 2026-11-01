@@ -1,0 +1,199 @@
+=== mpc PDF page 55 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    53
+[IMAGE 51,753,150,767]
+[B 226,62,386,75]
+  {ProximaNova-Bold 9.0 #000000}RESPONSIVE: URBAN SERVICES INDEX
+[B 53,78,554,90]
+  {ProximaNova-Regular 9.0 #ffffff}Category
+  {ProximaNova-Regular 9.0 #ffffff}Metric
+  {ProximaNova-Regular 9.0 #ffffff}Geography
+  {ProximaNova-Regular 9.0 #ffffff}Radius
+  {ProximaNova-Regular 9.0 #ffffff}Type
+  {ProximaNova-Regular 9.0 #ffffff}Score
+[B 53,93,130,118]
+  {ProximaNova-Bold 11.0 #000000}Education                
+  {ProximaNova-Regular 9.0 #000000}(6 Points)
+[B 139,94,535,107]
+  {ProximaNova-Regular 9.0 #000000}Students traveling <15 minutes to school
+  {ProximaNova-Regular 9.0 #000000}Community Area
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,122,298,144]
+  {ProximaNova-Regular 9.0 #000000}Proportion attending Zoned or School in 
+  {ProximaNova-Regular 9.0 #000000}Region
+[B 311,122,535,134]
+  {ProximaNova-Regular 9.0 #000000}Community Area
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,148,277,170]
+  {ProximaNova-Regular 9.0 #000000}Academic Variety (Arts, CTE, World 
+  {ProximaNova-Regular 9.0 #000000}Language)
+[B 311,148,535,160]
+  {ProximaNova-Regular 9.0 #000000}Community Area
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,174,547,186]
+  {ProximaNova-Regular 9.0 #000000}Early Childhood Programs
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1. 25
+[B 139,190,547,203]
+  {ProximaNova-Regular 9.0 #000000}K-12
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1. 25
+[B 139,206,544,219]
+  {ProximaNova-Regular 9.0 #000000}Higher Education
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 53,222,131,246]
+  {ProximaNova-Bold 11.0 #000000}Transportation   
+  {ProximaNova-Regular 9.0 #000000}(6 points)
+[B 139,222,544,235]
+  {ProximaNova-Regular 9.0 #000000}CNT AllTransit Performance Score
+  {ProximaNova-Regular 9.0 #000000}Block Group
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 139,250,535,263]
+  {ProximaNova-Regular 9.0 #000000}Job Access by Transit
+  {ProximaNova-Regular 9.0 #000000}Block Group
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,266,535,279]
+  {ProximaNova-Regular 9.0 #000000}Bus Frequent Network
+  {ProximaNova-Regular 9.0 #000000}Block Group
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,282,544,295]
+  {ProximaNova-Regular 9.0 #000000}Divvy Bike Density
+  {ProximaNova-Regular 9.0 #000000}Block Group
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 139,298,544,311]
+  {ProximaNova-Regular 9.0 #000000}Protected Bike Infrastructure
+  {ProximaNova-Regular 9.0 #000000}Block Group
+  {ProximaNova-Regular 9.0 #000000}Quality
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 139,314,549,327]
+  {ProximaNova-Regular 9.0 #000000}Highway On-Ramp
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 Mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 25
+[B 139,330,535,343]
+  {ProximaNova-Regular 9.0 #000000}CTA Rail
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/4 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,347,535,359]
+  {ProximaNova-Regular 9.0 #000000}Metra Rail
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,363,549,375]
+  {ProximaNova-Regular 9.0 #000000}Pace Bus
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/8 Mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 25
+[B 53,378,130,415]
+  {ProximaNova-Bold 11.0 #000000}Neighborhood 
+  {ProximaNova-Bold 11.0 #000000}Amenities                
+  {ProximaNova-Regular 9.0 #000000}(6 points)
+[B 139,379,535,391]
+  {ProximaNova-Regular 9.0 #000000}Density of Youth Programming
+  {ProximaNova-Regular 9.0 #000000}Block Group
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,418,535,431]
+  {ProximaNova-Regular 9.0 #000000}Park
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/4 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,435,535,447]
+  {ProximaNova-Regular 9.0 #000000}Special Service Area
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,451,535,463]
+  {ProximaNova-Regular 9.0 #000000}Library
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}1
+[B 139,467,544,479]
+  {ProximaNova-Regular 9.0 #000000}Senior Center
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 139,483,544,496]
+  {ProximaNova-Regular 9.0 #000000}Community Service Center
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 139,499,544,512]
+  {ProximaNova-Regular 9.0 #000000}Cook County Forest Preserves
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 139,515,544,528]
+  {ProximaNova-Regular 9.0 #000000}Neighborhood Bus. Development Center
+  {ProximaNova-Regular 9.0 #000000}BG Average
+  {ProximaNova-Regular 9.0 #000000}1/2 mile
+  {ProximaNova-Regular 9.0 #000000}Access
+  {ProximaNova-Regular 9.0 #000000}0. 5
+[B 49,558,410,571]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}{ProximaNova-RegularIt 9.0 #000000}Density Score: {ProximaNova-Regular 9.0 #000000}Equally weights measures of built space and use of space.  
+[B 49,579,564,603]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Regular 7.0 #000000}■{ProximaNova-Regular 9.0 #000000} 	
+  {ProximaNova-Regular 9.0 #000000}Population Density (1 point) – The number of people living in a block group divided by square mileage, based 
+  {ProximaNova-Regular 9.0 #000000}on 2023 ACS 5-Year Estimates.
+[B 49,612,547,636]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Regular 7.0 #000000}■{ProximaNova-Regular 9.0 #000000} 	
+  {ProximaNova-Regular 9.0 #000000}Job Density (1 point) – The number of jobs located in a block group divided by square mileage, based on 
+  {ProximaNova-Regular 9.0 #000000}2022 LEHD LODES data.
+[B 49,645,563,681]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Regular 7.0 #000000}■{ProximaNova-Regular 9.0 #000000} 	
+  {ProximaNova-Regular 9.0 #000000}Built Space Ratio (2 points) – The square footage of building space in a block group divided by total 
+  {ProximaNova-Regular 9.0 #000000}developable land. For example, A built space ratio of 2. 5 would indicate for every square foot of developable 
+  {ProximaNova-Regular 9.0 #000000}land, there is 2. 5 square feet of building.  
+[B 49,690,544,714]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-RegularIt 9.0 #000000}Building Space:{ProximaNova-Regular 9.0 #000000} Derived from the city’s 2018 Building Footprints dataset, multiplying footprint by height while 
+  {ProximaNova-Regular 9.0 #000000}correcting square footage for large and atypically shaped buildings.

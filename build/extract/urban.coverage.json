@@ -1,0 +1,29 @@
+{
+  "pdf": "Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods _ Urban Institute.pdf",
+  "pages": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17],
+  "figures_placed": ["urban-fig1","urban-fig2","urban-table1","urban-fig3","urban-adu-types","urban-adu-scenarios"],
+  "footnotes": [],
+  "typos_kept": [
+    "p9: “current estimated current gap of 226,000 affordable homes” (duplicated “current”; inside link text) — <!-- sic --> after “current”",
+    "p14: “built on lots with 2.2 units existing units on average” (duplicated “units”) — <!-- sic -->",
+    "p15: “a total of 1,203 ADUS—or 3.5 times” (caps S) — <!-- sic -->",
+    "p15: “offer property tax adjustments,expand homeownership…” — no space between the comma (end of the Minneapolis Fed link text) and the next link “expand homeownership and wealth-building programs”. In the print it shows as “…taxation)expand” only because of the printed URL. Kept with no space, plus <!-- sic: no space -->",
+    "p16: “in partnership with the Chicago's Metropolitan Planning Council” (“the Chicago's”, straight apostrophe as printed) — <!-- sic -->"
+  ],
+  "notes": [
+    "Page 1 (title, label, authors, date, hero photo, credit ‘halbergman’) is in urban-meta.json, not in urban.html. Hero image = manifest urban-hero.",
+    "Dropped from every page: header ‘11/1/26, 4:19 PM’ + truncated title, footer URL + ‘N/17’, and the printed ‘(https://…)’ text after each link (each one is now a real <a href>).",
+    "‘(PDF)’ after the NAHB ‘significantly reform zoning’ link is kept as plain text.",
+    "Punctuation inside link text is kept where the source underlines it: ‘land-use legislation,’ ‘…local zoning.’ ‘…has been concentrated.’ ‘offer property tax adjustments,’ ‘…in planned developments.’",
+    "urban-intro and urban-funders have no heading in the source, so they have no <h2>. Intro sections may need a visually-hidden h2 for the TOC; that’s up to the main thread.",
+    "H2 text is in the source’s sentence case; ‘ABOUT THE DATA’ is all caps as printed (FuturaPTWeb-Light).",
+    "Page markers: <span class=pg> with data-printed = data-pdf (the print has only browser page numbers N/17).",
+    "Fig 1 (p4–5). Title: ‘Without Reforms to the City’s Zoning Code, Permitting Requests from Now Until 2041 Will Likely Be Concentrated In and Around Chicago’s Near Northwest Neighborhoods’. Subtitle: ‘Estimated probability of a permit for new housing development being requested on a given parcel by 2041, based on the Urban Institute’s Housing Market Forecaster’. Sources: ‘Authors’ analysis of Cook County Assessor parcel data, City of Chicago zoning data, and 2020–24 census tract–level American Community Survey data.’ Notes: ‘These estimates assume the city makes no changes to its zoning code and permits continue at the same pace as they did from 2011 to 2025 under the same economic conditions. Estimates are for cumulative development from 2026 to 2041.’ (labels ‘Sources:’ / ‘Notes:’ in bold)",
+    "Fig 2 (p6–7). Title: ‘Under Chicago’s Current Zoning, Most Housing Units Permitted Between Now and 2041 Will Likely Be Concentrated In and Around the City’s Downtown’. Subtitle: ‘Estimated housing unit permits per ward by 2041, based on the Urban Institute’s Housing Market Forecaster’. Sources and Notes: word for word the same as Fig 1.",
+    "Fig 3 (p10–13). Title: ‘Combining Reforms That Allow Small-Scale Apartments Plus Transit-Oriented Upzoning Would Unlock More Housing Supply Across the City’. Subtitle: ‘Estimated additional units permitted by 2041, compared with baseline, by reform’. Panel labels: ‘Reform 1: Allowing duplexes and triplexes’ (p10, above map p10); ‘Reform 2: Legalizing small apartment buildings (four to nine units)’ (bottom of p10, map p11); ‘Reform 3: Enabling higher-density multifamily buildings within ¼ mile of transit’ (bottom of p11, map p12); ‘Reform 4: Combining reforms 2 and 3’ (bottom of p12, map p13). Sources (p13): same text as Fig 1. Notes (p13): ‘These estimates assume economic conditions between 2011 and 2025 persist. Estimates are for cumulative development from 2026 to 2041.’",
+    "Table 1 (p9): emitted as an HTML table right after the urban-table1 placeholder. The caption holds the title, with the subtitle in <br><span class=\"caption-sub\"> (that class isn’t in the contract vocabulary; the main thread can restyle it). The first header cell is empty in the source. Row labels: ‘Reform N:’ in bold. In the print, the cells ‘+8,100’ (Reform 2) and ‘+9,500’ (Reform 4) are light gray (#ababab), not black. Probably a web-chart highlight/hover state; values kept, color not reproduced.",
+    "The table’s Source label is singular (‘Source:’) while Figs 1–3 use ‘Sources:’, as printed.",
+    "urban-adu-types is placed after the 28/66/6% bullet list (the breakdown is a <ul>, so the placeholder follows the list, not a single paragraph). urban-adu-scenarios is placed after the ‘1,203 ADUS—or 3.5 times’ paragraph.",
+    "p13 → p14: the ‘Jefferson Park…’ paragraph ends p13; ‘Across all four reforms…’ starts p14 as a new paragraph (gap visible in the dump). These two paragraphs, the ‘These results suggest…’ paragraph and the ‘Finally, we mapped…’ paragraph stay in the urban-reforms section because the source has no heading until the ADU h2."
+  ]
+}

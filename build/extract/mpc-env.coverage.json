@@ -1,0 +1,108 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "figures_placed": [
+  "mpc-p23-pm25-race",
+  "mpc-p23-pm25-map",
+  "mpc-p24-pollution-map",
+  "mpc-p24-tree-map",
+  "mpc-p24-pollution-race",
+  "mpc-p24-tree-race",
+  "mpc-p25-mfg-map",
+  "mpc-p25-mfg-pollution-bar",
+  "mpc-p25-mfg-pollution-line",
+  "mpc-p26-mfg-share",
+  "mpc-p26-climate-maps",
+  "mpc-p27-heatflood-table",
+  "mpc-p27-tree-illustration"
+ ],
+ "footnotes": [
+  14,
+  15
+ ],
+ "notes": [
+  "PDF 23: glossary sidebar (left) placed before the two intro paragraphs (right column, wrapping to full width).",
+  "PDF 27 tree-governance box: dropped a leading space before 'Trees are powerful…'. Phrase 'usually arterial streets medians or roundabouts' kept as printed (not marked sic).",
+  "Finding 'The majority of land … are zoned' kept as printed (grammar, not marked).",
+  "PDF 28: Washington DC spotlight (left column) placed between rec-cumulative-impacts and rec-permeable-surfaces (right column). Spotlight has no link in the PDF.",
+  "Heat + flood table is an image; transcribed from 300dpi render.",
+  "PDF 23 chart has a duplicate title in the dump: Bold 'Racial Composition in Highest and Lowest PM 2.5 Tracts' (hidden/behind) and visible Semibold 'Racial composition in highest and lowest PM 2.5 tracts'; visible one used below.",
+  "Dump spacing artifacts normalized silently: '14. 7'→'14.7', 'U. S.'→'U.S.', 'PM2. 5'→'PM2.5', 'D. C.'→'D.C.', 'DataUSA. io'→'DataUSA.io'."
+ ],
+ "figure_text": {
+  "mpc-p23-pm25-race": {
+   "title": "Racial composition in highest and lowest PM 2.5 tracts",
+   "data": "Highest/Lowest PM 2.5 tracts — Latinx 50%/15%; White 29%/34%; Black 10%/43%; Asian 9%/5% (gray line = City of Chicago racial composition)",
+   "legend": "City of Chicago Racial Composition; Highest PM 2.5 Tracts (Top 20% of Tracts); Lowest PM 2.5 Tracts (Bottom 20% of Tracts)",
+   "source": "Source: University of Illinois HeRoP Lab; Data collected between 2014 and 2018"
+  },
+  "mpc-p23-pm25-map": {
+   "title": "Small particulate air pollution exposure citywide",
+   "legend": "Satellite-Derived PM 2.5 (Lowest … Highest); Community Areas; Waterways; Airports; Interstates"
+  },
+  "mpc-p24-pollution-map": {
+   "supertitle": "Pollution is concentrated where tree coverage is sparse",
+   "legend": "Overall Pollution Index (percentile) 0-10 … 91-100",
+   "source": "Source: EPA EJ Screen; Year: 2019-2023 / *varies by pollution source; the index reflects the variety of ways people encounter pollution, from breathing it in to living near a waste site. (source block sits under the pollution-race chart, applies to both pollution figures)"
+  },
+  "mpc-p24-tree-map": {
+   "legend": "Tree Coverage by Tract: 1% - 10%, 11% - 15%, 16% - 20%, 21% - 25%, 26% - 100%",
+   "source": "Source: Chicago Region Trees Initiative; Year: 2017 (under tree-race chart)"
+  },
+  "mpc-p24-pollution-race": {
+   "title": "Racial composition in highest and lowest pollution tracts",
+   "data": "Highest/Lowest — Latinx 37%/21%; White 34%/42%; Black 14%/26%; Asian 13%/7%",
+   "legend": "City of Chicago Racial Composition; Highest Pollution Tracts (Top 20% of Tracts); Lowest Pollution Tracts (Bottom 20% of Tracts)",
+   "source": "Source: EPA EJ Screen; Year: 2019-2023 *varies by pollution source; the index reflects the variety of ways people encounter pollution, from breathing it in to living near a waste site."
+  },
+  "mpc-p24-tree-race": {
+   "title": "Racial composition in highest and lowest tree cover tracts",
+   "data": "Highest/Lowest — Latinx 16%/24%; White 37%/41%; Black 36%/15%; Asian 7%/16%",
+   "legend": "City of Chicago Racial Composition; Highest Tree Cover Tracts (25%+ coverage); Lowest Tree Cover Tracts (Less than 10% coverage)",
+   "source": "Source: Chicago Region Trees Initiative; Year: 2017"
+  },
+  "mpc-p25-mfg-map": {
+   "title": "Concentration of manufacturing zoning districts citywide",
+   "legend": "Census Tracts by Degree of Manufacturing: No Manufacturing; 1% - 10%; 11% - 25%; 26% - 50%; 51% - 100%",
+   "source": "Source: City of Chicago zoning districts, 2023"
+  },
+  "mpc-p25-mfg-pollution-bar": {
+   "title": "Average pollution index near vs. not near manufacturing",
+   "labels": "Tracts with land zoned for manufacturing (~60); Tracts without land zoned for manufacturing (~40); x-axis: Average Pollution Index Percentile 0–70 (labels are inside the raster image)"
+  },
+  "mpc-p25-mfg-pollution-line": {
+   "title": "Average pollution index by share of tract zoned for manufacturing",
+   "labels": "x: Percent of tract zoned for manufacturing — No Manufacturing, 1 to 10%, 10 to 25%, 25 to 50%, 50% or more; y: Average pollution index percentile 0–90; line rises ~41→~80",
+   "source": "Source: EPA EJ Screen; Year: 2019-2023 *varies by pollution source"
+  },
+  "mpc-p26-mfg-share": {
+   "title": "Share of land zoned for manufacturing in most populous areas for each demographic",
+   "data": "City of Chicago 17%; Latinx Chicagoans 29%; Black Chicagoans 23%; Asian Chicagoans 9%; White Chicagoans 6%",
+   "note": "This looks at the top 30% most populous tracts for each demographic (roughly 75 to 85 percent of the citywide population for each demographic). For example, in the top 30% of tracts with the most Latinx Chicagoans, 29% of the land is zoned for manufacturing."
+  },
+  "mpc-p26-climate-maps": {
+   "panel_titles": [
+    "All-day heat index",
+    "Flooding index",
+    "Combined heat and flooding index"
+   ],
+   "legends": [
+    "1 (lowest heat index) … 5 (highest heat index)",
+    "1 (lowest flooding susceptibility) … 5 (highest flooding susceptibility)",
+    "1 (lowest heat + flood impact) … 5 (highest heat + flood impact)"
+   ],
+   "source": "Source: City of Chicago 2023 Cool Chi/Heat Watch, Chicago Metropolitan Agency for Planning (CMAP), City of Chicago data portal"
+  },
+  "mpc-p27-heatflood-table": {
+   "title": "Racial and ethnic composition by combined heat + flood index",
+   "source": "Source: Census ACS 2018-2022"
+  }
+ }
+}

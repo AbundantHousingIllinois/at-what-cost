@@ -1,0 +1,106 @@
+=== mpc PDF page 19 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    17
+[IMAGE 51,753,150,767]
+[B 198,54,414,72]
+  {ProximaNova-Regular 13.0 #4e5154}Understanding Planned Developments
+[B 49,79,556,152]
+  {ProximaNova-Regular 9.0 #000000}Some developments in Chicago go through a zoning process called the Planned Development process: a type of zoning 
+  {ProximaNova-Regular 9.0 #000000}amendment that must pass the Plan Commission and City Council for a development to move forward. This process was designed 
+  {ProximaNova-Regular 9.0 #000000}for large and complex projects, allowing developers and the City to directly negotiate and customize elements of development 
+  {ProximaNova-Regular 9.0 #000000}the zoning code usually regulates directly, via a unique agreement that covers multiple buildings across a site. This includes land 
+  {ProximaNova-Regular 9.0 #000000}uses, bulk and density, and open space or other public amenities that are included as part of a development. The PD process also 
+  {ProximaNova-Regular 9.0 #000000}mandates that the developer hold at least one public meeting on the project. 
+[B 49,160,563,209]
+  {ProximaNova-Regular 9.0 #000000}The PD process is a required step for some unusual types of developments on lots above a certain size, like hospitals, airports, 
+  {ProximaNova-Regular 9.0 #000000}universities, and sports arenas. Depending on the zoning district, the process can also be required for buildings that are taller than a 
+  {ProximaNova-Regular 9.0 #000000}designated height, or include more than a designated number of housing units, among other situations.{ProximaNova-Regular 5.2 #000000} 13{ProximaNova-Regular 9.0 #000000} Some developments have 
+  {ProximaNova-Regular 9.0 #000000}the choice of going through the PD process, or opting out. 
+[B 58,230,237,425]
+  {ProximaNova-Regular 15.0 #4e5154}Planned Developments are 
+  {ProximaNova-Regular 15.0 #4e5154}now the main pathway for 
+  {ProximaNova-Regular 15.0 #4e5154}housing development in 
+  {ProximaNova-Regular 15.0 #4e5154}Chicago:
+  {ProximaNova-Black 32.0 #4e5154}58%{ProximaNova-Regular 15.0 #4e5154} of all new homes 
+  {ProximaNova-Regular 15.0 #4e5154}added in Chicago between 
+  {ProximaNova-Regular 15.0 #4e5154}2006 and 2024 were 
+  {ProximaNova-Regular 15.0 #4e5154}added through the PD 
+  {ProximaNova-Regular 15.0 #4e5154}process
+[IMAGE 256,225,270,239]
+[B 256,221,564,366]
+  {ProximaNova-Extrabld 9.0 #4e717a}PDs have become the most common zoning pathway for housing 
+  {ProximaNova-Extrabld 9.0 #4e717a}development in Chicago. {ProximaNova-Regular 9.0 #000000}From 2003 to 2023, Chicago created more 
+  {ProximaNova-Regular 9.0 #000000}than 600 PDs, together replacing by-right zoning with the Planned 
+  {ProximaNova-Regular 9.0 #000000}Development designation on an additional 5. 8 square miles of land. By 2023, 
+  {ProximaNova-Regular 9.0 #000000}there were a total of about 1,400 PDs in Chicago. These PDs cover about 13% 
+  {ProximaNova-Regular 9.0 #000000}of zoned land. In recent years, PDs have been the main pathway for adding 
+  {ProximaNova-Regular 9.0 #000000}new housing units in the city. Urban Institute found that 58% of all new homes 
+  {ProximaNova-Regular 9.0 #000000}added in Chicago between 2006 and 2024 were added through the PD 
+  {ProximaNova-Regular 9.0 #000000}process, meaning each project was individually reviewed by the Plan 
+  {ProximaNova-Regular 9.0 #000000}Commission and City Council. In addition, most dense residential development 
+  {ProximaNova-Regular 9.0 #000000}happened through the PD process: among new housing units added in 
+  {ProximaNova-Regular 9.0 #000000}projects with five or more units, 68% were part of a PD.
+[IMAGE 256,378,270,392]
+[B 54,374,556,464]
+  {ProximaNova-Extrabld 9.0 #4e717a}Smaller PDs are increasingly common. {ProximaNova-Regular 9.0 #000000}Most of the new PDs added 
+  {ProximaNova-Regular 9.0 #000000}over the last 20 years (about two-thirds) are relatively small in terms of 
+  {ProximaNova-Regular 9.0 #000000}their land area, covering less than 150,000 square feet. In 2003, there were 
+  {ProximaNova-Regular 9.0 #000000}more medium- and large-sized PDs (above 150,000 square feet) than smaller 
+  {ProximaNova-Regular 9.0 #000000}ones; by 2023, it was more common to see smaller PDs. 
+  {ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Bold 11.0 #ffffff}PD by land area (square feet)
+  {ProximaNova-Bold 11.0 #ffffff}2003
+  {ProximaNova-Bold 11.0 #ffffff}2023
+[B 318,466,361,479]
+  {ProximaNova-Regular 9.0 #000000}Number of 
+[B 331,476,346,489]
+  {ProximaNova-Regular 9.0 #000000}PDs
+[B 375,466,424,489]
+  {ProximaNova-Regular 9.0 #000000}Total area 
+  {ProximaNova-Regular 9.0 #000000}(square feet)
+[B 446,466,490,479]
+  {ProximaNova-Regular 9.0 #000000}Number of 
+[B 459,476,474,489]
+  {ProximaNova-Regular 9.0 #000000}PDs
+[B 502,466,551,489]
+  {ProximaNova-Regular 9.0 #000000}Total area 
+  {ProximaNova-Regular 9.0 #000000}(square feet)
+[B 53,492,552,505]
+  {ProximaNova-Regular 9.0 #000000}Large (ex: O'Hare, UIC)  > = 3. 75 million
+  {ProximaNova-Regular 9.0 #000000}17
+  {ProximaNova-Regular 9.0 #000000}411. 5 million
+  {ProximaNova-Regular 9.0 #000000}19
+  {ProximaNova-Regular 9.0 #000000}423. 3 million
+[B 53,508,544,521]
+  {ProximaNova-Regular 9.0 #000000}Medium (ex: Foundry Park) > = 150K and <3. 75 million
+  {ProximaNova-Regular 9.0 #000000}454
+  {ProximaNova-Regular 9.0 #000000}265. 6 million
+  {ProximaNova-Regular 9.0 #000000}674
+  {ProximaNova-Regular 9.0 #000000}397 million
+[B 53,524,547,537]
+  {ProximaNova-Regular 9.0 #000000}Small (ex: single building) < 150K
+  {ProximaNova-Regular 9.0 #000000}335
+  {ProximaNova-Regular 9.0 #000000}25. 7 million
+  {ProximaNova-Regular 9.0 #000000}733
+  {ProximaNova-Regular 9.0 #000000}52. 6 million
+[B 282,540,547,553]
+  {ProximaNova-Semibold 9.0 #ffffff}Total
+  {ProximaNova-Semibold 9.0 #ffffff}806
+  {ProximaNova-Semibold 9.0 #ffffff}702 million
+  {ProximaNova-Semibold 9.0 #ffffff}1,426
+  {ProximaNova-Semibold 9.0 #ffffff}866 million
+[B 566,463,568,476]
+  {ProximaNova-Regular 9.0 #000000} 
+[IMAGE 49,574,62,588]
+[B 49,571,557,644]
+  {ProximaNova-Extrabld 9.0 #4e717a}The data on PDs is currently limited, but MPC is developing a dataset to better understand how PDs fit into Chicago’s 
+  {ProximaNova-Extrabld 9.0 #4e717a}development landscape.{ProximaNova-Regular 9.0 #4e717a} {ProximaNova-Regular 9.0 #000000}Currently, information about PDs is only accessible by reviewing individual Planned Development 
+  {ProximaNova-Regular 9.0 #000000}Agreements, rather than a central dataset. For this reason, PDs were a gap in our research for the Zoning Assessment: our 
+  {ProximaNova-Regular 9.0 #000000}calculation of the total residentially-zoned land in the city, for example, does not include PDs, since each PD varies in use type, and 
+  {ProximaNova-Regular 9.0 #000000}that information is not centralized by the City. MPC is currently building a dataset to better understand PDs, and we anticipate 
+  {ProximaNova-Regular 9.0 #000000}sharing findings from this dataset in the future. 
+[B 49,682,558,722]
+  {ProximaNova-Regular 7.5 #4e5154}13 The number of housing units that triggers the PD process varies widely by zoning district—30 to 40 units in RT districts, 50 to 100 units in RM districts, 30 
+  {ProximaNova-Regular 7.5 #4e5154}to 100 units in B and C districts, and 90 to 250 units in D districts. The height thresholds that trigger the PD process for residential development range from 
+  {ProximaNova-Regular 7.5 #4e5154}75 feet (in C5 and B5) up to 600 feet in one of the densest D districts. While many cities use lot size thresholds to trigger a PD, Chicago is unique in having 
+  {ProximaNova-Regular 7.5 #4e5154}triggers based on multiple factors: use, height or size by districts, and other factors such as air rights.

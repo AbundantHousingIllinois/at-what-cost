@@ -1,0 +1,16 @@
+{
+  "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+  "pages": [39, 40, 41],
+  "figures_placed": ["mpc-p39-zoning-share", "mpc-p41-zoning-map"],
+  "footnotes": [],
+  "notes": [
+    "Zoning districts table: printed across PDF 39–40 with the header row repeated on p40; emitted as ONE table with one <thead>, 9 body rows in printed order (R, PD, M, POS, PMD, B, C, D, T). Page marker for p40 placed inside the Business (B) row header cell.",
+    "The table has no printed title/caption (only the section heading 'Appendix: Zoning districts'), so no <caption> was added.",
+    "Header notes kept as <p class=\"fig-note\"> inside their <th> cells; the italic categories note keeps bold-italic '-1', '-3', '2', '4' as <strong> inside <em>.",
+    "District codes wrapped in <strong> per brief (printed in regular weight in the PDF). PD and PMD category cells are single sentences, not lists.",
+    "PD share cell keeps the printed note 'Areas that are part of a Planned Development are included in this category, rather than their underlying zoning district(s).'",
+    "data-share added per row; T row data-share=\"0.5\" data-share-label=\"<1%\"; R row data-sub='{\"RS\":41,\"RT\":8,\"RM\":3}'. Also added data-code (R, PD, M, …) for convenience.",
+    "mpc-p39-zoning-share is a chart derived from the table (no printed figure); placed after the table. mpc-p41-zoning-map printed title: 'Chicago Zoning Map (2023)' (manifest title empty). Legend: RS Residential, RT Residential, RM Residential, Commercial, Business, Manufacturing, Parks and Open Space, Transportation, Downtown, Planned Development, Planned Manufacturing Districts.",
+    "No typos found in the table text."
+  ]
+}

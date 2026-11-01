@@ -1,0 +1,104 @@
+=== mpc PDF page 52 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    50
+[IMAGE 51,753,150,767]
+[B 49,46,218,59]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Research and analytical methods
+[B 49,67,557,92]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Descriptive statistics: {ProximaNova-Regular 9.0 #000000}Distribution of counts and per-capita density of physicians, pharmacies, outpatient clinics, 
+  {ProximaNova-Regular 9.0 #000000}and physician clinic employees per tract.
+[B 49,100,548,125]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Qualitative document review + case studies on alternative models: {ProximaNova-Regular 9.0 #000000}Chicago zoning code encouragement of 
+  {ProximaNova-Regular 9.0 #000000}healthcare clinics
+[B 49,133,526,158]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Correlations, OLS regressions: {ProximaNova-Regular 9.0 #000000}Correlation of healthcare clinic access across zone types; Distribution of 
+  {ProximaNova-Regular 9.0 #000000}healthcare clinic access-abundant zones with incomes and race
+[B 49,166,398,179]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important assumptions made that were central to any of the research findings
+[B 49,187,563,272]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}We assumed bidirectional relationships between healthcare access and zoning: The amount of power healthcare 
+  {ProximaNova-Regular 9.0 #000000}clinics might have in negotiations with local planning offices is not measurable, and thus it’s not possible to 
+  {ProximaNova-Regular 9.0 #000000}identify whether zoning created healthcare siting or whether healthcare siting desires paved the way for 
+  {ProximaNova-Regular 9.0 #000000}the zoning to be accessible. That is why we restricted the analysis methods to correlations and simple OLS 
+  {ProximaNova-Regular 9.0 #000000}regressions without attempting longitudinal analyses with more complex causal inference mechanisms because it 
+  {ProximaNova-Regular 9.0 #000000}could lead to spurious conclusions that attribute too much influence to zoning when it was in fact negotiated/the 
+  {ProximaNova-Regular 9.0 #000000}other way around. 
+[B 49,280,176,293]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Limitations of research
+[B 49,301,559,410]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}One of the most important limitations in these research findings is that zoning has little influence over healthcare 
+  {ProximaNova-Regular 9.0 #000000}clinic siting (since these appeared to have few restrictions from the zoning code and it seemed likely they 
+  {ProximaNova-Regular 9.0 #000000}would be determined by the amount of money their patients could offer via insurance enrollment rates) and 
+  {ProximaNova-Regular 9.0 #000000}instead zoning’s influence on healthcare clinic siting appears to be mostly mediated by its influence on housing 
+  {ProximaNova-Regular 9.0 #000000}affordability/income distributions across the city. The largest limitation of this research is that it was conducted 
+  {ProximaNova-Regular 9.0 #000000}at the tract level rather than the point level, and thus it’s nigh impossible to directly associate the location of 
+  {ProximaNova-Regular 9.0 #000000}healthcare clinics with distinctive zones. Additionally, the available data on counts and density of “physician 
+  {ProximaNova-Regular 9.0 #000000}clinics” is a poor identifier of the key outcome as it doesn’t standardize an operational definition for what counts 
+  {ProximaNova-Regular 9.0 #000000}as access, but it was the best available data source.
+[B 49,423,217,444]
+  {ProximaNova-Regular 15.0 #4e5154}Limited Pollution Exposure
+[B 49,450,529,475]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: All neighborhoods feature low levels of pollution, taking into account cumulative impacts on 
+  {ProximaNova-RegularIt 9.0 #000000}overburdened communities
+[B 49,483,273,496]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Primary research questions and variables used
+[B 49,504,539,529]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Research questions:{ProximaNova-Regular 9.0 #000000} Which places and people experience pollution exposure? Where is the land zoned for 
+  {ProximaNova-Regular 9.0 #000000}manufacturing? How does zoning affect pollution exposure?
+[B 49,537,563,562]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary dependent variables:{ProximaNova-Regular 9.0 #000000} overall pollution (combination of multiple pollution variables from EPA’s EJ Screen), 
+  {ProximaNova-Regular 9.0 #000000}air pollution (pm2. 5)
+[B 49,570,566,595]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary independent variables:{ProximaNova-Regular 9.0 #000000} Chicago zoning districts and policies, amount and share of manufacturing zoning, 
+  {ProximaNova-Regular 9.0 #000000}land use data (CMAP)
+[B 49,603,62,616]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	

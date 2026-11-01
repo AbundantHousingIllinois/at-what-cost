@@ -1,0 +1,48 @@
+=== mpc PDF page 7 (w=612 h=792) ===
+[B 370,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    5
+[IMAGE 51,753,150,767]
+[B 49,46,351,83]
+  {ProximaNova-Regular 9.0 #000000}	
+  {IvyPrestoHeadline-Regula 20.0 #e36841}What can you expect from this report?
+[B 49,96,549,121]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}ABOUT THE ZONING AND LAND USE ASSESSMENT{ProximaNova-Regular 9.0 #000000}, you’ll find an overview of the process MPC went through to produce the 
+  {ProximaNova-Regular 9.0 #000000}research and recommendations contained in this report.
+[B 49,129,560,214]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}RESEARCH FINDINGS AND POLICY RECOMMENDATIONS{ProximaNova-Regular 9.0 #000000}, you’ll find a deep dive into MPC’s recommended policies for 
+  {ProximaNova-Regular 9.0 #000000}improving zoning and land use in Chicago. The recommendations, which were developed in consultation with stakeholders, are 
+  {ProximaNova-Regular 9.0 #000000}organized by the challenges they respond to: the worsening housing affordability crisis in Chicago, the inequitable distribution of 
+  {ProximaNova-Regular 9.0 #000000}jobs and business vitality, exposure to pollutants and climate vulnerabilities, an opaque and difficult-to-navigate zoning system, and 
+  {ProximaNova-Regular 9.0 #000000}piecemeal planning practices. In each category, you’ll find the research findings from the Assessment that relate to the challenge, 
+  {ProximaNova-Regular 9.0 #000000}MPC’s specific policy recommendations, additional considerations for policy design and implementation, and example policies from 
+  {ProximaNova-Regular 9.0 #000000}other cities. 
+[B 49,222,326,235]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}CONCLUSION{ProximaNova-Regular 9.0 #000000}, you’ll find a discussion of the implications of this work.
+[B 49,243,560,316]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ADDITIONAL RESEARCH FINDINGS{ProximaNova-Regular 9.0 #000000}, you’ll find the research findings from the Assessment that were not included in 
+  {ProximaNova-Regular 9.0 #000000}the body of the report. This includes findings from our analysis of “productive land use” across Chicago neighborhoods; findings 
+  {ProximaNova-Regular 9.0 #000000}on grocery and healthcare availability and zoning; and other findings that did not directly relate to specific policy recommendations 
+  {ProximaNova-Regular 9.0 #000000}but came out of the Assessment’s research focus on seven priority outcomes: affordable housing, strong business corridors, limited 
+  {ProximaNova-Regular 9.0 #000000}pollution exposure, accessible public transit hubs, available groceries and healthcare, mitigation and adaptation to climate change, 
+  {ProximaNova-Regular 9.0 #000000}and productive land use. 
+[B 49,324,550,349]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ZONING DISTRICTS{ProximaNova-Regular 9.0 #000000}, you’ll find an introduction to Chicago’s main zoning designations and their shares of the city’s 
+  {ProximaNova-Regular 9.0 #000000}zoned land area. You’ll also find a (simplified) zoning map of the city.
+[B 49,357,535,382]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}APPENDIX: RESEARCH METHODOLOGY{ProximaNova-Regular 9.0 #000000}, you’ll find a detailed account of how the research was conducted, including data 
+  {ProximaNova-Regular 9.0 #000000}sources, assumptions, and research limitations.
+[B 49,390,538,415]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ENGAGEMENT METHODOLOGY{ProximaNova-Regular 9.0 #000000}, you’ll find a detailed account of how engagement was conducted, including a 
+  {ProximaNova-Regular 9.0 #000000}timeline of engagement across the project, example activities, and how input was documented and synthesized.
+[B 49,423,535,448]
+  {ProximaNova-Regular 9.0 #000000}In {ProximaNova-Regular 9.0 #0000ff}ACKNOWLEDGMENTS{ProximaNova-Regular 9.0 #000000}, you’ll find the team members, partners, funders, and other contributors who made the Assessment 
+  {ProximaNova-Regular 9.0 #000000}possible. 
+--- LINKS ---
+  [ABOUT THE ZONING AND LAND USE ASSESSMENT search and recommendations contained in this report] -> internal page 8
+  [RESEARCH FINDINGS AND POLICY RECOMMENDATIONS proving zoning and land use in Chicago. The recommendat] -> internal page 12
+  [CONCLUSION] -> internal page 34
+  [APPENDIX: ADDITIONAL RESEARCH FINDINGS e body of the report. This includes findings from] -> internal page 35
+  [APPENDIX: ZONING DISTRICTS oned land area. You’ll also find a (] -> internal page 39
+  [APPENDIX: RESEARCH METHODOLOGY urces, assumptions, and research limitatio] -> internal page 42
+  [APPENDIX: ENGAGEMENT METHODOLOGY meline of engagement across the project, exa] -> internal page 57
+  [ACKNOWLEDGMENTS ossible.] -> internal page 60

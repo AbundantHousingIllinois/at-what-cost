@@ -1,0 +1,23 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  32,
+  33
+ ],
+ "figures_placed": [],
+ "footnotes": [
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "notes": [
+  "Typo marked <!-- sic -->: 'projct-by-project'.",
+  "Fn 23 'Community Commission Development meetings' (likely 'Community Development Commission') and fn 25 author names 'Katherine Levine, Glick David M, and Palmer Maxwell' kept as printed (garbled citation; book title not italicized in PDF).",
+  "Fn 23 marker sits directly after the bold lead sentence's period; emitted after </strong>.",
+  "PDF 32 pull quote duplicates last sentence of the corridor-planning finding; emitted once as .pullquote before that finding.",
+  "PDF 33: Minneapolis spotlight (left column) placed after rec-public-input body (right column) so rec body stays contiguous. Subsection labels as <h5>.",
+  "Rec summary 'public input process for public input on land use' repetition kept as printed."
+ ]
+}

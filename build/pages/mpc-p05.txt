@@ -1,0 +1,29 @@
+=== mpc PDF page 5 (w=612 h=792) ===
+[B 371,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    3
+[IMAGE 51,753,150,767]
+[B 49,46,565,155]
+  {ProximaNova-Bold 9.0 #000000}Zoning reform is not a silver bullet. There are generational challenges ahead. {ProximaNova-Regular 9.0 #000000}Many factors beyond zoning shape our 
+  {ProximaNova-Regular 9.0 #000000}communities, such as public and private investment and disinvestment, community organizations, market incentives, and tax 
+  {ProximaNova-Regular 9.0 #000000}structures. Zoning changes that make room for more homes must be paired with policies that prioritize and incentivize the creation 
+  {ProximaNova-Regular 9.0 #000000}and preservation of homes affordable to the lowest-income Chicagoans. Meanwhile, the unusually large size of City Council for 
+  {ProximaNova-Regular 9.0 #000000}the size of our population, our lack of at-large council members, and our lack of a city charter all fuel our culture of unchecked 
+  {ProximaNova-Regular 9.0 #000000}aldermanic prerogative. And with our piecemeal approach to planning, we lack a way to bring in many voices to conversations about 
+  {ProximaNova-Regular 9.0 #000000}development without getting sidetracked by hyper-local opposition, or piling all of a community’s legitimate needs onto a single 
+  {ProximaNova-Regular 9.0 #000000}development. Zoning reform alone will not solve our city’s fundamental and interrelated problems of resource allocation  
+  {ProximaNova-Regular 9.0 #000000}and governance. 
+[B 49,163,564,236]
+  {ProximaNova-Bold 9.0 #000000}Yet zoning reform is a worthwhile citywide project. With zoning and land use reform as a foundation, we can build toward a new 
+  {ProximaNova-Bold 9.0 #000000}Chicago.{ProximaNova-Regular 9.0 #000000} We can reimagine our policies—zoning and beyond—to build a place where the inequitable outcomes we see reflected in 
+  {ProximaNova-Regular 9.0 #000000}our research no longer persist. We can build a place where families of all incomes can afford a place to live; where all Chicagoans 
+  {ProximaNova-Regular 9.0 #000000}have access to transportation that connects them; where vibrant, livable communities replace empty lots and small businesses can 
+  {ProximaNova-Regular 9.0 #000000}grow without unnecessary barriers; and where everyone can breathe fresh air and drink clean water. To get there, we need a new 
+  {ProximaNova-Regular 9.0 #000000}collaborative and forward-looking status quo that empowers Chicagoans—not ward-by-ward, but across the city.  
+[IMAGE 49,254,563,524]
+[B 49,534,273,562]
+  {ProximaNova-RegularIt 7.5 #000000}At a workshop, participants review and share feedback on research  
+  {ProximaNova-RegularIt 7.5 #000000}and policy recommendations developed during the Zoning and  
+  {ProximaNova-RegularIt 7.5 #000000}Land Use Assessment.
+[IMAGE 307,535,563,685]
+[B 563,561,565,571]
+  {ProximaNova-RegularIt 7.5 #000000} 

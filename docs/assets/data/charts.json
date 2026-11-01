@@ -1,0 +1,627 @@
+{
+ "mpc-p03-top5-areas": {
+  "type": "waffle",
+  "unit": "%",
+  "total_label": "approximately 120,000 new housing units",
+  "segments": [
+   [
+    "Near North Side",
+    19
+   ],
+   [
+    "Near West Side",
+    14
+   ],
+   [
+    "Loop",
+    13
+   ],
+   [
+    "West Town",
+    7
+   ],
+   [
+    "Near South Side",
+    7
+   ]
+  ],
+  "rest_label": "",
+  "rest": 40
+ },
+ "mpc-p19-pd-chart": {
+  "type": "bar",
+  "unit_options": {
+   "count": {
+    "label": "Number of PDs",
+    "datasets": [
+     {
+      "label": "2003",
+      "data": [
+       17,
+       454,
+       335
+      ],
+      "color": "#C6D9DF"
+     },
+     {
+      "label": "2023",
+      "data": [
+       19,
+       674,
+       733
+      ],
+      "color": "#4e717a"
+     }
+    ]
+   },
+   "area": {
+    "label": "Total area (million square feet)",
+    "datasets": [
+     {
+      "label": "2003",
+      "data": [
+       411.5,
+       265.6,
+       25.7
+      ],
+      "color": "#C6D9DF"
+     },
+     {
+      "label": "2023",
+      "data": [
+       423.3,
+       397,
+       52.6
+      ],
+      "color": "#4e717a"
+     }
+    ]
+   }
+  },
+  "labels": [
+   "Large (ex: O'Hare, UIC) > = 3.75 million",
+   "Medium (ex: Foundry Park) > = 150K and <3.75 million",
+   "Small (ex: single building) < 150K"
+  ],
+  "default": "count",
+  "toggle_labels": {
+   "count": "# of PDs",
+   "area": "Total area"
+  }
+ },
+ "mpc-p20-business-bars": {
+  "type": "bar",
+  "labels": [
+   "Majority White Tracts",
+   "Majority Black Tracts",
+   "Majority Latinx Tracts",
+   "Majority Asian Tracts"
+  ],
+  "datasets": [
+   {
+    "label": "Average number of businesses per 1,000 residents",
+    "data": [
+     15,
+     9,
+     11,
+     12
+    ],
+    "color": "#6D95BC"
+   }
+  ],
+  "y_label": "Average number of businesses per 1,000 residents"
+ },
+ "mpc-p20-vacancy-bars": {
+  "type": "bar",
+  "unit": "%",
+  "labels": [
+   "Majority White Tracts",
+   "Majority Black Tracts",
+   "Majority Latinx Tracts",
+   "Majority Asian Tracts"
+  ],
+  "datasets": [
+   {
+    "label": "Vacancy rates",
+    "data": [
+     3,
+     10,
+     5,
+     2
+    ],
+    "color": "#62A398"
+   }
+  ],
+  "y_label": "Vacancy rates"
+ },
+ "mpc-p21-business-zoning-grid": {
+  "type": "heatgrid",
+  "unit": "%",
+  "row_header": "Share of all Commercial Land Zoned or Within",
+  "cols": [
+   "Latinx",
+   "Black",
+   "White",
+   "Asian"
+  ],
+  "rows": [
+   [
+    "B1-B2 Businesses",
+    [
+     9,
+     8,
+     8,
+     6
+    ]
+   ],
+   [
+    "B3 Businesses",
+    [
+     21,
+     21,
+     15,
+     12
+    ]
+   ],
+   [
+    "C1-C3 Commercial",
+    [
+     13,
+     13,
+     8,
+     8
+    ]
+   ],
+   [
+    "Downtown",
+    [
+     10,
+     2,
+     18,
+     18
+    ]
+   ],
+   [
+    "Planned Development",
+    [
+     47,
+     56,
+     52,
+     55
+    ]
+   ],
+   [
+    "Share of all Land Zoned Commercial or Within PD",
+    [
+     18,
+     17,
+     26,
+     33
+    ]
+   ]
+  ],
+  "row_colors": [
+   "#F6E7A6",
+   "#F1A35B",
+   "#8E2B1E",
+   "#5B8FC7",
+   "#7FB77E",
+   null
+  ]
+ },
+ "mpc-p23-pm25-race": {
+  "type": "bar",
+  "unit": "%",
+  "labels": [
+   "Latinx",
+   "White",
+   "Black",
+   "Asian"
+  ],
+  "datasets": [
+   {
+    "label": "Highest PM 2.5 Tracts (Top 20% of Tracts)",
+    "data": [
+     50,
+     29,
+     10,
+     9
+    ],
+    "color": "#6A2310"
+   },
+   {
+    "label": "Lowest PM 2.5 Tracts (Bottom 20% of Tracts)",
+    "data": [
+     15,
+     34,
+     43,
+     5
+    ],
+    "color": "#FDC378"
+   }
+  ]
+ },
+ "mpc-p24-pollution-race": {
+  "type": "bar",
+  "unit": "%",
+  "labels": [
+   "Latinx",
+   "White",
+   "Black",
+   "Asian"
+  ],
+  "datasets": [
+   {
+    "label": "Highest Pollution Tracts (Top 20% of Tracts)",
+    "data": [
+     37,
+     34,
+     14,
+     13
+    ],
+    "color": "#6A2310"
+   },
+   {
+    "label": "Lowest Pollution Tracts (Bottom 20% of Tracts)",
+    "data": [
+     21,
+     42,
+     26,
+     7
+    ],
+    "color": "#FDC378"
+   }
+  ]
+ },
+ "mpc-p24-tree-race": {
+  "type": "bar",
+  "unit": "%",
+  "labels": [
+   "Latinx",
+   "White",
+   "Black",
+   "Asian"
+  ],
+  "datasets": [
+   {
+    "label": "Highest Tree Cover Tracts (25%+ coverage)",
+    "data": [
+     16,
+     37,
+     36,
+     7
+    ],
+    "color": "#2E5754"
+   },
+   {
+    "label": "Lowest Tree Cover Tracts (Less than 10% coverage)",
+    "data": [
+     24,
+     41,
+     15,
+     16
+    ],
+    "color": "#A8C7A4"
+   }
+  ]
+ },
+ "mpc-p26-mfg-share": {
+  "type": "bar",
+  "unit": "%",
+  "labels": [
+   "City of Chicago",
+   "Latinx Chicagoans",
+   "Black Chicagoans",
+   "Asian Chicagoans",
+   "White Chicagoans"
+  ],
+  "datasets": [
+   {
+    "label": "Share of land zoned for manufacturing",
+    "data": [
+     17,
+     29,
+     23,
+     9,
+     6
+    ],
+    "colors": [
+     "#92BCC6",
+     "#C29069",
+     "#9EAEC7",
+     "#BEAC6B",
+     "#92C6A8"
+    ]
+   }
+  ]
+ },
+ "mpc-p27-heatflood-table": {
+  "type": "stacked100",
+  "unit": "%",
+  "labels": [
+   "Above the 80th Percentile of Tracts (Greatest Susceptibility)",
+   "60th to 80th Percentile",
+   "40th to 60th Percentile",
+   "20th to 40th Percentile",
+   "Below the 20th Percentile (Lowest Susceptibility)",
+   "City of Chicago"
+  ],
+  "datasets": [
+   {
+    "label": "% Black",
+    "data": [
+     50,
+     27,
+     20,
+     20,
+     22,
+     28
+    ],
+    "color": "#2F63A8"
+   },
+   {
+    "label": "% Latinx",
+    "data": [
+     33,
+     43,
+     33,
+     20,
+     15,
+     29
+    ],
+    "color": "#C0612A"
+   },
+   {
+    "label": "% White",
+    "data": [
+     14,
+     22,
+     38,
+     45,
+     47,
+     33
+    ],
+    "color": "#3E8C63"
+   },
+   {
+    "label": "% Asian",
+    "data": [
+     1,
+     6,
+     6,
+     11,
+     11,
+     7
+    ],
+    "color": "#A1457A"
+   },
+   {
+    "label": "% Other",
+    "data": [
+     2,
+     2,
+     3,
+     4,
+     5,
+     3
+    ],
+    "color": "#9A9A9A"
+   }
+  ],
+  "horizontal": true
+ },
+ "mpc-p39-zoning-share": {
+  "type": "bar",
+  "unit": "%",
+  "horizontal": true,
+  "labels": [
+   "Residential (R)",
+   "Planned Development (PD)",
+   "Manufacturing (M)",
+   "Parks and Open Space (POS)",
+   "Planned Manufacturing District (PMD)",
+   "Business (B)",
+   "Commercial (C)",
+   "Downtown (D)",
+   "Transportation (T)"
+  ],
+  "datasets": [
+   {
+    "label": "RS",
+    "data": [
+     41,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "color": "#F3D36B",
+    "stack": "s"
+   },
+   {
+    "label": "RT",
+    "data": [
+     8,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "color": "#E9A945",
+    "stack": "s"
+   },
+   {
+    "label": "RM",
+    "data": [
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "color": "#B9772A",
+    "stack": "s"
+   },
+   {
+    "label": "Share of zoned land, 2023",
+    "data": [
+     0,
+     13,
+     11,
+     8,
+     6,
+     6,
+     3,
+     1,
+     0.5
+    ],
+    "color": "#9DAFC6",
+    "stack": "s"
+   }
+  ],
+  "value_labels": [
+   "52%",
+   "13%",
+   "11%",
+   "8%",
+   "6%",
+   "6%",
+   "3%",
+   "1%",
+   "<1%"
+  ]
+ },
+ "urban-table1": {
+  "type": "bar",
+  "labels": [
+   "Reform 1: Allowing duplexes and triplexes",
+   "Reform 2: Legalizing small apartment buildings (four to nine units)",
+   "Reform 3: Enabling higher-density multifamily buildings within ¼ mile of transit",
+   "Reform 4: Combining reforms 2 and 3"
+  ],
+  "unit_options": {
+   "units": {
+    "label": "Permits on affected parcels (in units)",
+    "prefix": "+",
+    "datasets": [
+     {
+      "label": "Permits on affected parcels (in units)",
+      "data": [
+       5900,
+       8100,
+       4100,
+       9500
+      ],
+      "color": "#1696d2"
+     }
+    ]
+   },
+   "pct": {
+    "label": "Permits on affected parcels",
+    "prefix": "+",
+    "suffix": "%",
+    "datasets": [
+     {
+      "label": "Permits on affected parcels",
+      "data": [
+       6.8,
+       9.4,
+       4.7,
+       11.0
+      ],
+      "color": "#1696d2"
+     }
+    ]
+   },
+   "capacity": {
+    "label": "Zoning capacity on affected parcels (% of baseline)",
+    "suffix": "% of baseline",
+    "datasets": [
+     {
+      "label": "Zoning capacity on affected parcels",
+      "data": [
+       140,
+       180,
+       200,
+       240
+      ],
+      "color": "#0a4c6a"
+     }
+    ]
+   }
+  },
+  "default": "units",
+  "toggle_labels": {
+   "units": "Units",
+   "pct": "% change in permits",
+   "capacity": "Zoning capacity"
+  },
+  "horizontal": true
+ },
+ "urban-adu-scenarios": {
+  "type": "bar",
+  "labels": [
+   "Permitted in pilot areas, 2021–2025 (actual)",
+   "Pilot citywide, without owner-occupancy rules (estimate)"
+  ],
+  "datasets": [
+   {
+    "label": "ADUs",
+    "data": [
+     343,
+     1203
+    ],
+    "colors": [
+     "#1696d2",
+     "#fdbf11"
+    ]
+   }
+  ],
+  "value_labels": [
+   "343",
+   "1,203"
+  ],
+  "note_site": "Values as stated in the article text: 343 ADUs permitted; “about 860 additional ADUs … for a total of 1,203 ADUS—or 3.5 times the number of ADUs that were actually permitted.”"
+ },
+ "urban-adu-types": {
+  "type": "doughnut",
+  "unit": "%",
+  "labels": [
+   "Above-garage coach or carriage houses",
+   "Internal conversions (e.g., basement, attic, or other space conversions to add units)",
+   "External additions, legalization of existing ADUs, or other forms that were unclear from their permit"
+  ],
+  "datasets": [
+   {
+    "label": "Share of 343 ADUs permitted",
+    "data": [
+     28,
+     66,
+     6
+    ],
+    "colors": [
+     "#1696d2",
+     "#0a4c6a",
+     "#d2d2d2"
+    ]
+   }
+  ],
+  "extra": [
+   "built on lots with 2.8 existing units on average",
+   "built on lots with 4.6 existing units on average",
+   "external additions built on lots with 2.2 units existing units on average"
+  ]
+ }
+}

@@ -1,0 +1,77 @@
+=== mpc PDF page 32 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    30
+[IMAGE 51,753,150,767]
+[IMAGE 244,59,274,89]
+[B 78,73,534,110]
+  {ProximaNova-Regular 15.0 #ffffff}The challenge:  
+  {ProximaNova-Regular 15.0 #ffffff}Proactive planning is piecemeal and focused on the neighborhood level
+[B 49,130,564,155]
+  {ProximaNova-Regular 9.0 #000000}In Chicago, our efforts to update zoning tend to be piecemeal—and always at the discretion of the local alder—rather than guided by 
+  {ProximaNova-Regular 9.0 #000000}citywide planning and citywide goals. 
+[IMAGE 49,166,62,180]
+[B 49,163,560,248]
+  {ProximaNova-Extrabld 9.0 #4f7a60}Chicago does not regularly engage in comprehensive citywide planning.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}The {ProximaNova-Regular 9.0 #0000ff}We Will Chicago Plan{ProximaNova-Regular 9.0 #000000}, adopted by the 
+  {ProximaNova-Regular 9.0 #000000}Chicago Plan Commission in 2023, was Chicago’s first citywide plan in more than 50 years. Chicago doesn’t lack ambitious 
+  {ProximaNova-Regular 9.0 #000000}aspirations for its future: We Will Chicago set out more than 40 goals and 150 objectives for the next ten years. But the Plan was not 
+  {ProximaNova-Regular 9.0 #000000}designed as a “comprehensive” plan, meaning it does not offer specific land use reforms to help translate its goals into reality or 
+  {ProximaNova-Regular 9.0 #000000}carry any statutory requirements for implementation. There is also no requirement for regular updates or review of the We Will 
+  {ProximaNova-Regular 9.0 #000000}Chicago Plan, which was tied to a mayoral administration, rather than an ongoing city strategy. Chicago’s last comprehensive 
+  {ProximaNova-Regular 9.0 #000000}planning effort dates back to 1966.{ProximaNova-Regular 5.2 #000000} 22
+[IMAGE 49,259,62,273]
+[B 49,256,563,341]
+  {ProximaNova-Extrabld 9.0 #4f7a60}There is currently no mandate to comprehensively plan or regularly update zoning and land use policies as the city’s 
+  {ProximaNova-Extrabld 9.0 #4f7a60}needs change{ProximaNova-Extrabld 9.0 #6a2310}. {ProximaNova-Regular 9.0 #000000}Instead, zoning changes often happen in response to specific development proposals—through rezonings for 
+  {ProximaNova-Regular 9.0 #000000}individual projects or through the Planned Development process—and through localized corridor planning initiatives. Currently, 
+  {ProximaNova-Regular 9.0 #000000}these changes require passage through City Council, which virtually always means deferring to the local alderperson. Without 
+  {ProximaNova-Regular 9.0 #000000}citywide planning directives to steer development decisions, each ward fends for itself. Public input may occur during public 
+  {ProximaNova-Regular 9.0 #000000}meetings of decision-making bodies, community meetings, and ward-level zoning advisory councils, but this is contingent on project 
+  {ProximaNova-Regular 9.0 #000000}specifics and on each alder’s interest in—and approach to—public engagement. 
+[B 62,362,212,471]
+  {IvyPrestoHeadline-Light 14.0 #000000}Without a comprehensive 
+  {IvyPrestoHeadline-Light 14.0 #000000}planning process and a 
+  {IvyPrestoHeadline-Light 14.0 #000000}citywide approach, it is 
+  {IvyPrestoHeadline-Light 14.0 #000000}difficult if not impossible to 
+  {IvyPrestoHeadline-Light 14.0 #000000}make the changes we need 
+  {IvyPrestoHeadline-Light 14.0 #000000}at scale.
+[IMAGE 234,352,248,366]
+[B 234,349,564,446]
+  {ProximaNova-Extrabld 9.0 #4f7a60}Local corridor planning is valuable, but limited in its reach. {ProximaNova-Regular 9.0 #000000}Between 2024 
+  {ProximaNova-Regular 9.0 #000000}and 2026, DPD has worked with local alders on corridor-by-corridor zoning 
+  {ProximaNova-Regular 9.0 #000000}changes, leading 16 rezoning efforts across 17 wards and encompassing at least 
+  {ProximaNova-Regular 9.0 #000000}5,300 parcels. These initiatives are meaningful and show the benefits of moving 
+  {ProximaNova-Regular 9.0 #000000}beyond a parcel-by-parcel approach to zoning. Still, corridor planning is valuable but 
+  {ProximaNova-Regular 9.0 #000000}not sufficient: MPC estimates these rezonings cover less than 1% of total parcels in 
+  {ProximaNova-Regular 9.0 #000000}the city. Without a comprehensive planning process and a citywide approach, it is 
+  {ProximaNova-Regular 9.0 #000000}difficult if not impossible to make the changes we need at scale. 
+[IMAGE 234,457,248,471]
+[B 49,454,563,539]
+  {ProximaNova-Extrabld 9.0 #4f7a60}Currently, zoning decisions ostensibly allow for public input, but a 
+  {ProximaNova-Extrabld 9.0 #4f7a60}multiplicity of meetings and lack of clarity makes for a complex and 
+  {ProximaNova-Extrabld 9.0 #4f7a60}inaccessible system.{ProximaNova-Regular 5.2 #000000}23{ProximaNova-Regular 9.0 #000000} Because these meetings are subject to the Illinois Open 
+  {ProximaNova-Regular 9.0 #000000}Meetings Act, they are open to the public and must include an opportunity for public 
+  {ProximaNova-Regular 9.0 #000000}comment. But that’s just about where the similarities end: whether public feedback actually matters for the decision itself, how the 
+  {ProximaNova-Regular 9.0 #000000}meetings are scheduled and publicized, and how public comment works varies widely. Plus, other meetings that also have an 
+  {ProximaNova-Regular 9.0 #000000}influence on zoning decisions, like ward-level zoning advisory councils, may or may not be subject to the Open Meetings Act.
+[IMAGE 49,550,62,564]
+[B 49,547,565,656]
+  {ProximaNova-Extrabld 9.0 #4f7a60}Without intentional and broad-reaching effort, public input often fails to be representative.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}There are persistent problems 
+  {ProximaNova-Regular 9.0 #000000}with public feedback that need to be proactively addressed. A public meeting on an individual rezoning, for example, tends to 
+  {ProximaNova-Regular 9.0 #000000}leave out some important groups: those who would like to weigh in but don’t have the resources; the unknown number of people 
+  {ProximaNova-Regular 9.0 #000000}who may feel small-scale harm or benefit, which can collectively add up to a large impact; and any future residents of any 
+  {ProximaNova-Regular 9.0 #000000}development enabled by the rezoning, who don’t live there yet. Research on public engagement patterns in Louisville showed that 
+  {ProximaNova-Regular 9.0 #000000}public speakers in rezoning hearings are more likely to be residents from whiter and higher-income neighborhoods.{ProximaNova-Regular 5.2 #000000} 24{ProximaNova-Regular 9.0 #000000} This tracks 
+  {ProximaNova-Regular 9.0 #000000}with other research showing that opposition to development is more likely to come from older, white homeowners than others who 
+  {ProximaNova-Regular 9.0 #000000}live in a community.{ProximaNova-Regular 5.2 #000000} 25{ProximaNova-Regular 9.0 #000000} Engagement that is larger than a single-project scope can begin to address some of these shortcomings, 
+  {ProximaNova-Regular 9.0 #000000}bringing in some of the voices that are missing when the conversation is limited to a single development.
+[B 49,677,544,739]
+  {ProximaNova-Regular 7.5 #4e5154}22 Metropolitan Planning Council, “{ProximaNova-Regular 7.5 #0000ff}Looking Back to Move Forward: Chicago’s Planning Landscape, Defined{ProximaNova-Regular 7.5 #4e5154},” Jordan Bailly, October 2020.
+  {ProximaNova-Regular 7.5 #4e5154}23 This includes City Council meetings, City Council Committee meetings, Zoning Board of Appeals meetings, Chicago Plan Commission meetings, 
+  {ProximaNova-Regular 7.5 #4e5154}Commission on Chicago Landmarks meetings, and Community Commission Development meetings.
+  {ProximaNova-Regular 7.5 #4e5154}24 Urban Institute, {ProximaNova-Regular 7.5 #0000ff}“Influencers, Bias, and Equity in Rezoning Cases,”{ProximaNova-Regular 7.5 #4e5154} Lydia Lo and Yonah Freemark, November 2022.
+  {ProximaNova-Regular 7.5 #4e5154}25 Katherine Levine, Glick David M, and Palmer Maxwell, Neighborhood Defenders: Participatory Politics and America’s Housing Crisis, Cambridge, UK: 
+  {ProximaNova-Regular 7.5 #4e5154}Cambridge University Press, 2019.
+--- LINKS ---
+  [We Will Chicago Plan, n 50 years. Chicago do] -> https://www.chicago.gov/city/en/sites/dpd-plan-archive/home/we-will-chicago.html
+  [“Looking Back to Move Forward: Chicago’s Planning Landscape, Defined ngs, City Council Committee meetings, Zoning Board of Appeals meeting] -> https://metroplanning.org/looking-back-to-move-forward-chicagos-planning-landscape-defined/
+  [ago Landmarks meetings, and Community Commi  “Influencers, Bias, and Equity in Rezoning Cases,” e, Glick David M, and Palmer Maxwell, Neighborho] -> https://bpb-us-e2.wpmucdn.com/sites.wustl.edu/dist/a/3075/files/2022/12/Rezoning-Report-Louisville.pdf

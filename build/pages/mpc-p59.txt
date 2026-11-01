@@ -1,0 +1,57 @@
+=== mpc PDF page 59 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    57
+[IMAGE 51,753,150,767]
+[B 49,50,200,213]
+  {ProximaNova-Regular 15.0 #4e5154}Engagement strategies 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Worksheets and workbooks
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Live presentations
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Recorded video presentations
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Digital surveys
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}In-person Menti surveys
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Large group discussion 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Small group discussion
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Pair discussion 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Activity boards with sticky notes 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Dot / voting boards 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Regular 9.0 #000000}Interactive physical maps
+[B 49,220,354,236]
+  {ProximaNova-Bold 11.0 #000000}Documenting and synthesizing feedback on recommendations
+[B 49,243,549,279]
+  {ProximaNova-Regular 9.0 #000000}In workshops between 2024 and 2025, MPC collected more than 1,200 pieces of feedback from stakeholders on an initial set 
+  {ProximaNova-Regular 9.0 #000000}of zoning reform recommendations, which were used to update the recommendations to become the revised set that eventually 
+  {ProximaNova-Regular 9.0 #000000}appeared in this report. 
+[B 49,288,552,348]
+  {ProximaNova-Regular 9.0 #000000}In this process, MPC documented each individual piece of feedback received—whether through interaction on an activity board, 
+  {ProximaNova-Regular 9.0 #000000}notes in a workshop workbook, or other feedback channels—in a central spreadsheet for each of the project’s priority outcomes 
+  {ProximaNova-Regular 9.0 #000000}(with the exception of Productive Land Use, which did not have a set of proposed recommendations). Alongside this qualitative 
+  {ProximaNova-Regular 9.0 #000000}feedback on the draft recommendations, voting was used to gauge levels of agreement among stakeholders with each individual 
+  {ProximaNova-Regular 9.0 #000000}recommendation, and votes were also individually tracked and summarized.
+[B 49,357,561,393]
+  {ProximaNova-Regular 9.0 #000000}MPC staff reviewed and coded the feedback to summarize the themes and issues that emerged most frequently, in these 
+  {ProximaNova-Regular 9.0 #000000}categories: (1) This could be effective because (2) This could be improved by (3) If this was implemented, things to consider (4) What 
+  {ProximaNova-Regular 9.0 #000000}is missing. These themes were used by teams of MPC staff, alongside the voting results, to update recommendations.

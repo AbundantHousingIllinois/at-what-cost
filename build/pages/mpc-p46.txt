@@ -1,0 +1,190 @@
+=== mpc PDF page 46 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    44
+[IMAGE 51,753,150,767]
+[B 53,50,486,66]
+  {ProximaNova-Bold 11.0 #ffffff}Variable
+  {ProximaNova-Bold 11.0 #ffffff}Data Source(s)
+  {ProximaNova-Bold 11.0 #ffffff}Data Year(s)
+  {ProximaNova-Bold 11.0 #ffffff}Outcomes
+[B 53,68,548,91]
+  {ProximaNova-Regular 9.0 #000000}Flooding Complaints to 311
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,94,330,127]
+  {ProximaNova-Regular 9.0 #000000}Housing Age (Share of homes built before 
+  {ProximaNova-Regular 9.0 #000000}1970)
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,94,548,117]
+  {ProximaNova-Regular 9.0 #000000}2018-2022
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,131,328,183]
+  {ProximaNova-Regular 9.0 #000000}Impervious Surface (percentage)
+  {ProximaNova-Regular 9.0 #000000}U. S. Geological Survey 
+  {ProximaNova-Regular 9.0 #000000}(USGS) Annual NLCD 
+  {ProximaNova-Regular 9.0 #000000}Collection 1 Science 
+  {ProximaNova-Regular 9.0 #000000}Products: U. S. Geological 
+  {ProximaNova-Regular 9.0 #000000}Survey data release
+[B 350,131,548,153]
+  {ProximaNova-Regular 9.0 #000000}2023
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,187,210,209]
+  {ProximaNova-Regular 9.0 #000000}Youth and Senior Population (Percent of 
+  {ProximaNova-Regular 9.0 #000000}population under 18 and over 65)
+[B 228,187,330,219]
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,187,548,209]
+  {ProximaNova-Regular 9.0 #000000}2018-2022
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,223,330,255]
+  {ProximaNova-Regular 9.0 #000000}Disabled Population (Percentage)
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,223,548,245]
+  {ProximaNova-Regular 9.0 #000000}2018-2022
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,259,326,281]
+  {ProximaNova-Regular 9.0 #000000}Students traveling <15 minutes to school
+  {ProximaNova-Regular 9.0 #000000}Chicago Public Schools 
+  {ProximaNova-Regular 9.0 #000000}Annual Regional Analysis
+[B 350,259,516,271]
+  {ProximaNova-Regular 9.0 #000000}2024
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,285,212,308]
+  {ProximaNova-Regular 9.0 #000000}Proportion attending Zoned or School in 
+  {ProximaNova-Regular 9.0 #000000}Region
+[B 228,285,326,308]
+  {ProximaNova-Regular 9.0 #000000}Chicago Public Schools 
+  {ProximaNova-Regular 9.0 #000000}Annual Regional Analysis
+[B 350,285,516,298]
+  {ProximaNova-Regular 9.0 #000000}2024
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,311,191,334]
+  {ProximaNova-Regular 9.0 #000000}Academic Variety (Arts, CTE, World 
+  {ProximaNova-Regular 9.0 #000000}Lnaguage)
+[B 228,311,326,334]
+  {ProximaNova-Regular 9.0 #000000}Chicago Public Schools 
+  {ProximaNova-Regular 9.0 #000000}Annual Regional Analysis
+[B 350,311,516,324]
+  {ProximaNova-Regular 9.0 #000000}2024
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,337,516,350]
+  {ProximaNova-Regular 9.0 #000000}Early Childhood Programs within ½ mile
+  {ProximaNova-Regular 9.0 #000000}Chicago Early Learning
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,353,339,386]
+  {ProximaNova-Regular 9.0 #000000}K-12 institutions within a ½ mile
+  {ProximaNova-Regular 9.0 #000000}Illinois State Board of 
+  {ProximaNova-Regular 9.0 #000000}Education Report Card Data 
+  {ProximaNova-Regular 9.0 #000000}Library
+[B 350,353,516,366]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,389,199,412]
+  {ProximaNova-Regular 9.0 #000000}Higher Education institutions within a 
+  {ProximaNova-Regular 9.0 #000000}half-mile
+[B 228,389,304,412]
+  {ProximaNova-Regular 9.0 #000000}National Center for 
+  {ProximaNova-Regular 9.0 #000000}Education Stat
+[B 350,389,516,402]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,416,329,438]
+  {ProximaNova-Regular 9.0 #000000}AllTransit Performance Score
+  {ProximaNova-Regular 9.0 #000000}Center for Neighborhood 
+  {ProximaNova-Regular 9.0 #000000}Technology
+[B 350,416,516,428]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,442,329,464]
+  {ProximaNova-Regular 9.0 #000000}Job Access by Transit
+  {ProximaNova-Regular 9.0 #000000}Center for Neighborhood 
+  {ProximaNova-Regular 9.0 #000000}Technology
+[B 350,442,516,454]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,468,516,480]
+  {ProximaNova-Regular 9.0 #000000}Bus Frequent Network
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,484,516,496]
+  {ProximaNova-Regular 9.0 #000000}Divvy Bike Density
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,500,516,513]
+  {ProximaNova-Regular 9.0 #000000}Protected Bike Infrastructure
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,516,330,539]
+  {ProximaNova-Regular 9.0 #000000}High-way On-Ramp within ½ mile
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 350,516,516,529]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,542,330,565]
+  {ProximaNova-Regular 9.0 #000000}CTA Rail station within ¼ mile
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 350,542,516,555]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,568,330,591]
+  {ProximaNova-Regular 9.0 #000000}Metra Rail station within ½ mile
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 350,568,516,581]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,594,330,617]
+  {ProximaNova-Regular 9.0 #000000}Pace Bus within ¼ mile
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 350,594,516,607]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,620,516,633]
+  {ProximaNova-Regular 9.0 #000000}Density of Youth Programming
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,637,516,649]
+  {ProximaNova-Regular 9.0 #000000}Park within 1/8 mile
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,653,516,665]
+  {ProximaNova-Regular 9.0 #000000}Special Service Area within ½ mile
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,669,516,681]
+  {ProximaNova-Regular 9.0 #000000}Library within ½ mile 
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,685,516,698]
+  {ProximaNova-Regular 9.0 #000000}Senior Center within ½ mile
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,701,516,714]
+  {ProximaNova-Regular 9.0 #000000}Community Service Center within 1 mile
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use

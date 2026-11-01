@@ -1,0 +1,37 @@
+=== mpc PDF page 13 (w=612 h=792) ===
+[B 370,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    11
+[IMAGE 51,753,150,767]
+[B 49,46,255,69]
+  {ProximaNova-Bold 9.0 #000000}Housing affordability for the typical Chicago renter  
+  {ProximaNova-Bold 9.0 #000000}in 2022	
+[IMAGE 49,69,273,342]
+[B 49,347,274,366]
+  {ProximaNova-RegularIt 7.5 #000000}The percent of income the median Chicago household would spend  
+  {ProximaNova-RegularIt 7.5 #000000}on the median rent by census tract.
+[B 312,46,542,69]
+  {ProximaNova-Bold 9.0 #000000}Housing affordability for the typical Chicago homeowner  
+  {ProximaNova-Bold 9.0 #000000}in 2022	
+[IMAGE 312,69,536,342]
+[B 312,347,539,384]
+  {ProximaNova-RegularIt 7.5 #000000}The ratio of affordable monthly mortgage payment for the median 
+  {ProximaNova-RegularIt 7.5 #000000}Chicago household to median home value purchase price, by census 
+  {ProximaNova-RegularIt 7.5 #000000}tract. Assumes 27% of monthly income to principal and interest, 20% 
+  {ProximaNova-RegularIt 7.5 #000000}downpayment, and 7.05% interest rates in 2022.
+[B 49,386,230,409]
+  {ProximaNova-Bold 9.0 #000000}Housing affordability for renters in their own  
+  {ProximaNova-Bold 9.0 #000000}neighborhoods in 2022
+[IMAGE 49,410,273,683]
+[B 49,689,279,708]
+  {ProximaNova-RegularIt 7.5 #000000}The percent of income the median Chicago household in each census 
+  {ProximaNova-RegularIt 7.5 #000000}tract would spend on the median rent in the same census tract.
+[B 312,386,517,409]
+  {ProximaNova-Bold 9.0 #000000}Housing affordability for homeowners in their own  
+  {ProximaNova-Bold 9.0 #000000}neighborhoods in 2022	
+[IMAGE 312,410,536,683]
+[B 49,689,552,737]
+  {ProximaNova-RegularIt 7.5 #000000}The ratio of affordable monthly mortgage payment for the median 
+  {ProximaNova-RegularIt 7.5 #000000}Chicago household in each census tract to median home value purchase 
+  {ProximaNova-RegularIt 7.5 #000000}price in the same tract. Assumes 27% of monthly income to principal and 
+  {ProximaNova-RegularIt 7.5 #000000}interest, 20% downpayment, and 7.05% interest rates in 2022.
+  {ProximaNova-RegularIt 7.5 #000000}Created by Urban Institute. Source: Census ACS 2018–2022

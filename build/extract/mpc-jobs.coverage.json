@@ -1,0 +1,48 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  20,
+  21,
+  22
+ ],
+ "figures_placed": [
+  "mpc-p20-business-bars",
+  "mpc-p20-vacancy-bars",
+  "mpc-p21-ped-streets-map",
+  "mpc-p21-business-zoning-grid"
+ ],
+ "footnotes": [],
+ "notes": [
+  "Internal link 'page 16' (→ internal PDF p18) mapped to #rec-legalize-6-stories (rec that starts on PDF 18; 'more housing near transit'). Fallback: #housing-vision.",
+  "Internal link 'page 31' (→ internal PDF p33) mapped to #planning-vision.",
+  "Trailing periods after 'page 31' and after rec-small-business summary are visible in the page image but missing in the dump; included.",
+  "PDF 21 order: findings, then pedestrian-streets map (left) and business-zoning grid (right, title sits slightly higher); placed map first, then grid + data table.",
+  "Business zoning grid is a Datawrapper image; table transcribed from 300dpi render. Its in-image note and 'Created with Datawrapper' credit: note included as fig-note inside <details>, credit omitted.",
+  "Dump spacing artifacts normalized silently: '14. 7'→'14.7', 'U. S.'→'U.S.', 'PM2. 5'→'PM2.5', 'D. C.'→'D.C.', 'DataUSA. io'→'DataUSA.io'."
+ ],
+ "figure_text": {
+  "mpc-p20-business-bars": {
+   "title": "Businesses are most concentrated in majority-white areas",
+   "axis": "Average number of businesses per 1,000 residents",
+   "data": "Majority White Tracts 15; Majority Black Tracts 9; Majority Latinx Tracts 11; Majority Asian Tracts 12",
+   "source": "Source: City of Chicago business license data, 2023; Census ACS 2018-2022"
+  },
+  "mpc-p20-vacancy-bars": {
+   "title": "Majority-Black tracts see the highest business and residential property vacancy rates",
+   "axis": "Vacancy rates",
+   "data": "Majority White Tracts 3%; Majority Black Tracts 10%; Majority Latinx Tracts 5%; Majority Asian Tracts 2%",
+   "source": "Source: Census ACS 2018-2022; Vacancy rates from U.S. Postal Service, aggregated by HUD, 2022. Identifies addresses that have not collected mail for 90 days or longer; includes both residential and business locations."
+  },
+  "mpc-p21-ped-streets-map": {
+   "title": "Zoning-designated “pedestrian streets” are concentrated on the North side",
+   "legend": "Chicago Community Areas; Pedestrian Corridors",
+   "source": "Source: City of Chicago zoning map, 2023"
+  },
+  "mpc-p21-business-zoning-grid": {
+   "title": "Business zoning types vary across demographic groups, showing auto-oriented zoning is more common for Black and Latinx Chicagoans",
+   "note": "This looks at top 30% most populous tracts for each demographic (roughly 75 to 85 percent of the citywide population for each demographic). For example, in the top 30% of tracts with the most Latinx Chicagoans, 21% of all commercial is zoned for B3 Business.",
+   "credit": "Created with Datawrapper",
+   "source": "Source: Census ACS 2018-2022; City of Chicago zoning map, 2023."
+  }
+ }
+}

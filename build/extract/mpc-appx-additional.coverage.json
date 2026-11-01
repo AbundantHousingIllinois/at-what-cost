@@ -1,0 +1,19 @@
+{
+  "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+  "pages": [35, 36, 37, 38],
+  "figures_placed": ["mpc-p35-usi-map", "mpc-p36-density-map", "mpc-p36-typology-map", "mpc-p37-insurance-map", "mpc-p37-food-maps", "mpc-p38-food-bars"],
+  "footnotes": [],
+  "notes": [
+    "Manifest entries have empty title/caption/source; verbatim printed text: mpc-p35-usi-map title 'Cumulative Urban Services Index Score' (legend 'Cumulative USI Score': 1st–4th Quartile).",
+    "mpc-p36-density-map title 'Cumulative Density Score' (legend 'Cumulative Density Score': 1st–4th Quartile).",
+    "mpc-p36-typology-map title 'Infrastructure-Density Typologies' (legend: High Infrastructure, High Density; Low Infrastructure, Low Density; Moderate Infrastructure, Low Density; Low Infrastructure, Moderate Density).",
+    "mpc-p37-insurance-map has NO printed title; legend reads 'Share of Residents with Private Insurance (*100)' with bins 0 - 0.16 … 0.8 - 0.96.",
+    "mpc-p37-food-maps title 'Northside communities have access to more healthy food stores, and less healthy food stores are evenly distributed'; source line 'Data: USDA SNAP Food Vendors 2025' (italic). In-image labels: 'Less Healthy (Convenience Stores, Drug Stores, Dollar Stores)', 'More Healthy (Grocery stores, supermarkets, super stores, farmer’s markets, restaurant food centers)'.",
+    "mpc-p38-food-bars title 'USDA SNAP vendor counts by zone' (title is drawn inside the chart image region); 'Source: 2025 USDA SNAP Vendors (grocery stores, supermarkets, and super stores) and 2023 Chicago zoning data' / 'Note: This excludes specialty stores, pharmacies, corner stores, convenience stores, and farmers markets'.",
+    "Links: 'APPENDIX: RESEARCH METHODOLOGY' (internal page 42) -> #appx-methodology. 'Zoning and Land Use Assessment webpage' is not linked in the PDF; left unlinked.",
+    "Typos kept (sic): 'infrastructural strength offers' (p36), 'housing supply .' space before period (p36), 'other parts of the city..' double period (p37), 'grocery stories' (p37).",
+    "Kept straight apostrophes in 'Chicago's densest areas' and 'city's most dense areas' (p36) as printed.",
+    "p38 lead-in: bold ends before the period ('…zoned B3</strong>.') as printed.",
+    "PyMuPDF spacing artifacts ('e. g.', 'etc. )') normalized to the printed 'e.g.', 'etc.)'."
+  ]
+}

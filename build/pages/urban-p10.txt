@@ -1,0 +1,17 @@
+=== urban PDF page 10 (w=612 h=792) ===
+[B 46,37,537,76]
+  {FuturaPTWeb-Heavy 15.3 #000000}Combining Reforms That Allow Small-Scale Apartments Plus Transit-
+  {FuturaPTWeb-Heavy 15.3 #000000}Oriented Upzoning Would Unlock More Housing Supply Across the City
+[B 46,78,405,90]
+  {Lato-Regular 10.2 #000000}Estimated additional units permitted by 2041, compared with baseline, by reform
+[B 46,103,255,117]
+  {Lato-Regular 11.5 #353535}Reform 1: Allowing duplexes and triplexes
+[IMAGE 46,130,566,692]
+[B 46,704,373,718]
+  {Lato-Regular 11.5 #353535}Reform 2: Legalizing small apartment buildings (four to nine units)
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}10/17

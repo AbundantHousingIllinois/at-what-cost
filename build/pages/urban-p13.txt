@@ -1,0 +1,21 @@
+=== urban PDF page 13 (w=612 h=792) ===
+[IMAGE 46,36,566,598]
+[B 46,610,530,633]
+  {Lato-Bold 8.9 #000000}Sources: {Lato-Regular 8.9 #000000}Authors’ analysis of Cook County Assessor parcel data, City of Chicago zoning data, and 2020–24 census tract–level
+  {Lato-Regular 8.9 #000000}American Community Survey data.
+[B 46,638,563,661]
+  {Lato-Bold 8.9 #000000}Notes: {Lato-Regular 8.9 #000000}These estimates assume economic conditions between 2011 and 2025 persist. Estimates are for cumulative development from
+  {Lato-Regular 8.9 #000000}2026 to 2041.
+[B 46,674,48,684]
+  {Lato-Regular 8.9 #000000} 
+[B 46,697,553,711]
+  {Lato-Regular 11.5 #353535}We estimate that allowing denser housing in transit areas (reform 3) would have the greatest effect on
+[B 46,715,540,745]
+  {Lato-Regular 11.5 #353535}Jefferson Park, Lincoln Square, and Portage Park. As expected, reform 4 would combine the relative
+  {Lato-Regular 11.5 #353535}impacts of reforms 2 and 3 on different areas.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}13/17

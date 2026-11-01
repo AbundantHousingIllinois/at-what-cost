@@ -1,0 +1,95 @@
+=== urban PDF page 9 (w=612 h=792) ===
+[B 46,37,561,76]
+  {FuturaPTWeb-Heavy 15.3 #000000}These Reforms Could Increase Housing Supply, but Wouldn’t Fully Meet the
+  {FuturaPTWeb-Heavy 15.3 #000000}City’s Housing Needs
+[B 46,83,350,95]
+  {Lato-Regular 10.2 #000000}Estimated effects of zoning reforms by 2041 compared with baseline
+[B 196,123,290,134]
+  {Times-Bold 11.5 #000000}Zoning capacity on
+[B 213,136,290,148]
+  {Times-Bold 11.5 #000000}affected parcels
+[B 326,123,422,134]
+  {Times-Bold 11.5 #000000}Permits on affected
+[B 387,136,422,148]
+  {Times-Bold 11.5 #000000}parcels
+[B 459,123,554,134]
+  {Times-Bold 11.5 #000000}Permits on affected
+[B 472,136,554,148]
+  {Times-Bold 11.5 #000000}parcels (in units)
+[B 46,165,554,188]
+  {Times-Bold 10.5 #000000}Reform 1:{Times-Roman 10.5 #000000} Allowing
+  {Times-Roman 10.5 #000000}duplexes and triplexes
+  {Times-Roman 10.5 #000000}140% of baseline
+  {Times-Roman 10.5 #000000}+6.8%
+  {Times-Roman 10.5 #000000}+5,900
+[B 46,206,156,242]
+  {Times-Bold 10.5 #000000}Reform 2:{Times-Roman 10.5 #000000} Legalizing
+  {Times-Roman 10.5 #000000}small apartment buildings
+  {Times-Roman 10.5 #000000}(four to nine units)
+[B 217,219,554,229]
+  {Times-Roman 10.5 #000000}180% of baseline
+  {Times-Roman 10.5 #000000}+9.4%
+  {Times-Roman 10.5 #ababab}+8,100
+[B 46,260,145,309]
+  {Times-Bold 10.5 #000000}Reform 3:{Times-Roman 10.5 #000000} Enabling
+  {Times-Roman 10.5 #000000}higher-density
+  {Times-Roman 10.5 #000000}multifamily buildings
+  {Times-Roman 10.5 #000000}within ¼ mile of transit
+[B 217,279,554,290]
+  {Times-Roman 10.5 #000000}200% of baseline
+  {Times-Roman 10.5 #000000}+4.7%
+  {Times-Roman 10.5 #000000}+4,100
+[B 46,327,554,350]
+  {Times-Bold 10.5 #000000}Reform 4:{Times-Roman 10.5 #000000} Combining
+  {Times-Roman 10.5 #000000}reforms 2 and 3
+  {Times-Roman 10.5 #000000}240% of baseline
+  {Times-Roman 10.5 #000000}+11.0%
+  {Times-Roman 10.5 #ababab}+9,500
+[B 46,380,565,390]
+  {Lato-Bold 8.9 #000000}Source:{Lato-Regular 8.9 #000000} Authors’ analysis of Cook County Assessor parcel data, City of Chicago zoning data, and 2020–24 census tract–level American
+[B 46,393,142,404]
+  {Lato-Regular 8.9 #000000}Community Survey data.
+[B 46,411,555,422]
+  {Lato-Bold 8.9 #000000}Notes:{Lato-Regular 8.9 #000000} Estimated effect is only for parcels where residential uses are allowed by right. The model does not include potential planned
+[B 46,425,562,435]
+  {Lato-Regular 8.9 #000000}developments. For reform 1, we assume triplexes are allowed only on lots with at least 2,500 square feet; we also increase the allowed
+[B 46,438,537,449]
+  {Lato-Regular 8.9 #000000}floor area ratio to 1.05. For reform 2, we allow more units on larger parcels (scaling up as the parcel size grows) and increase the
+[B 46,452,551,462]
+  {Lato-Regular 8.9 #000000}allowed floor area ratio to 1.25. For reform 3, we assume that parcel areas that could be affected by this change could be as small as
+[B 46,465,556,476]
+  {Lato-Regular 8.9 #000000}1,650 square feet, and that the allowed floor area ratio is increased to 2.5. Reform 2 fully encompasses reform 1, in that it would also
+[B 46,479,322,489]
+  {Lato-Regular 8.9 #000000}allow duplexes or triplexes if the lot is too small to allow bigger projects.
+[B 46,495,557,509]
+  {Lato-Regular 11.5 #353535}We estimate that allowing triplexes by right on small lots would increase the number of units permitted
+[B 46,512,538,526]
+  {Lato-Regular 11.5 #353535}by 5,900. Allowing four-to-nine-unit buildings on medium and large lots would add 8,100 permitted
+[B 46,529,566,543]
+  {Lato-Regular 11.5 #353535}units. Allowing high-density housing throughout areas near transit would add 4,100 units. Combined, the
+[B 46,547,391,560]
+  {Lato-Regular 11.5 #353535}latter two reforms would add 9,500 units above the baseline forecast.
+[B 46,574,536,587]
+  {Lato-Regular 11.5 #353535}Given the city’s {Lato-Regular 11.5 #1696d2}current estimated current gap of 226,000 affordable homes{Lato-Regular 8.6 #1696d2} (https://nlihc.org/gap/state/il){Lato-Regular 11.5 #353535},
+[B 46,591,546,605]
+  {Lato-Regular 11.5 #353535}these reforms would not fully address the city’s housing needs, but they represent a start. Combining
+[B 46,608,562,622]
+  {Lato-Regular 11.5 #353535}transit-oriented and small-scale apartment development could help the city meet the housing needs of a
+[B 46,625,268,639]
+  {Lato-Regular 11.5 #353535}wider range of residents and neighborhoods.
+[B 46,653,549,667]
+  {Lato-Regular 11.5 #353535}Finally, we mapped where each reform would add new units. We estimate that reforms 1 and 2, which
+[B 46,670,553,684]
+  {Lato-Regular 11.5 #353535}are designed to incentivize additional smaller-scale apartment buildings, would likely increase housing
+[B 46,688,563,701]
+  {Lato-Regular 11.5 #353535}permits in the far northwest and southwest of the city over the next 15 years. Notably, residents in these
+[B 46,705,558,719]
+  {Lato-Regular 11.5 #353535}neighborhoods have on average substantially higher incomes than those in the far south side of the city.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}9/17
+--- LINKS ---
+  [current estimated current gap of 226,000 affordable homes (https://nlihc.org/gap/state/il),] -> https://nlihc.org/gap/state/il

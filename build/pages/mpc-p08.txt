@@ -1,0 +1,64 @@
+=== mpc PDF page 8 (w=612 h=792) ===
+[B 370,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    6
+[IMAGE 51,753,150,767]
+[B 49,42,395,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}About the Zoning and Land Use Assessment
+[B 49,87,351,108]
+  {ProximaNova-Regular 15.0 #4e5154}What is the Zoning and Land Use Assessment? 
+[B 49,114,566,163]
+  {ProximaNova-Regular 9.0 #000000}Reimagining a new citywide status quo for zoning in Chicago requires a shared understanding of the effects our current zoning and 
+  {ProximaNova-Regular 9.0 #000000}land use policies are having on neighborhoods across the city. That’s why MPC—with research support from the Urban Institute—
+  {ProximaNova-Regular 9.0 #000000}created the Zoning and Land Use Assessment: a collaborative research and engagement initiative designed to explore the impacts 
+  {ProximaNova-Regular 9.0 #000000}of Chicago’s current zoning and land use policies, and propose improvements to better serve public health, equity, and sustainability. 
+[B 49,176,426,197]
+  {ProximaNova-Regular 15.0 #4e5154}Who contributed to the Zoning and Land Use Assessment? 
+[B 49,203,558,252]
+  {ProximaNova-Regular 9.0 #000000}The Assessment was a multi-year project that engaged hundreds of stakeholders. Since the project’s launch in 2022, MPC has 
+  {ProximaNova-Regular 9.0 #000000}collaborated with dozens of partners from civic and community groups, government, and the private sector. This engagement took 
+  {ProximaNova-Regular 9.0 #000000}many forms, including one-on-one conversations, focus groups, advisory committees, and public events. Two advisory groups—the 
+  {ProximaNova-Regular 9.0 #000000}Steering Committee and Community Advisory Group—in particular provided essential guidance for the Assessment. 
+[IMAGE 433,449,562,625]
+[B 144,268,503,321]
+  {ProximaNovaCond-Black 36.7 #ffffff}700+{ProximaNova-Regular 15.3 #ffffff} individuals from{ProximaNovaCond-Regular 17.3 #ffffff}  {ProximaNovaCond-Extrabld 36.7 #ffffff}450+{ProximaNova-Regular 15.3 #ffffff} organizations 
+[B 144,317,503,339]
+  {ProximaNova-Regular 15.3 #ffffff}engaged with MPC over the course of the Assessment.
+[B 63,453,163,497]
+  {ProximaNovaCond-Black 24.4 #62a398}14 {ProximaNova-Regular 11.2 #000000}Steering 
+  {ProximaNova-Regular 11.2 #000000}Committee meetings
+[B 75,492,153,552]
+  {ProximaNovaCond-Black 24.4 #62a398}+
+  {ProximaNovaCond-Black 24.4 #62a398}7 {ProximaNova-Regular 11.2 #000000}Community 
+  {ProximaNova-Regular 11.2 #000000}Advisory Group 
+[B 63,553,165,618]
+  {ProximaNova-Regular 11.2 #000000}meetings
+  {ProximaNovaCond-Black 24.4 #62a398}21{ProximaNovaCond-Extrabld 18.3 #ffffff} {ProximaNova-Regular 11.2 #000000}advisory group 
+  {ProximaNova-Regular 11.2 #000000}meetings 
+[B 144,336,538,389]
+  {ProximaNova-Regular 15.3 #000000}Participants came from:{ProximaNova-Regular 17.3 #000000} {ProximaNovaCond-Black 36.7 #6d95bc}80+{ProximaNovaCond-Extrabld 28.3 #ffffff} {ProximaNova-Regular 15.3 #000000}government agencies and 
+[B 144,367,549,451]
+  {ProximaNova-Regular 15.3 #000000}departments, {ProximaNovaCond-Black 36.7 #6d95bc}200+{ProximaNovaCond-Extrabld 28.3 #6d95bc} {ProximaNova-Regular 15.3 #000000}civic and community organizations,{ProximaNova-Regular 17.3 #000000} 
+  {ProximaNovaCond-Extrabld 36.7 #6d95bc}24{ProximaNovaCond-Extrabld 28.3 #6d95bc} {ProximaNova-Regular 15.3 #000000}ward oﬃces, and {ProximaNovaCond-Black 36.7 #6d95bc}90+{ProximaNovaCond-Extrabld 28.3 #6d95bc} {ProximaNova-Regular 15.3 #000000}private sector partners.{ProximaNovaCond-Regular 17.3 #000000} 
+[B 59,318,108,353]
+  {ProximaNovaCond-Bold 24.4 #ffffff}WHO
+[IMAGE 433,449,562,625]
+[B 446,453,542,500]
+  {ProximaNovaCond-Black 24.4 #ffffff}5{ProximaNovaCond-Extrabld 18.3 #6d95bc} {ProximaNova-Regular 13.2 #ffffff}public events 
+  {ProximaNova-Regular 13.2 #ffffff}and workshops{ProximaNovaCond-Regular 11.2 #ffffff} 
+[IMAGE 305,449,433,625]
+[IMAGE 305,449,433,625]
+[B 314,453,424,500]
+  {ProximaNovaCond-Black 24.4 #ffffff}10+{ProximaNovaCond-Extrabld 18.3 #6d95bc} {ProximaNova-Regular 13.2 #ffffff}focus group 
+  {ProximaNova-Regular 13.2 #ffffff}sessions{ProximaNovaCond-Regular 11.2 #ffffff} 
+[IMAGE 177,449,305,625]
+[IMAGE 177,449,305,625]
+[B 186,453,297,500]
+  {ProximaNovaCond-Black 24.4 #ffffff}50+{ProximaNovaCond-Extrabld 18.3 #6d95bc} {ProximaNova-Regular 13.2 #ffffff}one-on-one 
+  {ProximaNova-Regular 13.2 #ffffff}conversations{ProximaNovaCond-Regular 11.2 #ffffff} 
+[B 49,650,529,687]
+  {ProximaNova-Regular 9.0 #000000}For more detail on the ways that MPC engaged stakeholders and how stakeholder input informed this work, as well as a list 
+  {ProximaNova-Regular 9.0 #000000}of participating organizations in the Steering Committee and Community Advisory Group, see {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ENGAGEMENT 
+  {ProximaNova-Regular 9.0 #0000ff}METHODOLOGY.
+--- LINKS ---
+  [med this work, as well as a li  APPENDIX: ENGAGEMENT] -> internal page 57
+  [of participating org METHODOLOGY.] -> internal page 57

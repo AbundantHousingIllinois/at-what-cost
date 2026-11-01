@@ -1,0 +1,86 @@
+=== mpc PDF page 12 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    10
+[IMAGE 51,753,150,767]
+[B 49,42,431,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Research Findings and Policy Recommendations
+[B 58,97,537,133]
+  {ProximaNova-Regular 14.0 #4e5154}This section contains research findings and recommendations organized around 
+  {ProximaNova-Regular 14.0 #4e5154}five key zoning and land use-related challenges Chicago faces right now.{ProximaNova-Regular 15.0 #4e5154} 
+[IMAGE 203,139,216,153]
+[B 227,140,314,153]
+  {ProximaNova-Regular 9.0 #000000}research findings         
+[IMAGE 314,136,330,152]
+[B 339,140,409,153]
+  {ProximaNova-Regular 9.0 #000000}recommendations
+[B 58,161,544,210]
+  {ProximaNova-Regular 9.0 #000000}For more information on the data sources and methodology that informed the research findings, see {ProximaNova-Regular 9.0 #0000ff}APPENDIX: RESEARCH 
+  {ProximaNova-Regular 9.0 #0000ff}METHODOLOGY{ProximaNova-Regular 9.0 #000000}. Additional research findings from the team’s analyses of groceries and healthcare and productive land use 
+  {ProximaNova-Regular 9.0 #000000}are available in {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ADDITIONAL RESEARCH FINDINGS{ProximaNova-Regular 9.0 #000000}. For comprehensive research findings across all outcome 
+  {ProximaNova-Regular 9.0 #000000}analyses, see the {ProximaNova-Regular 9.0 #0000ff}Zoning and Land Use Assessment{ProximaNova-Regular 9.0 #000000} web page.
+[IMAGE 244,269,274,300]
+[B 58,283,554,321]
+  {ProximaNova-Regular 15.0 #ffffff}The challenge:  
+  {ProximaNova-Regular 15.0 #ffffff}A worsening affordability crisis is pinching budgets and displacing Chicagoans
+[B 58,352,208,368]
+  {ProximaNova-Bold 11.0 #000000}Terms you’ll see in this section 
+[B 58,376,286,400]
+  {ProximaNova-Bold 9.0 #000000}affordable:{ProximaNova-Regular 9.0 #000000} spending 30% or less of household income on 
+  {ProximaNova-Regular 9.0 #000000}housing costs 
+[B 58,409,292,445]
+  {ProximaNova-Bold 9.0 #000000}by-right development:{ProximaNova-Regular 9.0 #000000} development that falls within current 
+  {ProximaNova-Regular 9.0 #000000}zoning rules, without the need for rezoning or applying for 
+  {ProximaNova-Regular 9.0 #000000}zoning relief from the city 
+[B 58,454,270,478]
+  {ProximaNova-Bold 9.0 #000000}downzoning:{ProximaNova-Regular 9.0 #000000} changing an area’s zoning from a higher-
+  {ProximaNova-Regular 9.0 #000000}density zoning district to a lower-density district 
+[B 58,486,288,535]
+  {ProximaNova-Bold 9.0 #000000}Planned Development (PD): {ProximaNova-Regular 9.0 #000000}a zoning review process that 
+  {ProximaNova-Regular 9.0 #000000}involves directly negotiating elements of development 
+  {ProximaNova-Regular 9.0 #000000}with the city, and requires approval by City Council and the 
+  {ProximaNova-Regular 9.0 #000000}Chicago Plan Commission 
+[B 58,543,285,580]
+  {ProximaNova-Bold 9.0 #000000}zoning envelope:{ProximaNova-Regular 9.0 #000000} the total number of housing units the 
+  {ProximaNova-Regular 9.0 #000000}zoning code allows in a given area, sometimes referred to 
+  {ProximaNova-Regular 9.0 #000000}as “zoning capacity”
+[B 310,352,565,556]
+  {ProximaNova-Regular 9.0 #000000}As most households’ largest monthly expense, the cost of 
+  {ProximaNova-Regular 9.0 #000000}housing affects everyone.{ProximaNova-Regular 5.2 #000000} 3{ProximaNova-Regular 9.0 #000000} MPC and the Urban Institute’s 
+  {ProximaNova-Regular 9.0 #000000}research found that the problem is worsening: housing has 
+  {ProximaNova-Regular 9.0 #000000}become significantly less affordable over the last 20 years, 
+  {ProximaNova-Regular 9.0 #000000}particularly for Black and Latinx residents. One key explanation is 
+  {ProximaNova-Regular 9.0 #000000}that we do not have enough housing in Chicago to meet 
+  {ProximaNova-Regular 9.0 #000000}demand, and we do not have enough affordable housing: the 
+  {ProximaNova-Regular 9.0 #000000}Chicago metro area is short 230,000 affordable rental homes for 
+  {ProximaNova-Regular 9.0 #000000}very low-income renter households.{ProximaNova-Regular 5.2 #000000} 4{ProximaNova-Regular 9.0 #000000} But Chicago’s zoning code 
+  {ProximaNova-Regular 9.0 #000000}limits how much new housing can legally be built: it is illegal to 
+  {ProximaNova-Regular 9.0 #000000}build new multifamily housing on most of the city’s residential 
+  {ProximaNova-Regular 9.0 #000000}land without a zoning change, and most new multi-family housing 
+  {ProximaNova-Regular 9.0 #000000}gets built as Planned Developments—a process that adds time, 
+  {ProximaNova-Regular 9.0 #000000}money, and complication for developers. Our work also confirms 
+  {ProximaNova-Regular 9.0 #000000}what research{ProximaNova-Regular 5.2 #000000}5{ProximaNova-Regular 9.0 #000000} on downzoning and historic preservation in 
+  {ProximaNova-Regular 9.0 #000000}Chicago has shown—that these tools have functioned to create 
+  {ProximaNova-Regular 9.0 #000000}more exclusionary neighborhoods over time. 
+[IMAGE 310,568,323,582]
+[B 49,565,565,637]
+  {ProximaNova-Extrabld 9.0 #4e717a}Over the past two decades, housing has become 
+  {ProximaNova-Extrabld 9.0 #4e717a}increasingly unaffordable for all Chicagoans.{ProximaNova-Regular 9.0 #000000} By 2022, 
+  {ProximaNova-Regular 9.0 #000000}the typical Chicago household (a household with the median 
+  {ProximaNova-Regular 9.0 #000000}citywide income) could not afford to buy or rent the median home on much of the North and Northwest sides, because of these 
+  {ProximaNova-Regular 9.0 #000000}areas’ high housing prices. And across much of the South and West sides, households with typical income for a neighborhood would 
+  {ProximaNova-Regular 9.0 #000000}need to spend more than 30% of their income to rent the median home in that neighborhood.
+[B 49,681,561,722]
+  {ProximaNova-Regular 7.5 #4e5154}3 Bureau of Labor Statistics, {ProximaNova-Regular 7.5 #0000ff}“Consumer Expenditures—2024,”{ProximaNova-Regular 7.5 #4e5154} December 2025.
+  {ProximaNova-Regular 7.5 #4e5154}4 National Low Income Housing Coalition, {ProximaNova-Regular 7.5 #0000ff}"The Gap: Illinois,"{ProximaNova-Regular 7.5 #4e5154} 2024.
+  {ProximaNova-Regular 7.5 #4e5154}5 Shriver Center on Poverty Law, {ProximaNova-Regular 7.5 #0000ff}“A City Fragmented,”{ProximaNova-Regular 7.5 #4e5154} 2018; Freemark and Kiesel, {ProximaNova-Regular 7.5 #0000ff}“Downzoning Chicago: How Local Land Use Policy Has Reduced Housing 
+  {ProximaNova-Regular 7.5 #0000ff}Construction and Reinforced Segregation,”{ProximaNova-Regular 7.5 #4e5154} Urban Findings, November 2025.
+--- LINKS ---
+  [APPENDIX: RESEARCH  and productive land use] -> internal page 42
+  [For more informa METHODOLOGY are available in A] -> internal page 42
+  [GY. Additional research findings from the team’s a  APPENDIX: ADDITIONAL RESEARCH FINDINGS he Zoning and Land Use Assessment web page.] -> internal page 35
+  [PPENDIX: ADDITIONAL RESEARCH  Zoning and Land Use Assessment] -> https://metroplanning.org/projects/zoning-land-use-assessment/
+  [“Consumer Expenditures—2024,” sing Coalition, "The Gap: Illinois," 2] -> https://www.bls.gov/news.release/cesan.nr0.htm
+  [xpenditures—2024  "The Gap: Illinois," ragmented,” 2018;] -> https://nlihc.org/gap/state/il
+  [Coalition, "The Gap: Ill  “A City Fragmented,” egation,” Urban Findin] -> https://www.povertylaw.org/article/a-city-fragmented-2/
+  [“Downzoning Chicago: How Local Land Use Policy Has Reduced Housing] -> https://findingspress.org/article/147490-downzoning-chicago-how-local-land-use-policy-has-reduced-housing-construction-and-reinforced-segregation
+  [5 Shriver Center on Poverty Law, “A City F Construction and Reinforced Segregation,”] -> https://findingspress.org/article/147490-downzoning-chicago-how-local-land-use-policy-has-reduced-housing-construction-and-reinforced-segregation

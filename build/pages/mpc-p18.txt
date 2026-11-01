@@ -1,0 +1,61 @@
+=== mpc PDF page 18 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    16
+[IMAGE 51,753,150,767]
+[IMAGE 49,37,68,57]
+[B 73,37,558,62]
+  {ProximaNova-Extrabld 9.0 #4e717a}Legalize 6 stories near transit: {ProximaNova-Bold 9.0 #4e717a}At minimum, allow apartment buildings with up to 6 stories by-right near rail stations and 
+  {ProximaNova-Bold 9.0 #4e717a}the most frequent and highest-volume bus lines.{ProximaNova-Bold 9.0 #304362} 
+[B 49,70,559,107]
+  {ProximaNova-Regular 9.0 #000000}There is room to allow more housing near transit, where residents have greater access to amenities and lower transportation costs. 
+  {ProximaNova-Regular 9.0 #000000}MPC recommends allowing six story multifamily buildings by-right in close proximity to transit, with an option to include commercial 
+  {ProximaNova-Regular 9.0 #000000}uses on the ground floor, and updating accompanying bulk and density requirements to allow these types of construction.
+[IMAGE 49,115,68,135]
+[B 73,115,512,140]
+  {ProximaNova-Extrabld 9.0 #4e717a}Decrease reliance on Planned Developments for multifamily construction: {ProximaNova-Bold 9.0 #4e717a}Right-size thresholds for Planned 
+  {ProximaNova-Bold 9.0 #4e717a}Developments so more multifamily housing can be built by-right. 
+[B 49,148,566,233]
+  {ProximaNova-Regular 9.0 #000000}The Planned Developments process was originally designed for larger, more complex developments like medical campuses, but the 
+  {ProximaNova-Regular 9.0 #000000}process is currently used for most new multi-family development in Chicago. In addition to other recommendations in this report that 
+  {ProximaNova-Regular 9.0 #000000}make it easier to build multi-family housing through the zoning code, increasing the thresholds that trigger the Planned Development 
+  {ProximaNova-Regular 9.0 #000000}process can help ensure Planned Development review is reserved for development types that require more review (such as certain 
+  {ProximaNova-Regular 9.0 #000000}manufacturing types, development on or near waterfronts, large institutions, or other sensitive development types). Apartment 
+  {ProximaNova-Regular 9.0 #000000}buildings, on the other hand, expand access to housing, do not reduce local home values, and fit into Chicago’s existing built form. 
+  {ProximaNova-Regular 9.0 #000000}As such, with minor exceptions, they should not undergo special review. For more on Planned Developments, see {ProximaNova-Regular 9.0 #0000ff}page 17
+[IMAGE 49,241,68,261]
+[B 73,241,561,266]
+  {ProximaNova-Extrabld 9.0 #4e717a}Use zoning tools to promote deep affordability: {ProximaNova-Bold 9.0 #4e717a}Prioritize and incentivize affordable housing (fast-track zoning approvals 
+  {ProximaNova-Bold 9.0 #4e717a}for affordable development, prohibit reactive downzoning, and protect against the loss of naturally affordable units).
+[B 62,286,224,413]
+  {IvyPrestoHeadline-Light 14.0 #000000}Zoning changes that make 
+  {IvyPrestoHeadline-Light 14.0 #000000}room for more homes should 
+  {IvyPrestoHeadline-Light 14.0 #000000}be paired with policies that 
+  {IvyPrestoHeadline-Light 14.0 #000000}prioritize and incentivize the 
+  {IvyPrestoHeadline-Light 14.0 #000000}creation and preservation 
+  {IvyPrestoHeadline-Light 14.0 #000000}of homes affordable to the 
+  {IvyPrestoHeadline-Light 14.0 #000000}lowest-income Chicagoans.
+[B 250,274,565,347]
+  {ProximaNova-Regular 9.0 #000000}Even if we move towards affordability by addressing our supply challenges, 
+  {ProximaNova-Regular 9.0 #000000}market-rate housing will not meet the need for deeply affordable housing. 
+  {ProximaNova-Regular 9.0 #000000}Zoning changes that make room for more homes should be paired with policies 
+  {ProximaNova-Regular 9.0 #000000}that prioritize and incentivize the creation and preservation of homes affordable 
+  {ProximaNova-Regular 9.0 #000000}to the lowest-income Chicagoans. Though zoning cannot achieve this goal on its 
+  {ProximaNova-Regular 9.0 #000000}own, it is one part of a larger strategy.
+[B 250,355,557,428]
+  {ProximaNova-Regular 9.0 #000000}In addition to maintaining the city’s Affordable Requirements Ordinance, which 
+  {ProximaNova-Regular 9.0 #000000}requires certain multifamily development to include a set-aside number of 
+  {ProximaNova-Regular 9.0 #000000}affordable units, MPC recommends updating zoning policies to further support 
+  {ProximaNova-Regular 9.0 #000000}the creation of new income-limited affordable housing units. This could mean 
+  {ProximaNova-Regular 9.0 #000000}fast-tracking zoning approvals for affordable developments, and prohibiting 
+  {ProximaNova-Regular 9.0 #000000}downzoning in reaction to proposed affordable developments. 
+[B 49,436,564,533]
+  {ProximaNova-Regular 9.0 #000000}Promoting affordability also means taking active steps to preserve existing affordable units. This requires funding to support 
+  {ProximaNova-Regular 9.0 #000000}acquisition and rehabilitation of properties. Without this funding, preservation strategies will be limited in their effectiveness. 
+  {ProximaNova-Regular 9.0 #000000}Nevertheless, zoning and land use policies can play a role: for example, expanding and strengthening the existing “Predominance of 
+  {ProximaNova-Regular 9.0 #000000}the Block” approach—which uses the housing already on a block to determine a context-appropriate density floor for development—
+  {ProximaNova-Regular 9.0 #000000}could help protect against deconversion of multifamily housing, which tends to be more affordable, into single-family homes, 
+  {ProximaNova-Regular 9.0 #000000}which tend to be more expensive. This approach is currently only used in Chicago within designated geographic boundaries. 
+  {ProximaNova-Regular 9.0 #000000}Other protections could also be explored to specifically target local conditions in areas experiencing ongoing disinvestment or 
+  {ProximaNova-Regular 9.0 #000000}gentrification pressures.
+--- LINKS ---
+  [xisting bu  page 17] -> internal page 19

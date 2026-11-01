@@ -1,0 +1,89 @@
+=== mpc PDF page 34 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    32
+[IMAGE 51,753,150,767]
+[B 49,42,154,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Conclusion    
+[B 49,87,296,124]
+  {ProximaNova-Regular 9.0 #000000}Chicago’s current zoning and land use system is not working at 
+  {ProximaNova-Regular 9.0 #000000}the scale or speed our challenges require, nor is it producing 
+  {ProximaNova-Regular 9.0 #000000}equitable outcomes. 
+[B 49,132,286,253]
+  {ProximaNova-Regular 9.0 #000000}Much of this report is technical by necessity. It recommends 
+  {ProximaNova-Regular 9.0 #000000}changes to: what can be built by-right; when discretionary 
+  {ProximaNova-Regular 9.0 #000000}review should be required; how uses are classified; and how 
+  {ProximaNova-Regular 9.0 #000000}zoning decisions are made. But those 
+  {ProximaNova-Regular 9.0 #000000}changes add up to a larger civic 
+  {ProximaNova-Regular 9.0 #000000}choice: whether Chicago will continue 
+  {ProximaNova-Regular 9.0 #000000}to manage change parcel-by-parcel 
+  {ProximaNova-Regular 9.0 #000000}and ward-by-ward, or build a more 
+  {ProximaNova-Regular 9.0 #000000}equitable land-use system capable of 
+  {ProximaNova-Regular 9.0 #000000}responding to citywide needs. 
+[B 49,264,298,409]
+  {ProximaNova-Regular 9.0 #000000}Making that shift will require 
+  {ProximaNova-Regular 9.0 #000000}addressing aldermanic prerogative 
+  {ProximaNova-Regular 9.0 #000000}and the ward-by-ward decision-
+  {ProximaNova-Regular 9.0 #000000}making it reinforces. Too many land 
+  {ProximaNova-Regular 9.0 #000000}use decisions are still made reactively 
+  {ProximaNova-Regular 9.0 #000000}through individual exceptions and local 
+  {ProximaNova-Regular 9.0 #000000}negotiations. That leaves Chicago 
+  {ProximaNova-Regular 9.0 #000000}poorly equipped to address challenges 
+  {ProximaNova-Regular 9.0 #000000}that cross neighborhood and ward boundaries. Housing 
+  {ProximaNova-Regular 9.0 #000000}affordability, economic opportunity, environmental health, and 
+  {ProximaNova-Regular 9.0 #000000}climate resilience are citywide concerns; the policies that shape 
+  {ProximaNova-Regular 9.0 #000000}them should operate at a citywide scale. 
+[B 49,417,293,502]
+  {ProximaNova-Regular 9.0 #000000}A more intentional approach would put a citywide framework 
+  {ProximaNova-Regular 9.0 #000000}in place before a specific development is on the table. 
+  {ProximaNova-Regular 9.0 #000000}Chicago could establish clearer citywide expectations, reserve 
+  {ProximaNova-Regular 9.0 #000000}discretionary review for projects that genuinely require it, and 
+  {ProximaNova-Regular 9.0 #000000}give residents a meaningful role in shaping the plans and 
+  {ProximaNova-Regular 9.0 #000000}standards that guide change. Neighborhoods have different 
+  {ProximaNova-Regular 9.0 #000000}histories and needs, and citywide policy should respond to 
+[B 312,87,554,112]
+  {ProximaNova-Regular 9.0 #000000}those differences. But local variation should exist within a 
+  {ProximaNova-Regular 9.0 #000000}framework that also reflects Chicago’s shared responsibilities. 
+[B 312,120,547,169]
+  {ProximaNova-Regular 9.0 #000000}Chicago’s racial and economic segregation did not develop 
+  {ProximaNova-Regular 9.0 #000000}separately from decisions about land use, housing, and 
+  {ProximaNova-Regular 9.0 #000000}investment. Those choices have distributed opportunity and 
+  {ProximaNova-Regular 9.0 #000000}burden unevenly across race and class, with effects that 
+[B 412,168,560,289]
+  {ProximaNova-Regular 9.0 #000000}intersect with gender inequality and 
+  {ProximaNova-Regular 9.0 #000000}other forms of disadvantage. Zoning 
+  {ProximaNova-Regular 9.0 #000000}reform cannot undo that history, but it 
+  {ProximaNova-Regular 9.0 #000000}can change rules and processes that 
+  {ProximaNova-Regular 9.0 #000000}continue to reinforce those patterns. 
+  {ProximaNova-Regular 9.0 #000000}A more equitable land use system 
+  {ProximaNova-Regular 9.0 #000000}should help break down barriers 
+  {ProximaNova-Regular 9.0 #000000}between people and opportunity, 
+  {ProximaNova-Regular 9.0 #000000}rather than reproduce them for 
+  {ProximaNova-Regular 9.0 #000000}another generation. 
+[B 312,297,564,502]
+  {ProximaNova-Regular 9.0 #000000}The recommendations in this 
+  {ProximaNova-Regular 9.0 #000000}Assessment offer practical steps that 
+  {ProximaNova-Regular 9.0 #000000}Chicago can take now, while pointing 
+  {ProximaNova-Regular 9.0 #000000}toward a broader shift in how the city 
+  {ProximaNova-Regular 9.0 #000000}plans for growth and change. But 
+  {ProximaNova-Regular 9.0 #000000}this work also has significance beyond Chicago. The specific 
+  {ProximaNova-Regular 9.0 #000000}solutions will differ from city to city, but the Assessment offers 
+  {ProximaNova-Regular 9.0 #000000}a model for approaching reform: define the outcomes a city 
+  {ProximaNova-Regular 9.0 #000000}wants, examine how existing land-use policies shape them, 
+  {ProximaNova-Regular 9.0 #000000}combine quantitative research with community and stakeholder 
+  {ProximaNova-Regular 9.0 #000000}experience, and translate that evidence into locally grounded 
+  {ProximaNova-Regular 9.0 #000000}policy. Chicago has an opportunity to demonstrate how cities 
+  {ProximaNova-Regular 9.0 #000000}can develop ambitious land use reform through a rigorous and 
+  {ProximaNova-Regular 9.0 #000000}inclusive process, building the capacity to make durable choices 
+  {ProximaNova-Regular 9.0 #000000}at a city scale. We can connect reform with repair, plan more 
+  {ProximaNova-Regular 9.0 #000000}deliberately for Chicago’s future, and lead with a model for other 
+  {ProximaNova-Regular 9.0 #000000}cities navigating the same challenges.
+[B 236,209,380,227]
+  {IvyPrestoHeadline-Light 14.0 #000000}A more equitable land use 
+[B 238,227,378,245]
+  {IvyPrestoHeadline-Light 14.0 #000000}system should help break 
+[B 231,245,385,299]
+  {IvyPrestoHeadline-Light 14.0 #000000}down barriers between 
+  {IvyPrestoHeadline-Light 14.0 #000000}people and opportunity, 
+  {IvyPrestoHeadline-Light 14.0 #000000}rather than reproduce them 
+[B 245,299,368,318]
+  {IvyPrestoHeadline-Light 14.0 #000000}for another generation.

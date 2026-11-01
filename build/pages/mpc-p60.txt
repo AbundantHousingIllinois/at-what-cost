@@ -1,0 +1,138 @@
+=== mpc PDF page 60 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    58
+[IMAGE 51,753,150,767]
+[B 49,42,197,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Acknowledgments
+[B 49,82,564,107]
+  {ProximaNova-Regular 9.0 #000000}We are grateful to everyone who has been part of this project—whether through participating in an advisory body, attending a public 
+  {ProximaNova-Regular 9.0 #000000}event, or speaking with our team. Over 800 individuals participated in the Assessment, and made it better.
+[B 49,126,178,549]
+  {ProximaNova-Bold 11.0 #000000}Contributors
+  {ProximaNova-Extrabld 9.0 #6a2310} 
+  {ProximaNova-Extrabld 9.0 #6a2310}Current and former MPC staff
+  {ProximaNova-Regular 9.0 #000000}•	 Alec Singer
+  {ProximaNova-Regular 9.0 #000000}•	 Chandra Christmas-Rouse
+  {ProximaNova-Regular 9.0 #000000}•	 Chloe Gurin-Sands
+  {ProximaNova-Regular 9.0 #000000}•	 Christina Harris
+  {ProximaNova-Regular 9.0 #000000}•	 Daniel Cooper
+  {ProximaNova-Regular 9.0 #000000}•	 Debbie Liu
+  {ProximaNova-Regular 9.0 #000000}•	 Emily Bloom-Carlin
+  {ProximaNova-Regular 9.0 #000000}•	 Emma Boczek
+  {ProximaNova-Regular 9.0 #000000}•	 Jordan Bailly
+  {ProximaNova-Regular 9.0 #000000}•	 Kendra Freeman
+  {ProximaNova-Regular 9.0 #000000}•	 Kris Tiongson
+  {ProximaNova-Regular 9.0 #000000}•	 Morgan Murphy 
+  {ProximaNova-Regular 9.0 #000000}•	 Rachel Gaunce
+  {ProximaNova-Extrabld 9.0 #6a2310} 
+  {ProximaNova-Extrabld 9.0 #6a2310}Urban Institute researchers
+  {ProximaNova-Regular 9.0 #000000}•	 Yonah Freemark
+  {ProximaNova-Regular 9.0 #000000}•	 Lydia Lo
+  {ProximaNova-Extrabld 9.0 #6a2310} 
+  {ProximaNova-Extrabld 9.0 #6a2310}Other MPC project contributors
+  {ProximaNova-Regular 9.0 #000000}•	 Ana Vargas
+  {ProximaNova-Regular 9.0 #000000}•	 Anne Dodge
+  {ProximaNova-Regular 9.0 #000000}•	 Audrey Wennink
+  {ProximaNova-Regular 9.0 #000000}•	 Haley Hecktman
+  {ProximaNova-Regular 9.0 #000000}•	 Hugo Coronado
+  {ProximaNova-Regular 9.0 #000000}•	 Janson Busby
+  {ProximaNova-Regular 9.0 #000000}•	 Kate Mackie
+  {ProximaNova-Regular 9.0 #000000}•	 Steven Quispe
+  {ProximaNova-Regular 9.0 #000000}•	 Sydney Sakharia
+  {ProximaNova-Regular 9.0 #000000}•	 Zach Grand
+  {ProximaNova-Extrabld 9.0 #6a2310} 
+  {ProximaNova-Extrabld 9.0 #6a2310}Report design
+  {ProximaNova-Regular 9.0 #000000}•	 Carolyn Schiffner
+[B 224,126,267,142]
+  {ProximaNova-Bold 11.0 #000000}Advisors
+[B 224,150,386,714]
+  {ProximaNova-Regular 9.0 #000000}Thank you to the individuals who 
+  {ProximaNova-Regular 9.0 #000000}participated in our advisory groups, the 
+  {ProximaNova-Regular 9.0 #000000}Steering Committee (SC) and Community 
+  {ProximaNova-Regular 9.0 #000000}Advisory Group (CAG).
+  {ProximaNova-Regular 9.0 #000000}•	 Abraham Lacy (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Alfredo Romo (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Andrew Stables (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Angela Larsen (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Angela Tovar (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Ann Lui (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Ann Panopio (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Anna Furby (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Bill Higgins (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Cassandra Rice (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Chas Sirridge (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Chris White (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Cindy Plante (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Colleen Mahoney (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Courtney Kashima (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Daniel Hertz (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Darnell Shields (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Dennis Mondero (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Ebony DeBerry (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Edwin Tobar (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Eladio Montenegro (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Emily Coffey (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Erika Allen (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Ethan Lassiter (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Fabian Cisneros (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Felicia Slaton-Young (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Gaby Wagener-Sobrero (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Gary Jimenez (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Grant Ullrich (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Iván Arenas (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Jason Estremera (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Joy Arguete (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Juan Sebastian Arias (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Juanita Irizarry (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Kate Eakin (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Kate McMahon (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Katia Balba (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Katie Ashbaugh (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Kedar Coleman (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Kyle Barlett (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Lauren Burdette (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Lisa Lewis (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Liz Butler (SC)
+[B 400,127,533,355]
+  {ProximaNova-Regular 9.0 #000000}•	 Lyric Griffin (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Madalynn Benavides (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Maggie Catania (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Marco Chaidez (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Micaela Alvarez (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Nicholas Zettel (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Nooshin Felsenthal (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Olivia Ortega (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Pastor Joseph B. Gordon (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Reverend Randall Blakey (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Rhea Yap (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Steve Valenziano (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Susan Martinez (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Timi Koyejo (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Todd Vanadilok (CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Tonika Johnson (SC, CAG)
+  {ProximaNova-Regular 9.0 #000000}•	 Will Tippens (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Ximena Castro (SC)
+  {ProximaNova-Regular 9.0 #000000}•	 Yasamin Enshaeian (SC)
+[B 400,364,558,544]
+  {ProximaNova-Extrabld 9.0 #6a2310}This work was made possible by the 
+  {ProximaNova-Extrabld 9.0 #6a2310}generous support of:
+  {ProximaNova-Regular 9.0 #000000}•	 Chicago Community Trust
+  {ProximaNova-Regular 9.0 #000000}•	 Robert Wood Johnson Foundation
+  {ProximaNova-Regular 9.0 #000000}•	 John D. and Catherine T. MacArthur  
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	 Foundation
+  {ProximaNova-Regular 9.0 #000000}•	 Robert R. McCormick Foundation
+  {ProximaNova-Regular 9.0 #000000}•	 Walder Foundation
+  {ProximaNova-Regular 9.0 #000000}•	 U. S. Bank
+  {ProximaNova-Regular 9.0 #000000}•	 Regional Plan Association
+  {ProximaNova-Regular 9.0 #000000}•	 PNC Foundation
+  {ProximaNova-Regular 9.0 #000000}•	 Peoples Gas Community Fund at the  
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	 Chicago Community Foundation
+  {ProximaNova-Regular 9.0 #000000}•	 Bowman C. Lingle Trust
+  {ProximaNova-Regular 9.0 #000000}•	 Conant Family Foundation
+[B 400,553,560,601]
+  {ProximaNova-Regular 9.0 #000000}The views expressed in this report are 
+  {ProximaNova-Regular 9.0 #000000}those of the authors and should not be 
+  {ProximaNova-Regular 9.0 #000000}attributed to project advisors, funders, or 
+  {ProximaNova-Regular 9.0 #000000}MPC board members.

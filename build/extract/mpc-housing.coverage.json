@@ -1,0 +1,52 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "figures_placed": [
+  "mpc-p13-afford-maps",
+  "mpc-p14-afford-bars",
+  "mpc-p15-structure-map",
+  "mpc-p15-capacity-map",
+  "mpc-p16-permits-map",
+  "mpc-p16-permits-bars",
+  "mpc-p19-pd-chart"
+ ],
+ "footnotes": [
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "notes": [
+  "findings-intro: data-section='front'. Outlined box emitted as aside[data-kind=box] with p.intro-lead and ul.icon-legend (li[data-icon=finding] 'research findings', li[data-icon=rec] 'recommendations') — new classes, need styling. Links -> #appx-methodology, #appx-additional, external project page.",
+  "planned-developments uses h2 (TOC level 3 under the housing vision). Table header 'PD by land area (square feet)' emitted as <caption> and the corresponding top-left header cell left empty. Row labels kept as printed incl. '> =' with a space and '<3.75 million' without space. Dump decimal splits normalized (5. 8 -> 5.8, 411. 5 -> 411.5, etc.). Totals: 806 / 702 million / 1,426 / 866 million.",
+  "'see page 17' links (PDF 16 and 18; target PDF 19) -> #planned-developments; trailing period visible on the page kept outside the link.",
+  "Rec summaries are bold in the PDF (whole head is bold teal); emitted as span.rec__summary per contract.",
+  "City Spotlights placed after rec-legalize-4-flats (it sits beside that rec on PDF 17). Each city split per contract into h5 link + p beginning with '(year)'.",
+  "PDF 18 pull quote placed inside rec-deep-affordability right after rec__head; body keeps the same sentence.",
+  "PDF 16 '60% … 5 of Chicago’s 77 community areas' box emitted as div.callout-stat (no final period, as printed). PDF 19 '58%' box likewise.",
+  "Straight quotes in fn 4 \"The Gap: Illinois,\" kept as printed. fn 8 title contains nested curly quotes as printed: “Zoning Restrictions and Demand Have Divided Chicago into Three “Cities,” Limiting Housing Availability,”.",
+  "Kept as printed (inconsistent but not errors): 'multi-family' vs 'multifamily'; 'six story'; 'single family homes'.",
+  "Grammar kept as printed (no sic): 'Deconversions … results in'; 'The data on PDs is'.",
+  "Manifest captions empty — verbatim text: mpc-p13-afford-maps panels: (1) title 'Housing affordability for the typical Chicago renter in 2022', caption 'The percent of income the median Chicago household would spend on the median rent by census tract.'; (2) 'Housing affordability for the typical Chicago homeowner in 2022', 'The ratio of affordable monthly mortgage payment for the median Chicago household to median home value purchase price, by census tract. Assumes 27% of monthly income to principal and interest, 20% downpayment, and 7.05% interest rates in 2022.'; (3) 'Housing affordability for renters in their own neighborhoods in 2022', 'The percent of income the median Chicago household in each census tract would spend on the median rent in the same census tract.'; (4) 'Housing affordability for homeowners in their own neighborhoods in 2022', 'The ratio of affordable monthly mortgage payment for the median Chicago household in each census tract to median home value purchase price in the same tract. Assumes 27% of monthly income to principal and interest, 20% downpayment, and 7.05% interest rates in 2022.' Source (all four): 'Created by Urban Institute. Source: Census ACS 2018–2022'.",
+  "mpc-p14-afford-bars: panel titles 'Affordability of median rental unit, by tract' / 'Affordability of median ownership unit, by tract' (in image); caption 'The percent of census tracts where the median household by race and ethnicity in Chicago can afford the median rent (left) or buy the median home (right) in that tract.'; note 'Note: 2000 median incomes: All households: $38,625; White families: $62,680;  Hispanic families: $37,166; Black families: $32,776; Asian families: $47,838 2018–2022 median incomes: All households: $71,673; White families: $154,749;  Hispanic families: $68,370; Black families: $53,587; Asian families: $89,416'; source 'Created by Urban Institute ; Source: Census 1990–2010; Census ACS 2018–2022, both via National Equity Atlas.' (space before ';' as printed).",
+  "mpc-p15-structure-map: title 'Multifamily housing is the predominant type of existing housing in many community areas'; source 'Source: Census ACS, 2020-2024 estimates'. mpc-p15-capacity-map: title 'Chicago zoning limits room for new housing: many community areas are completely built out under current regulations'; caption 'The percentage of zoning capacity, or room for housing, that is used by housing already built. Note: Does not include parcels zoned for PD or PMD. Does not account for zoning bonuses.'; source 'Created by Urban Institute. Source: Chicago zoning 2023'.",
+  "mpc-p16-permits-map + mpc-p16-permits-bars share ONE printed title/caption (single image block on PDF 16): title 'Permits for new housing, by project unit count, 2006-2024'; caption 'New units permitted between 2006 and 2024. Most new multifamily units were constructed in Planned Development areas.'; source 'Created by Urban Institute. Source: Building permit data, City of Chicago'.",
+  "mpc-p19-pd-chart has no printed counterpart (chart derived from the table); placed right after the table."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  34
+ ],
+ "figures_placed": [],
+ "footnotes": [],
+ "notes": [
+  "data-section='front' used (no 'conclusion' value in contract vocabulary) — adjust if template wants otherwise.",
+  "Paragraph order: left column top→bottom (P1–P4, P4 continues at top of right column 'those differences…'), then right column (P5 'Chicago’s racial…', P6 'The recommendations…'). Text wraps around a centered pull quote; dump blocks were actually in reading order.",
+  "Pull quote duplicates final sentences of P5; emitted once after P5."
+ ]
+}

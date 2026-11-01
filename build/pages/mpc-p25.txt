@@ -1,0 +1,36 @@
+=== mpc PDF page 25 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    23
+[IMAGE 51,753,150,767]
+[IMAGE 49,49,62,63]
+[B 49,46,566,119]
+  {ProximaNova-Extrabld 9.0 #57657a}Latinx Chicagoans experience the most pollution exposure—and the least tree coverage, which can be a protective 
+  {ProximaNova-Extrabld 9.0 #57657a}factor against pollution, as well as heat and flood risks.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}Though Latinx populations make up 30% of the citywide population, 
+  {ProximaNova-Regular 9.0 #000000}they comprise 50% of the population in the highest (top fifth) air pollution census tracts and 37% of the population in the highest (top 
+  {ProximaNova-Regular 9.0 #000000}fifth) overall pollution tracts. The parts of the city with higher pollution levels—near downtown, along expressways, and along major 
+  {ProximaNova-Regular 9.0 #000000}industrial corridors—also tend to have low levels of tree coverage. In the areas of the city with the most tree coverage (canopy 
+  {ProximaNova-Regular 9.0 #000000}coverage of 25% or more), only 16% of the population is Latinx.
+[IMAGE 49,130,62,144]
+[B 49,127,565,188]
+  {ProximaNova-Extrabld 9.0 #57657a}Areas with manufacturing zoning tend to have higher levels of pollution.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}A substantial portion of the city—17% of zoned 
+  {ProximaNova-Regular 9.0 #000000}land—is zoned for manufacturing (M or PMD zoning). Manufacturing zoning and pollution levels are correlated: a greater share 
+  {ProximaNova-Regular 9.0 #000000}of manufacturing zoning within a neighborhood tends to correspond to greater exposure to pollution in that neighborhood. Census 
+  {ProximaNova-Regular 9.0 #000000}tracts that contain manufacturing zoning have a higher pollution index, on average, and pollution levels tend to increase as the share 
+  {ProximaNova-Regular 9.0 #000000}of the tract zoned for manufacturing increases. 
+[B 49,202,274,215]
+  {ProximaNova-Bold 9.0 #000000}Concentration of manufacturing zoning districts citywide
+[IMAGE 49,222,297,527]
+[B 49,530,197,541]
+  {ProximaNova-RegularIt 7.5 #000000}Source: City of Chicago zoning districts, 2023
+[B 312,202,536,215]
+  {ProximaNova-Bold 9.0 #000000}Average pollution index near vs. not near manufacturing
+[IMAGE 316,222,558,365]
+[B 312,382,516,407]
+  {ProximaNova-Bold 9.0 #000000}Average pollution index by share of tract zoned for 
+  {ProximaNova-Bold 9.0 #000000}manufacturing
+[IMAGE 327,420,563,555]
+[B 315,425,326,528]
+  {AGaramondPro-Regular 8.0 #6d6e71}Average pollution index percentile
+[B 312,569,443,589]
+  {ProximaNova-RegularIt 7.5 #000000}Source: EPA EJ Screen; Year: 2019-2023
+  {ProximaNova-RegularIt 7.5 #000000}*varies by pollution source

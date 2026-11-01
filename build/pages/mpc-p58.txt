@@ -1,0 +1,133 @@
+=== mpc PDF page 58 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    56
+[IMAGE 51,753,150,767]
+[B 49,44,184,65]
+  {ProximaNova-Regular 15.0 #4e5154}Engagement timeline
+[B 59,79,195,116]
+  {ProximaNova-Bold 9.0 #000000} 	 ADVISORY GROUPS	 
+  {ProximaNova-Bold 9.0 #000000} 	 ADDITIONAL ENGAGEMENT 	 
+  {ProximaNova-Bold 9.0 #000000} 	 PUBLIC EVENTS
+[B 49,127,285,207]
+  {ProximaNova-Bold 9.0 #e36841}	 FALL 2022 
+  {ProximaNova-Bold 9.0 #e36841}	
+  {ProximaNova-Bold 9.0 #e36841}RECRUITMENT OF STEERING COMMITTEE MEMBERS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC identified and recruited a mix of stakeholders to make 
+  {ProximaNovaCond-Regular 10.0 #000000}up the Zoning Assessment’s Steering Committee, including 
+  {ProximaNovaCond-Regular 10.0 #000000}representatives from government, civic and community 
+  {ProximaNovaCond-Regular 10.0 #000000}groups, the private sector, and academia to participate in 
+  {ProximaNovaCond-Regular 10.0 #000000}regular meetings to guide the project.
+[B 49,215,296,383]
+  {ProximaNova-Bold 9.0 #e36841}	 JANUARY 2023 – NOVEMBER 2024 
+  {ProximaNova-Bold 9.0 #e36841}	
+  {ProximaNova-Bold 9.0 #e36841}STEERING COMMITTEE MEETINGS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC engaged 42 members of the Steering Committee in 14 
+  {ProximaNovaCond-Regular 10.0 #000000}meetings. The Steering Committee:
+  {ProximaNovaCond-Regular 10.0 #000000}•	Developed and agreed on key definitions of equity, 
+  {ProximaNovaCond-Regular 10.0 #000000}sustainability, and public health 
+  {ProximaNovaCond-Regular 10.0 #000000}•	Brainstormed a list of zoning process challenges and 
+  {ProximaNovaCond-Regular 10.0 #000000}successes
+  {ProximaNovaCond-Regular 10.0 #000000}•	Brainstormed a list of more than 120 outcomes of interest for 
+  {ProximaNovaCond-Regular 10.0 #000000}the Assessment
+  {ProximaNovaCond-Regular 10.0 #000000}•	Selected 13 priority outcomes through consensus voting and 
+  {ProximaNovaCond-Regular 10.0 #000000}discussion:
+  {ProximaNovaCond-Regular 10.0 #000000}•	Reviewed initial drafts of the research findings
+  {ProximaNovaCond-Regular 10.0 #000000}•	Provided feedback on policy implications of the research 
+  {ProximaNovaCond-Regular 10.0 #000000}findings
+[B 59,391,197,404]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #304362} SUMMER 2022 – WINTER 2025 
+[B 67,403,294,482]
+  {ProximaNova-Bold 9.0 #304362}FOCUS GROUPS AND SMALL-GROUP CONVERSATIONS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC engaged 51 participants in focus group conversations 
+  {ProximaNovaCond-Regular 10.0 #000000}about zoning and land use. Focus group participants:
+  {ProximaNovaCond-Regular 10.0 #000000}•	Contributed to a list of zoning challenges and successes
+  {ProximaNovaCond-Regular 10.0 #000000}•	Reviewed and discussed the research findings 
+  {ProximaNovaCond-Regular 10.0 #000000}•	Provided technical advice on policy ideas and 
+  {ProximaNovaCond-Regular 10.0 #000000}recommendations 
+[B 59,490,224,503]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #304362} SUMMER 2022 YEAR – WINTER 2025  
+[B 67,502,295,603]
+  {ProximaNova-Bold 9.0 #304362}ONE-ON-ONE CONVERSATIONS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC engaged more than 50 people in direct conversations. In 
+  {ProximaNovaCond-Regular 10.0 #000000}these conversations, we: 
+  {ProximaNovaCond-Regular 10.0 #000000}•	Held individual conversations about zoning and land use 
+  {ProximaNovaCond-Regular 10.0 #000000}challenges and successes
+  {ProximaNovaCond-Regular 10.0 #000000}•	Learned from experts who had undertaken similar projects 
+  {ProximaNovaCond-Regular 10.0 #000000}and initiatives
+  {ProximaNovaCond-Regular 10.0 #000000}•	Learned from policymakers, including aldermanic offices, 
+  {ProximaNovaCond-Regular 10.0 #000000}about how they approached zoning and land use
+[B 59,611,179,624]
+  {ProximaNova-Bold 9.0 #e36841}	 FALL 2023 – WINTER 2023 
+[B 67,623,286,681]
+  {ProximaNova-Bold 9.0 #e36841}RECRUITMENT OF COMMUNITY ADVISORY GROUP 
+  {ProximaNova-Bold 9.0 #e36841}MEMBERS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC recruited representatives from civic and neighborhood 
+  {ProximaNovaCond-Regular 10.0 #000000}groups across the city to support the creation of a zoning 
+  {ProximaNovaCond-Regular 10.0 #000000}resource (zine) for residents and community groups.
+[B 326,78,472,91]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #000000} {ProximaNova-Bold 9.0 #e36841}FEBRUARY 2024 – MARCH 2025  
+[B 333,90,565,179]
+  {ProximaNova-Bold 9.0 #e36841}COMMUNITY ADVISORY GROUP MEETINGS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC engaged 36 members of the Community Advisory Group 
+  {ProximaNovaCond-Regular 10.0 #000000}in 7 meetings. The group:
+  {ProximaNovaCond-Regular 10.0 #000000}•	Co-created and guided the development of a public resource 
+  {ProximaNovaCond-Regular 10.0 #000000}(zine) for understanding and engaging with zoning, guided by 
+  {ProximaNovaCond-Regular 10.0 #000000}a shared vision statement
+  {ProximaNovaCond-Regular 10.0 #000000}•	Reviewed the research findings
+  {ProximaNovaCond-Regular 10.0 #000000}•	Provided feedback on policy ideas and recommendations
+[B 326,188,465,201]
+  {ProximaNova-Bold 9.0 #e36841}	 {ProximaNova-Bold 9.0 #62a398}JULY 2024 – SEPTEMBER 2025  
+[B 333,200,561,333]
+  {ProximaNova-Bold 9.0 #62a398}ZONING ASSESSMENT WORKSHOPS{ProximaNova-Bold 9.0 #fdc478} 
+  {ProximaNovaCond-Regular 10.0 #000000}•	Over the course of 4 in-person, half-day workshops, 
+  {ProximaNovaCond-Regular 10.0 #000000}MPC engaged stakeholders on the research and 
+  {ProximaNovaCond-Regular 10.0 #000000}recommendations for the Assessment. 
+  {ProximaNovaCond-Regular 10.0 #000000}•	One of these workshops included a panel discussion, 
+  {ProximaNovaCond-Regular 10.0 #000000}“Untangling zoning impacts and promoting equity through 
+  {ProximaNovaCond-Regular 10.0 #000000}reform,” featuring national experts on zoning and land use. 
+  {ProximaNovaCond-Regular 10.0 #000000}Morgan Malone of City Bureau moderated a panel with Sara 
+  {ProximaNovaCond-Regular 10.0 #000000}Bronin of the National Zoning Atlas, Nolan Gray, author of 
+  {ProximaNovaCond-Regular 10.0 #000000}“Arbitrary Lines: how Zoning Broke the American City and 
+  {ProximaNovaCond-Regular 10.0 #000000}How to Fix It,” and the Assessment’s research partner Yonah 
+  {ProximaNovaCond-Regular 10.0 #000000}Freemark, Director of Urban Institute’s Land Use Lab.
+[B 326,342,437,355]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #304362} JULY – NOVEMBER 2025 
+[B 333,354,563,421]
+  {ProximaNova-Bold 9.0 #304362}YOUTH ZONING WORKSHOPS
+  {ProximaNovaCond-Regular 10.0 #000000}MPC held 2 workshops with youth interested in zoning and 
+  {ProximaNovaCond-Regular 10.0 #000000}land use topics through Palenque LSNA and the Teen Coalition 
+  {ProximaNovaCond-Regular 10.0 #000000}for Chinatown. Participants learned about zoning and land use 
+  {ProximaNovaCond-Regular 10.0 #000000}basics and discussed research findings and recommendations 
+  {ProximaNovaCond-Regular 10.0 #000000}from the Assessment.
+[B 326,430,397,443]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #62a398} AUGUST 2025  
+[B 333,442,543,489]
+  {ProximaNova-Bold 9.0 #62a398}DRAWN TO ACTION: A ZINE LAUNCH AND PUBLIC 
+  {ProximaNova-Bold 9.0 #62a398}CONVERSATION ON ART AND DESIGN FOR CIVIC 
+  {ProximaNova-Bold 9.0 #62a398}ENGAGEMENT
+  {ProximaNovaCond-Regular 10.0 #000000} MPC held an event at the Chicago Architecture Center to 
+[B 335,487,558,555]
+  {ProximaNovaCond-Regular 10.0 #000000}celebrate the launch of our zine, “In the Zone: A Chicagoan’s 
+  {ProximaNovaCond-Regular 10.0 #000000}Guide to Zoning and Land Use.” The event featured a live 
+  {ProximaNovaCond-Regular 10.0 #000000}illustrator and panel discussion between our zine’s illustrator 
+  {ProximaNovaCond-Regular 10.0 #000000}Lucie Van der Elst, artist Tonika Lewis Johnson, Duo’s Carlos 
+  {ProximaNovaCond-Regular 10.0 #000000}Robles-Shanahan, and the Architecture Center’s Angela 
+  {ProximaNovaCond-Regular 10.0 #000000}Esposito.
+[B 326,564,428,577]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #304362} JANUARY – MAY 2026 
+[B 333,576,544,611]
+  {ProximaNova-Bold 9.0 #304362}RECOMMENDATIONS REFINEMENT STAKEHOLDER 
+  {ProximaNova-Bold 9.0 #304362}CONVERSATIONS
+  {ProximaNovaCond-Regular 10.0 #000000} MPC staff re-connected with stakeholders in one-on-one 
+[B 335,609,539,644]
+  {ProximaNovaCond-Regular 10.0 #000000}conversations to clarify and strengthen the Assessment 
+  {ProximaNovaCond-Regular 10.0 #000000}recommendations and surface considerations about 
+  {ProximaNovaCond-Regular 10.0 #000000}implementation before finalizing. 
+[B 326,653,546,666]
+  {ProximaNova-Bold 9.0 #e36841}	{ProximaNova-Bold 9.0 #304362} {ProximaNova-Bold 9.0 #62a398}JULY 2026 - ONGOING ADDITIONAL ENGAGEMENT: 
+[B 333,665,565,721]
+  {ProximaNova-Bold 9.0 #62a398}ZONING 101 WORKSHOPS
+  {ProximaNovaCond-Regular 10.0 #000000}Through partnerships with local library branches and 
+  {ProximaNovaCond-Regular 10.0 #000000}community groups, MPC is holding free workshops for the 
+  {ProximaNovaCond-Regular 10.0 #000000}public on the basics of zoning and land use and how to engage 
+  {ProximaNovaCond-Regular 10.0 #000000}with development decisions in their communities. 

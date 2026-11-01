@@ -1,0 +1,126 @@
+=== mpc PDF page 39 (w=612 h=792) ===
+[B 367,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    37
+[IMAGE 51,753,150,767]
+[B 49,42,256,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Appendix: Zoning districts
+[B 58,103,115,131]
+  {ProximaNova-Bold 11.0 #000000}Zoning 
+  {ProximaNova-Bold 11.0 #000000}designation
+[B 151,103,375,119]
+  {ProximaNova-Bold 11.0 #000000}Uses
+  {ProximaNova-Bold 11.0 #000000}Zoning district categories{ProximaNova-RegularIt 11.0 #000000} 
+[B 249,135,474,198]
+  {ProximaNova-RegularIt 9.0 #000000}Additional bulk and density designations (e.g. M1{ProximaNova-BoldIt 9.0 #000000}-1{ProximaNova-RegularIt 9.0 #000000}, M2{ProximaNova-BoldIt 9.0 #000000}-3{ProximaNova-RegularIt 9.0 #000000}) 
+  {ProximaNova-RegularIt 9.0 #000000}correspond to more specific requirements. As the bulk 
+  {ProximaNova-RegularIt 9.0 #000000}and density number increases, the zoning code allows 
+  {ProximaNova-RegularIt 9.0 #000000}bigger buildings. For residential districts, instead of 
+  {ProximaNova-RegularIt 9.0 #000000}dashes, the bulk and density number is contained in the 
+  {ProximaNova-RegularIt 9.0 #000000}district name (e.g. RS{ProximaNova-BoldIt 9.0 #000000}2{ProximaNova-RegularIt 9.0 #000000}, RT{ProximaNova-BoldIt 9.0 #000000}4{ProximaNova-RegularIt 9.0 #000000}).
+[B 492,103,551,143]
+  {ProximaNova-Bold 11.0 #000000}Share of 
+  {ProximaNova-Bold 11.0 #000000}zoned land, 
+  {ProximaNova-Bold 11.0 #000000}2023
+[B 492,149,554,192]
+  {ProximaNova-Regular 9.0 #000000}Numbers may 
+  {ProximaNova-Regular 9.0 #000000}not add exactly 
+  {ProximaNova-Regular 9.0 #000000}to 100% due to 
+  {ProximaNova-Regular 9.0 #000000}rounding.
+[B 58,220,220,293]
+  {ProximaNova-Bold 9.0 #000000}Residential (R)
+  {ProximaNova-Regular 9.0 #000000}Residential uses 
+  {ProximaNova-Regular 9.0 #000000}(housing) as well 
+  {ProximaNova-Regular 9.0 #000000}as some public 
+  {ProximaNova-Regular 9.0 #000000}and civic uses 
+  {ProximaNova-Regular 9.0 #000000}(such as libraries, 
+  {ProximaNova-Regular 9.0 #000000}fire stations, and 
+  {ProximaNova-Regular 9.0 #000000}schools).
+[B 249,220,441,243]
+  {ProximaNova-Regular 9.0 #000000}RS (Residential Single-Unit): Detached houses on 
+  {ProximaNova-Regular 9.0 #000000}individual lots, and limited two-flats
+[B 249,245,454,268]
+  {ProximaNova-Regular 9.0 #000000}RT (Residential Two-Flat, Townhouse and Multi-Unit): 
+  {ProximaNova-Regular 9.0 #000000}Townhouses and low-density multi-unit residential
+[B 249,270,473,293]
+  {ProximaNova-Regular 9.0 #000000}RM (Residential Multi-Unit): Multi-unit residential buildings 
+  {ProximaNova-Regular 9.0 #000000}with moderate to high density
+[B 492,219,534,279]
+  {ProximaNova-Bold 12.0 #000000}52%
+  {ProximaNova-Bold 12.0 #000000}RS: 41%
+  {ProximaNova-Bold 12.0 #000000}RT: 8%
+  {ProximaNova-Bold 12.0 #000000}RM: 3%
+[B 58,307,131,330]
+  {ProximaNova-Bold 9.0 #000000}Planned 
+  {ProximaNova-Bold 9.0 #000000}Development (PD)
+[B 151,307,472,340]
+  {ProximaNova-Regular 9.0 #000000}Uses vary
+  {ProximaNova-Regular 9.0 #000000}A zoning designation for certain developments that meet 
+  {ProximaNova-Regular 9.0 #000000}thresholds to qualify as major proposals, allowing for 
+  {ProximaNova-Regular 9.0 #000000}flexibility in land use, bulk, and development standards.
+[B 492,307,555,422]
+  {ProximaNova-Bold 12.0 #000000}13%{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}Areas that 
+  {ProximaNova-Regular 9.0 #000000}are part of 
+  {ProximaNova-Regular 9.0 #000000}a Planned 
+  {ProximaNova-Regular 9.0 #000000}Development 
+  {ProximaNova-Regular 9.0 #000000}are included in 
+  {ProximaNova-Regular 9.0 #000000}this category, 
+  {ProximaNova-Regular 9.0 #000000}rather than 
+  {ProximaNova-Regular 9.0 #000000}their underlying 
+  {ProximaNova-Regular 9.0 #000000}zoning 
+  {ProximaNova-Regular 9.0 #000000}district(s). 
+[B 58,435,232,517]
+  {ProximaNova-Bold 9.0 #000000}Manufacturing (M)
+  {ProximaNova-Regular 9.0 #000000}Manufacturing, 
+  {ProximaNova-Regular 9.0 #000000}warehousing, 
+  {ProximaNova-Regular 9.0 #000000}wholesale, and 
+  {ProximaNova-Regular 9.0 #000000}industrial uses (such 
+  {ProximaNova-Regular 9.0 #000000}as factories, grocery 
+  {ProximaNova-Regular 9.0 #000000}wholesalers, and 
+  {ProximaNova-Regular 9.0 #000000}waste disposal 
+  {ProximaNova-Regular 9.0 #000000}facilities).
+[B 249,435,475,537]
+  {ProximaNova-Regular 9.0 #000000}M1 (Limited Manufacturing/Business Park): Low-impact 
+  {ProximaNova-Regular 9.0 #000000}manufacturing, wholesaling, warehousing and distribution 
+  {ProximaNova-Regular 9.0 #000000}within enclosed buildings
+  {ProximaNova-Regular 9.0 #000000}M2 (Light Industry): Moderate-impact manufacturing, 
+  {ProximaNova-Regular 9.0 #000000}wholesaling, warehousing and distribution, including 
+  {ProximaNova-Regular 9.0 #000000}storage and work-related activities outside of enclosed 
+  {ProximaNova-Regular 9.0 #000000}buildings; more land-intensive activities 
+  {ProximaNova-Regular 9.0 #000000}M3 (Heavy Industry): High-impact manufacturing and 
+  {ProximaNova-Regular 9.0 #000000}industrial uses, including extractive and waste-related 
+  {ProximaNova-Regular 9.0 #000000}uses
+[B 492,434,511,451]
+  {ProximaNova-Bold 12.0 #000000}11%
+[B 58,550,124,573]
+  {ProximaNova-Bold 9.0 #000000}Parks and Open 
+  {ProximaNova-Bold 9.0 #000000}Space (POS)
+[B 151,550,232,593]
+  {ProximaNova-Regular 9.0 #000000}Public open space, 
+  {ProximaNova-Regular 9.0 #000000}public parks, and 
+  {ProximaNova-Regular 9.0 #000000}public beaches; also 
+  {ProximaNova-Regular 9.0 #000000}includes cemeteries.
+[B 249,550,436,593]
+  {ProximaNova-Regular 9.0 #000000}POS-1 (Regional or Community Park)
+  {ProximaNova-Regular 9.0 #000000}POS-2 (Neighborhood Park, Mini-Park or Playlot)
+  {ProximaNova-Regular 9.0 #000000}POS-3 (Open Space or Natural Area)
+  {ProximaNova-Regular 9.0 #000000}POS-4 (Cemetery)
+[B 492,549,508,566]
+  {ProximaNova-Bold 12.0 #000000}8%
+[B 58,605,119,638]
+  {ProximaNova-Bold 9.0 #000000}Planned 
+  {ProximaNova-Bold 9.0 #000000}Manufacturing 
+  {ProximaNova-Bold 9.0 #000000}District (PMD)
+[B 151,605,231,688]
+  {ProximaNova-Regular 9.0 #000000}Each PMD has its 
+  {ProximaNova-Regular 9.0 #000000}own individualized 
+  {ProximaNova-Regular 9.0 #000000}set of allowed uses, 
+  {ProximaNova-Regular 9.0 #000000}often industrial uses 
+  {ProximaNova-Regular 9.0 #000000}and some civic and 
+  {ProximaNova-Regular 9.0 #000000}commercial uses. 
+  {ProximaNova-Regular 9.0 #000000}PMDs do not allow 
+  {ProximaNova-Regular 9.0 #000000}residential uses.
+[B 249,604,508,628]
+  {ProximaNova-Regular 9.0 #000000}Each PMD is its own district with individualized set of 
+  {ProximaNova-Regular 9.0 #000000}uses, generally used for industrial corridors. 
+  {ProximaNova-Bold 12.0 #000000}6%

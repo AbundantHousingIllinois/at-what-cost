@@ -1,0 +1,114 @@
+=== mpc PDF page 48 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    46
+[IMAGE 51,753,150,767]
+[B 49,42,264,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Notes on outcome analyses
+[B 49,87,170,108]
+  {ProximaNova-Regular 15.0 #4e5154}Affordable housing
+[B 49,114,541,139]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: Diverse and affordable housing options (subsidized, affordable, workforce/middle, market, and 
+  {ProximaNova-RegularIt 9.0 #000000}luxury) are available in every neighborhood, including for the job insecure and unhoused populations
+[B 49,147,273,160]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Primary research questions and variables used
+[B 49,168,565,229]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Research questions:{ProximaNova-Regular 9.0 #000000} How affordable is housing to rent and own across the city, both in terms of comparisons with 
+  {ProximaNova-Regular 9.0 #000000}neighborhood residents and in terms of comparisons with residents of the city overall? How does the location of 
+  {ProximaNova-Regular 9.0 #000000}subsidized affordable housing vary across the city? Where have housing units been built? What is the relationship 
+  {ProximaNova-Regular 9.0 #000000}between zoning policy and housing access? And what is the connection between these variables and race or 
+  {ProximaNova-Regular 9.0 #000000}ethnicity?
+[B 49,237,561,262]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Primary dependent variables{ProximaNova-Regular 9.0 #000000}: affordability, calculated by linking median rent, median housing value, and median 
+  {ProximaNova-Regular 9.0 #000000}household incomes; subsidized housing units; building permits by unit count.
+[B 49,270,544,295]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Primary independent variables:{ProximaNova-Regular 9.0 #000000} city’s current zoning policies; historical zoning policies produced by George 
+  {ProximaNova-Regular 9.0 #000000}Kisiel; current building stock; demographic variables (e. g. race/ethnicity).
+[B 49,303,218,316]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Research and analytical methods
+[B 49,324,554,397]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Descriptive statistics: {ProximaNova-Regular 9.0 #000000}We conducted baseline evaluations to quantify affordability, housing stock, and 
+  {ProximaNova-Regular 9.0 #000000}demographic data at the tract level throughout the city. We used geospatial mapping to compare outcomes 
+  {ProximaNova-Regular 9.0 #000000}and to evaluate change over time to show how affordability levels are improving or declining, depending on 
+  {ProximaNova-Regular 9.0 #000000}the location. We specifically compared outcomes by tenure (renting versus owning) and by race/ethnicity (since 
+  {ProximaNova-Regular 9.0 #000000}people of different backgrounds have different income levels in the city). We also evaluated the location of new 
+  {ProximaNova-Regular 9.0 #000000}housing building permits and identified their zoning classifications.
+[B 49,405,565,442]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Modeling:{ProximaNova-Regular 9.0 #000000} We developed a model of housing supply in the city with the goal of comparing existing housing units 
+  {ProximaNova-Regular 9.0 #000000}with the potential number of housing units that could be completed if land were built out according to zoning. This 
+  {ProximaNova-Regular 9.0 #000000}comparison provides insight as to the degree to which zoning policies are restricting development, and where.
+[B 49,450,565,499]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Fixed-effects regressions with time-trends:{ProximaNova-Regular 9.0 #000000} To evaluate the effects of changing zoning patterns in the city, we 
+  {ProximaNova-Regular 9.0 #000000}identified neighborhoods that featured downzonings (or historic district designations) between 1970 and 2016. We 
+  {ProximaNova-Regular 9.0 #000000}then used this approach to test the degree to which downzonings were associated with (a) changes in housing 
+  {ProximaNova-Regular 9.0 #000000}supply; (b) changes in housing cost; and (c) demographics.
+[B 49,507,305,520]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important assumptions central to the research findings
+[B 49,528,557,577]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}In this analysis, we assumed that housing affordability could be improved over time through additional housing 
+  {ProximaNova-Regular 9.0 #000000}supply. While the broader scholarship provides evidence to point to this conclusion, the relationship is not direct 
+  {ProximaNova-Regular 9.0 #000000}and there is likely to be a delay between zoning changes and housing construction, and then a delay between 
+  {ProximaNova-Regular 9.0 #000000}housing construction and housing affordability.
+[B 49,585,231,598]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important limitations of the research
+[B 49,606,561,667]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}Data on housing affordability is generally provided in terms of medians or averages (e. g. , median housing cost, 
+  {ProximaNova-Regular 9.0 #000000}etc. ). This has the advantage of providing comparability across neighborhoods, but it does not tell us much about 
+  {ProximaNova-Regular 9.0 #000000}the components of these costs. For example, even if the median home rents for $1,000, there may be homes 
+  {ProximaNova-Regular 9.0 #000000}available at a range from $500 to $4,000. As such, further research is needed to explore the degree to which 
+  {ProximaNova-Regular 9.0 #000000}different levels of housing cost are being offered to people at different incomes.
+[B 49,675,544,700]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}The research also does not provide us much insight into Planned Development questions. Since PDs are the 
+  {ProximaNova-Regular 9.0 #000000}primary tool by which Chicago enables high-density housing, they need further exploration.

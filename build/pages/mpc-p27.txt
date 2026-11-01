@@ -1,0 +1,54 @@
+=== mpc PDF page 27 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    25
+[IMAGE 51,753,150,767]
+[IMAGE 49,37,62,51]
+[B 49,33,564,82]
+  {ProximaNova-Extrabld 9.0 #57657a}Black and Latinx residents are overrepresented in the areas more likely to see climate impacts.{ProximaNova-Regular 9.0 #000000} In the top fifth of tracts for 
+  {ProximaNova-Regular 9.0 #000000}heat and flood susceptibility, Black and Latinx Chicagoans comprise 83% of the population, despite comprising 57% of the 
+  {ProximaNova-Regular 9.0 #000000}city’s total population. Meanwhile, white Chicagoans are underrepresented in those same tracts. While white residents make up 33% 
+  {ProximaNova-Regular 9.0 #000000}of the city’s total population, they make up only 14% of the population in the top fifth highest heat and flood susceptibility tracts. 
+[B 49,97,295,110]
+  {ProximaNova-Bold 9.0 #000000}Racial and ethnic composition by combined heat + flood index
+[IMAGE 49,116,562,245]
+[B 49,255,153,266]
+  {ProximaNova-RegularIt 7.5 #000000}Source: Census ACS 2018-2022
+[IMAGE 49,278,62,292]
+[B 49,274,566,347]
+  {ProximaNova-Extrabld 9.0 #57657a}The majority of land in tracts with high heat and flood susceptibility are zoned for single family homes. {ProximaNova-Regular 9.0 #000000}More than 60% of 
+  {ProximaNova-Regular 9.0 #000000}land in the top fifth most heat and flood susceptible tracts is zoned RS (Residential Single-Unit), which is the lowest-density 
+  {ProximaNova-Regular 9.0 #000000}residential zoning district. The disparate susceptibility in low-density districts could have implications for long-term affordability for 
+  {ProximaNova-Regular 9.0 #000000}individual homeowners as costs rise in these areas, but further exploration of the impacts is needed to understand this finding and 
+  {ProximaNova-Regular 9.0 #000000}what it means both for affordability and for adaptation and mitigation strategies. On the flip side, areas zoned Parks and Open 
+  {ProximaNova-Regular 9.0 #000000}Space, particularly along Lake Michigan, are least susceptible.
+[IMAGE 49,359,62,373]
+[B 49,355,565,428]
+  {ProximaNova-Extrabld 9.0 #57657a}Certain land use factors can be protective against climate challenges, and others can worsen susceptibility—but climate 
+  {ProximaNova-Extrabld 9.0 #57657a}patterns are complex, not straightforward.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}In general, tree canopy, green stormwater infrastructure, and energy-efficient 
+  {ProximaNova-Regular 9.0 #000000}buildings function as protective factors against heat and flooding susceptibility. Impervious surfaces, older housing stock, and heavy 
+  {ProximaNova-Regular 9.0 #000000}traffic patterns can worsen susceptibility to climate challenges. These factors are not determinant—they don’t automatically translate 
+  {ProximaNova-Regular 9.0 #000000}to risk levels at a citywide level—but we can see impacts at a neighborhood level, particularly looking at tree coverage as a cooling 
+  {ProximaNova-Regular 9.0 #000000}factor that helps with heat events. 
+[B 58,446,235,462]
+  {ProximaNova-Bold 11.0 #000000}Chicago’s fractured tree governance
+[B 58,469,529,506]
+  {ProximaNova-Regular 9.0 #000000} Trees are powerful infrastructure, providing a host of benefits to neighborhoods: cleaner air, shade and cooling, greener 
+  {ProximaNova-Regular 9.0 #000000}streets, and protection against growing climate risks. But addressing gaps in tree coverage is an ongoing challenge. One 
+  {ProximaNova-Regular 9.0 #000000}element of this challenge: Chicago has a complex and fractured system of tree governance. 
+[B 58,514,554,635]
+  {ProximaNova-Regular 9.0 #000000}Many of Chicago’s trees sit in the parkway, the area between the sidewalk and the street. City law says that the City owns 
+  {ProximaNova-Regular 9.0 #000000}these trees. However, a part of the zoning code called the Landscape Ordinance requires that developers undertaking certain 
+  {ProximaNova-Regular 9.0 #000000}types of new construction or rehabilitation projects plant trees in the parkway. In those cases—usually residential development 
+  {ProximaNova-Regular 9.0 #000000}of more than three units or parking lots above a certain size—developers must get approval for their planting plans from the 
+  {ProximaNova-Regular 9.0 #000000}Department of Planning and Development. To do the planting, developers must hire a contractor specifically licensed to work in 
+  {ProximaNova-Regular 9.0 #000000}the public way. Developers need clearance from the Department of Transportation to excavate, and a permit  
+  {ProximaNova-Regular 9.0 #000000}from Department of Streets and Sanitation’s Bureau of Forestry, which regulates trees in the parkway.  
+  {ProximaNova-Regular 9.0 #000000}After planting, the Landscape Ordinance gives the responsibility for routine maintenance of these  
+  {ProximaNova-Regular 9.0 #000000}required trees to property owners—except for tree trimming, removal, and other work affecting a tree’s  
+  {ProximaNova-Regular 9.0 #000000}health or structure, which is handled by the Bureau of Forestry. 
+[B 58,643,429,704]
+  {ProximaNova-Regular 9.0 #000000}To further complicate the picture, plenty of trees are outside the parkway. Chicago Park District  
+  {ProximaNova-Regular 9.0 #000000}stewards trees on park land. Chicago Public Schools controls trees on school property.  
+  {ProximaNova-Regular 9.0 #000000}And trees on street medians, usually arterial streets medians or roundabouts, are the  
+  {ProximaNova-Regular 9.0 #000000}responsibility of the Chicago Department of Transportation (CDOT) or in some cases, the  
+  {ProximaNova-Regular 9.0 #000000}Illinois Department of Transportation (IDOT).

@@ -1,0 +1,27 @@
+=== urban PDF page 6 (w=612 h=792) ===
+[B 46,37,561,51]
+  {Lato-Regular 11.5 #353535}However, permit probabilities are not the same as estimated housing units. A permit may be for a single-
+[B 46,55,326,68]
+  {Lato-Regular 11.5 #353535}family home or a several-hundred-unit apartment tower.
+[B 46,82,559,95]
+  {Lato-Regular 11.5 #353535}If the city makes {Lato-Italic 11.5 #353535}no {Lato-Regular 11.5 #353535}changes to its zoning code, permits continue at the same pace as they did from 2011
+[B 46,99,539,113]
+  {Lato-Regular 11.5 #353535}to 2025, and economic conditions remain similar to today’s, we estimate that Chicago would permit
+[B 46,116,555,130]
+  {Lato-Regular 11.5 #353535}another 87,500 housing units on parcels where housing can be built by right. Most of these units would
+[B 46,133,544,147]
+  {Lato-Regular 11.5 #353535}be in central Chicago. Permitting probabilities for downtown parcels are low, but the average project
+[B 46,151,514,164]
+  {Lato-Regular 11.5 #353535}located there is much larger, so our model estimates most new housing will be built downtown.
+[B 46,178,543,237]
+  {FuturaPTWeb-Heavy 15.3 #000000}Under Chicago’s Current Zoning, Most Housing Units Permitted Between
+  {FuturaPTWeb-Heavy 15.3 #000000}Now and 2041 Will Likely Be Concentrated In and Around the City’s
+  {FuturaPTWeb-Heavy 15.3 #000000}Downtown
+[B 46,239,525,251]
+  {Lato-Regular 10.2 #000000}Estimated housing unit permits per ward by 2041, based on the Urban Institute’s Housing Market Forecaster
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}6/17

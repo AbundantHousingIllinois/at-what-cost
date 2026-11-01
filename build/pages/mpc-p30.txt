@@ -1,0 +1,66 @@
+=== mpc PDF page 30 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    28
+[IMAGE 51,753,150,767]
+[B 62,64,290,154]
+  {IvyPrestoHeadline-Light 14.0 #000000}Although officially, alders are not part 
+  {IvyPrestoHeadline-Light 14.0 #000000}of the Zoning Board of Appeals (ZBA) 
+  {IvyPrestoHeadline-Light 14.0 #000000}decision-making process, in practice, they 
+  {IvyPrestoHeadline-Light 14.0 #000000}hold major sway. These applications often 
+  {IvyPrestoHeadline-Light 14.0 #000000}require political support to move forward.
+[IMAGE 315,51,329,64]
+[B 49,47,564,240]
+  {ProximaNova-Extrabld 9.0 #6a2310}The special use process is a barrier for small 
+  {ProximaNova-Extrabld 9.0 #6a2310}businesses.{ProximaNova-Regular 9.0 #000000} Most special use applications (78%) come 
+  {ProximaNova-Regular 9.0 #000000}from business-oriented (B and C) zoning districts. These are 
+  {ProximaNova-Regular 9.0 #000000}applications for a range of uses, including beauty salons, tattoo 
+  {ProximaNova-Regular 9.0 #000000}shops, outdoor patios, and community centers. Guided by 
+  {ProximaNova-Regular 9.0 #000000}recommendations provided by the Department of Planning and 
+  {ProximaNova-Regular 9.0 #000000}Development, the ZBA reviews an average of approximately 
+  {ProximaNova-Regular 9.0 #000000}230 special use applications every year. Despite improvements 
+  {ProximaNova-Regular 9.0 #000000}to the application in recent years, navigating the ZBA is a 
+  {ProximaNova-Regular 9.0 #000000}complex, lengthy process, often requiring the help of an 
+  {ProximaNova-Regular 9.0 #000000}attorney. The opacity of the process and lack of consistent 
+  {ProximaNova-Regular 9.0 #000000}guidelines for the ZBA end up favoring applicants with time and resources to navigate the process, creating a pay-to-play system. 
+  {ProximaNova-Regular 9.0 #000000}And although officially, alders are not part of the ZBA decision-making process, in practice, alders hold major sway in the outcome of 
+  {ProximaNova-Regular 9.0 #000000}a ZBA application, so these applications often require political support to move forward. Additional costs and delays can stall or 
+  {ProximaNova-Regular 9.0 #000000}shutter a small business that’s otherwise ready to open. The outcome is a system that favors applicants with greater access to 
+  {ProximaNova-Regular 9.0 #000000}resources.
+[IMAGE 49,252,62,265]
+[B 49,248,561,309]
+  {ProximaNova-Extrabld 9.0 #6a2310}Beauty and nail salons and barber shops are particularly affected by the ZBA.{ProximaNova-Regular 9.0 #000000} 27% of special use applications are for hair, 
+  {ProximaNova-Regular 9.0 #000000}nail, or beauty salons or barber shops, which are approved by the ZBA (95%) and decided in their first hearing (90%) at even 
+  {ProximaNova-Regular 9.0 #000000}higher rates than special uses overall. These businesses are permitted by-right in B districts—but only if they are not within 1,000 
+  {ProximaNova-Regular 9.0 #000000}feet of another hair salon, in which case they need special use approval from the ZBA. This is a requirement that likely 
+  {ProximaNova-Regular 9.0 #000000}disproportionately affects woman-owned and immigrant-owned small businesses.{ProximaNova-Regular 5.2 #000000} 20{ProximaNova-Regular 9.0 #000000}  
+[IMAGE 49,321,62,334]
+[B 49,317,554,378]
+  {ProximaNova-Extrabld 9.0 #6a2310}Variations are impacting residential development, particularly in areas zoned for more density. {ProximaNova-Regular 9.0 #000000}Most variation 
+  {ProximaNova-Regular 9.0 #000000}applications (68%) during the time period in our dataset came from residential districts. Variations also disproportionately 
+  {ProximaNova-Regular 9.0 #000000}originated in higher-density residential districts (RT and RM). While only 11% of residential land in the city is zoned RT or RM, 61% of 
+  {ProximaNova-Regular 9.0 #000000}variations from residential districts came from RT or RM districts. Additional research is needed to better understand these trends 
+  {ProximaNova-Regular 9.0 #000000}and how variations may be impacting housing development.
+[B 58,396,529,452]
+  {ProximaNova-Black 32.0 #4e5154}27%{ProximaNova-Regular 15.0 #4e5154} of special uses applications are for hair, nail, or beauty salons or 
+  {ProximaNova-Regular 15.0 #4e5154}barber shops, {ProximaNova-Black 15.0 #4e5154}95%{ProximaNova-Regular 15.0 #4e5154} of which are approved by the ZBA
+[B 49,467,51,480]
+  {ProximaNova-Regular 9.0 #000000} 
+[IMAGE 49,483,62,496]
+[B 49,479,566,576]
+  {ProximaNova-Extrabld 9.0 #6a2310}Data about zoning decisions is not generally released to the public in a standardized, searchable format. {ProximaNova-Regular 9.0 #000000}In the case of 
+  {ProximaNova-Regular 9.0 #000000}ZBA meetings and Planned Development agreements, information is released in the form of individual meeting-by-meeting or 
+  {ProximaNova-Regular 9.0 #000000}project-by-project PDFs. In both of these cases, in order to better understand these processes, MPC needed to compile unique 
+  {ProximaNova-Regular 9.0 #000000}datasets manually by pulling information from hundreds of PDFs. No publicly searchable dataset exists, which could be helpful for a 
+  {ProximaNova-Regular 9.0 #000000}potential small business owner to find examples of previous special use applications. In the case of administrative adjustments, no 
+  {ProximaNova-Regular 9.0 #000000}information is released publicly at all. Meanwhile, zoning amendments occur in the form of individual ordinances passed through City 
+  {ProximaNova-Regular 9.0 #000000}Council. These are accessible to those who know how to navigate the City Clerk’s website, but there is no public dataset that would 
+  {ProximaNova-Regular 9.0 #000000}allow for a systematic review of zoning amendment applications, which could have important implications for zoning policy.
+[B 49,682,560,722]
+  {ProximaNova-Regular 7.5 #4e5154}20 90% of cosmetology program graduates are women (The Century Foundation, “{ProximaNova-Regular 7.5 #0000ff}Cosmetology Training Needs a Makeover,{ProximaNova-Regular 7.5 #4e5154}” July 2022). 91% of workers in 
+  {ProximaNova-Regular 7.5 #4e5154}the hairdresser, hairstylists, and cosmetologists workforce are women (DataUSA. io, “{ProximaNova-Regular 7.5 #0000ff}Hairdressers, hairstylists, and cosmetologists{ProximaNova-Regular 7.5 #4e5154},” data from 2024). Workers 
+  {ProximaNova-Regular 7.5 #4e5154}in the nail salon industry are predominantly (79%) born outside of the U. S. and self-employment rates are high (30%) in this workforce (UCLA Labor Center and 
+  {ProximaNova-Regular 7.5 #4e5154}California Healthy Nail Salon Collaborative, “{ProximaNova-Regular 7.5 #0000ff}A Study of Nail Salon Workers and Industry in the United States,{ProximaNova-Regular 7.5 #4e5154}” November 2018).
+--- LINKS ---
+  [“Cosmetology Training Needs a Makeover,” Hairdressers, hairstylists, and cosmetologis] -> https://tcf.org/content/report/cosmetology-training-needs-a-make-over/#easy-footnote-bottom-13-49933
+  [“Cosmetology Training Needs a Makeover,” Ju “Hairdressers, hairstylists, and cosmetologists mployment rates are high (30%) in this workfo] -> https://datausa.io/profile/soc/hairdressers-hairstylists-cosmetologists
+  [(79%) born outside of the U. S. and self-employment rates are hig “A Study of Nail Salon Workers and Industry in the United States,] -> https://static1.squarespace.com/static/65d64ff0f977a91d51760d71/t/65ef47e60ebaf55f65e438bc/1710180335994/Nail+Files.pdf

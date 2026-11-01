@@ -1,0 +1,29 @@
+=== urban PDF page 4 (w=612 h=792) ===
+[B 46,37,497,51]
+  {Lato-Regular 8.6 #1696d2}ook/){Lato-Regular 11.5 #353535}, and {Lato-Regular 11.5 #1696d2}unequal public investment{Lato-Regular 8.6 #1696d2} (https://apps.urban.org/features/capital-flows-chicago/){Lato-Regular 11.5 #353535} have shaped
+[B 46,55,518,68]
+  {Lato-Regular 11.5 #353535}contemporary housing markets, property values, household wealth, and development financing
+[B 46,72,486,86]
+  {Lato-Regular 11.5 #353535}opportunities in ways that unfortunately continue to influence redevelopment decisions.
+[B 46,99,559,113]
+  {Lato-Regular 11.5 #353535}We used Urban’s {Lato-Regular 11.5 #1696d2}Housing Market Forecaster{Lato-Regular 8.6 #1696d2} (https://www.urban.org/projects/housing-market-forecaster){Lato-Regular 11.5 #353535} to estimate
+[B 46,116,485,130]
+  {Lato-Regular 11.5 #353535}where housing development permits are most likely to be located over the next 15 years.
+[B 46,144,556,203]
+  {FuturaPTWeb-Heavy 15.3 #000000}Without Reforms to the City’s Zoning Code, Permitting Requests from Now
+  {FuturaPTWeb-Heavy 15.3 #000000}Until 2041 Will Likely Be Concentrated In and Around Chicago’s Near
+  {FuturaPTWeb-Heavy 15.3 #000000}Northwest Neighborhoods
+[B 46,204,558,217]
+  {Lato-Regular 10.2 #000000}Estimated probability of a permit for new housing development being requested on a given parcel by 2041, based on
+[B 46,220,261,232]
+  {Lato-Regular 10.2 #000000}the Urban Institute’s Housing Market Forecaster
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}4/17
+--- LINKS ---
+  [ook/)] -> https://woodstockinst.org/press-release/new-fact-book/
+  [unequal public investment (https://apps.urban.org/features/capital-flows-chicago/)] -> https://apps.urban.org/features/capital-flows-chicago/
+  [Housing Market Forecaster (https://www.urban.org/projects/housing-market-forecaster)] -> https://www.urban.org/projects/housing-market-forecaster

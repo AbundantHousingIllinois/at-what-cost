@@ -1,0 +1,98 @@
+=== urban PDF page 2 (w=612 h=792) ===
+[B 46,37,528,51]
+  {Lato-Regular 11.5 #353535}Nationwide, {Lato-Regular 11.5 #1696d2}rising housing costs{Lato-Regular 8.6 #1696d2} (https://www.urban.org/data-tools/american-affordability-tracker){Lato-Regular 11.5 #353535} and a {Lato-Regular 11.5 #1696d2}housing
+[B 46,55,555,68]
+  {Lato-Regular 11.5 #1696d2}shortage{Lato-Regular 8.6 #1696d2} (https://www.urban.org/research/publication/addressing-housing-supply-challenges-through-target-setting){Lato-Regular 11.5 #353535} are leading
+[B 46,72,562,86]
+  {Lato-Regular 11.5 #353535}policymakers to {Lato-Regular 11.5 #1696d2}significantly reform zoning{Lato-Regular 8.6 #1696d2} (https://www.nahb.org/-/media/NAHB/advocacy/docs/industry-issues/land-use-
+[B 46,89,525,103]
+  {Lato-Regular 8.6 #1696d2}101/state-local-affordability/zoning-reform-trends.pdf?rev=9de7b7e14922412ca4f3c087b2b25ecd){Lato-Regular 11.5 #353535} (PDF) to encourage
+[B 46,106,89,120]
+  {Lato-Regular 11.5 #353535}building.
+[B 46,133,562,147]
+  {Lato-Regular 11.5 #353535}At the federal level, the {Lato-Regular 11.5 #1696d2}21st Century ROAD to Housing Act{Lato-Regular 8.6 #1696d2} (https://www.urban.org/urban-wire/congress-has-finally-p
+[B 46,151,539,164]
+  {Lato-Regular 8.6 #1696d2}assed-major-housing-reform-real-work-starts-now){Lato-Regular 11.5 #353535} will give cities and counties new incentives and resources to
+[B 46,168,562,182]
+  {Lato-Regular 11.5 #353535}enable more housing construction. Meanwhile, numerous state governments are {Lato-Regular 11.5 #1696d2}developing prohousing
+[B 46,185,564,199]
+  {Lato-Regular 11.5 #1696d2}land-use legislation,{Lato-Regular 8.6 #1696d2} (https://www.urban.org/research/publication/advancing-pro-housing-land-use-policy-state-level){Lato-Regular 11.5 #353535} with {Lato-Regular 11.5 #1696d2}more
+[B 46,202,564,216]
+  {Lato-Regular 11.5 #1696d2}than 500 bills introduced in the past year that preempt restrictive local zoning.{Lato-Regular 8.6 #1696d2} (https://www.naco.org/state-polic
+[B 46,223,88,233]
+  {Lato-Regular 8.6 #1696d2}y/land-use)
+[B 46,247,535,278]
+  {Lato-Regular 11.5 #353535}Regardless of state actions, local policymakers in many cities, such as Chicago, are considering new
+  {Lato-Regular 11.5 #353535}approaches to spur development and boost affordability. Over the past two years, Mayor Brandon
+[B 46,281,554,295]
+  {Lato-Regular 11.5 #353535}Johnson’s {Lato-Regular 11.5 #1696d2}Cut the Tape initiative{Lato-Regular 8.6 #1696d2} (https://www.chicago.gov/city/en/sites/cut-the-tape/home.html){Lato-Regular 11.5 #353535} has explored ways to
+[B 46,298,563,312]
+  {Lato-Regular 11.5 #353535}reform the city’s {Lato-Regular 11.5 #1696d2}outdated zoning regulations{Lato-Regular 8.6 #1696d2} (https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/20
+[B 46,316,537,329]
+  {Lato-Regular 8.6 #1696d2}24/april/cut-the-tape.html){Lato-Regular 11.5 #353535} and streamline approval and review processes. In addition, the city council has
+[B 46,333,529,347]
+  {Lato-Regular 11.5 #353535}updated Chicago’s accessory dwelling unit (ADU) policy twice over the past five years. Recently, it
+[B 46,350,563,364]
+  {Lato-Regular 11.5 #353535}enacted a {Lato-Regular 11.5 #1696d2}broader citywide framework{Lato-Regular 8.6 #1696d2} (https://www.thedailyline.com/chicago-city-additional-accessory-dwelling-unit-legaliz
+[B 46,367,555,381]
+  {Lato-Regular 8.6 #1696d2}ation-ordinance-effective-april-application-process-housing-department){Lato-Regular 11.5 #353535} that would allow alderpersons to permit ADUs
+[B 46,385,565,398]
+  {Lato-Regular 11.5 #353535}in their wards, though it gave them discretion on some issues, such as whether to require homeowners to
+[B 46,402,103,416]
+  {Lato-Regular 11.5 #353535}live on-site.
+[B 46,429,562,443]
+  {Lato-Regular 11.5 #353535}In this new analysis, we use the Urban Institute’s {Lato-Regular 11.5 #1696d2}Housing Market Forecaster{Lato-Regular 8.6 #1696d2} (https://www.urban.org/projects/ho
+[B 46,446,565,460]
+  {Lato-Regular 8.6 #1696d2}using-market-forecaster){Lato-Regular 11.5 #353535} to model how several zoning reforms could affect housing development in Chicago by
+[B 46,463,565,477]
+  {Lato-Regular 11.5 #353535}2041. Specifically, we examine how zoning reforms other cities have made could affect Chicago’s housing
+[B 46,481,392,494]
+  {Lato-Regular 11.5 #353535}supply and distribution across neighborhoods. These reforms include:
+[B 50,508,542,522]
+  {Lato-Regular 11.5 #353535}1. allowing triplexes to be built in neighborhoods currently zoned exclusively for single-family home
+[B 61,526,128,539]
+  {Lato-Regular 11.5 #353535}construction,
+[B 50,553,494,566]
+  {Lato-Regular 11.5 #353535}2. legalizing small apartment buildings with four to nine units across the city’s low-density
+[B 61,570,139,584]
+  {Lato-Regular 11.5 #353535}neighborhoods,
+[B 50,598,374,611]
+  {Lato-Regular 11.5 #353535}3. enabling denser housing developments near transit stations, or
+[B 50,625,197,638]
+  {Lato-Regular 11.5 #353535}4. combining reforms 2 and 3.
+[B 46,652,562,666]
+  {Lato-Regular 11.5 #353535}We estimate that zoning reforms could enable Chicago to permit up to an additional 9,500 housing units
+[B 46,670,293,683]
+  {Lato-Regular 11.5 #353535}by 2041 above baseline development projections.
+[B 46,697,559,710]
+  {Lato-Regular 11.5 #353535}In addition, we analyze whether changes to the city’s ADU rules—had they been implemented five years
+[B 46,714,562,728]
+  {Lato-Regular 11.5 #353535}ago—could have increased ADU construction compared with what occurred. We find that Chicago could
+[B 46,731,556,745]
+  {Lato-Regular 11.5 #353535}have tripled the number of ADUs permitted between 2021 and 2025 if the city’s rules hadn’t restricted
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}2/17
+--- LINKS ---
+  [rising housing costs (https://www.urban.org/data-tools/american-affordability-tracker)] -> https://www.urban.org/data-tools/american-affordability-tracker
+  [housing] -> https://www.urban.org/research/publication/addressing-housing-supply-challenges-through-target-setting
+  [shortage (https://www.urban.org/research/publication/addressing-housing-supply-challenges-through-target-setting)] -> https://www.urban.org/research/publication/addressing-housing-supply-challenges-through-target-setting
+  [significantly reform zoning (https://www.nahb.org/-/media/NAHB/advocacy/docs/industry-issues/land-use-] -> https://www.nahb.org/-/media/NAHB/advocacy/docs/industry-issues/land-use-101/state-local-affordability/zoning-reform-trends.pdf?rev=9de7b7e14922412ca4f3c087b2b25ecd
+  [101/state-local-affordability/zoning-reform-trends.pdf?rev=9de7b7e14922412ca4f3c087b2b25ecd)] -> https://www.nahb.org/-/media/NAHB/advocacy/docs/industry-issues/land-use-101/state-local-affordability/zoning-reform-trends.pdf?rev=9de7b7e14922412ca4f3c087b2b25ecd
+  [21st Century ROAD to Housing Act (https://www.urban.org/urban-wire/congress-has-finally-p] -> https://www.urban.org/urban-wire/congress-has-finally-passed-major-housing-reform-real-work-starts-now
+  [assed-major-housing-reform-real-work-starts-now)] -> https://www.urban.org/urban-wire/congress-has-finally-passed-major-housing-reform-real-work-starts-now
+  [developing prohousing] -> https://www.urban.org/research/publication/advancing-pro-housing-land-use-policy-state-level
+  [land-use legislation, (https://www.urban.org/research/publication/advancing-pro-housing-land-use-policy-state-level)] -> https://www.urban.org/research/publication/advancing-pro-housing-land-use-policy-state-level
+  [more] -> https://www.naco.org/state-policy/land-use
+  [than 500 bills introduced in the past year that preempt restrictive local zoning. (https://www.naco.org/state-polic] -> https://www.naco.org/state-policy/land-use
+  [y/land-use)] -> https://www.naco.org/state-policy/land-use
+  [Cut the Tape initiative (https://www.chicago.gov/city/en/sites/cut-the-tape/home.html)] -> https://www.chicago.gov/city/en/sites/cut-the-tape/home.html
+  [outdated zoning regulations (https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/20] -> https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2024/april/cut-the-tape.html
+  [24/april/cut-the-tape.html)] -> https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2024/april/cut-the-tape.html
+  [broader citywide framework (https://www.thedailyline.com/chicago-city-additional-accessory-dwelling-unit-legaliz] -> https://www.thedailyline.com/chicago-city-additional-accessory-dwelling-unit-legalization-ordinance-effective-april-application-process-housing-department
+  [ation-ordinance-effective-april-application-process-housing-department)] -> https://www.thedailyline.com/chicago-city-additional-accessory-dwelling-unit-legalization-ordinance-effective-april-application-process-housing-department
+  [Housing Market Forecaster (https://www.urban.org/projects/ho] -> https://www.urban.org/projects/housing-market-forecaster
+  [using-market-forecaster)] -> https://www.urban.org/projects/housing-market-forecaster

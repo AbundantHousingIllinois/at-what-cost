@@ -1,0 +1,85 @@
+=== mpc PDF page 28 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    26
+[IMAGE 51,753,150,767]
+[IMAGE 257,51,287,82]
+[B 82,65,530,103]
+  {ProximaNova-Regular 15.0 #57657a}The vision:  
+  {ProximaNova-Regular 15.0 #57657a}Integrate healthy air, water, and land into zoning and land use practices
+[IMAGE 49,125,68,144]
+[B 73,125,562,149]
+  {ProximaNova-Extrabld 9.0 #57657a}Update zoning for modern industry: {ProximaNova-Regular 9.0 #57657a}Re-classify manufacturing and industrial uses based on measurable benefits and 
+  {ProximaNova-Regular 9.0 #57657a}harms—such as jobs, pollution, environmental impacts, and public health impacts—to encourage low-impact, job-dense industry.
+[B 49,158,564,230]
+  {ProximaNova-Regular 9.0 #000000}The zoning code currently classifies manufacturing and industrial uses into four categories (Artisan, Limited, General, and Intensive). 
+  {ProximaNova-Regular 9.0 #000000}These categories are based on use, rather than impact. The zoning code currently does not attempt to estimate the benefits and 
+  {ProximaNova-Regular 9.0 #000000}burdens of a proposed industrial development, which may be a complex mix of positive and negative impacts for workers, residents, 
+  {ProximaNova-Regular 9.0 #000000}and the city—factors such as jobs, pollution, environmental impact, and public health. MPC recommends modernizing the zoning 
+  {ProximaNova-Regular 9.0 #000000}code to holistically account for the ways industrial land uses impact their surrounding communities. This could include air pollution, 
+  {ProximaNova-Regular 9.0 #000000}noise pollution, truck and transportation impacts, wages, and job creation. 
+[B 49,239,565,275]
+  {ProximaNova-Regular 9.0 #000000}In addition, MPC recommends separating heavier industrial uses from residential areas and maintaining minimum distances between 
+  {ProximaNova-Regular 9.0 #000000}these uses, as well as other protective strategies like stronger requirements for vegetative buffers around industrial uses, which can 
+  {ProximaNova-Regular 9.0 #000000}help mitigate pollution exposure.
+[IMAGE 49,284,68,303]
+[B 73,284,558,308]
+  {ProximaNova-Extrabld 9.0 #57657a}Protect overburdened communities from cumulative impacts: {ProximaNova-Regular 9.0 #57657a}Require a holistic review of the expected health and quality-
+  {ProximaNova-Regular 9.0 #57657a}of-life impacts of all proposed intensive industrial facilities. 
+[B 49,317,561,377]
+  {ProximaNova-Regular 9.0 #000000}The Chicago Department of Public Health has developed a cumulative impacts assessment that measures how multiple 
+  {ProximaNova-Regular 9.0 #000000}environmental burdens and social stressors combine to affect health across neighborhoods. MPC recommends using this tool to 
+  {ProximaNova-Regular 9.0 #000000}evaluate future heavy industrial developments, particularly to ensure that highly intensive industrial facilities do not cause additional 
+  {ProximaNova-Regular 9.0 #000000}harms to overburdened communities. Additional layers of zoning review for heavy industrial facilities—through special use approval 
+  {ProximaNova-Regular 9.0 #000000}or the Planned Development process—can provide the opportunity to conduct this evaluation.
+[B 58,397,208,413]
+  {ProximaNova-Bold 11.0 #000000}City Spotlight: Washington DC 
+[B 58,420,259,625]
+  {ProximaNova-Regular 9.0 #000000}Washington, D. C.’s Green Area Ratio (GAR) is 
+  {ProximaNova-Regular 9.0 #000000}a zoning regulation implemented in 2013 to 
+  {ProximaNova-Regular 9.0 #000000}reduce stormwater runoff, improve air quality, and 
+  {ProximaNova-Regular 9.0 #000000}mitigate urban heat. Based on a property’s zoning 
+  {ProximaNova-Regular 9.0 #000000}district, the GAR sets a minimum score that new 
+  {ProximaNova-Regular 9.0 #000000}construction or major renovation projects must 
+  {ProximaNova-Regular 9.0 #000000}meet. Starting with a minimum lot area requirement 
+  {ProximaNova-Regular 9.0 #000000}for landscaping or sustainable site design, the GAR 
+  {ProximaNova-Regular 9.0 #000000}assigns multipliers to different strategies, like tree 
+  {ProximaNova-Regular 9.0 #000000}planting, permeable pavements, or renewable 
+  {ProximaNova-Regular 9.0 #000000}energy systems, based on their impact. Project 
+  {ProximaNova-Regular 9.0 #000000}teams must show that their site design will fulfill 
+  {ProximaNova-Regular 9.0 #000000}a property’s required GAR performance score as 
+  {ProximaNova-Regular 9.0 #000000}part of their building permit application. Since the 
+  {ProximaNova-Regular 9.0 #000000}program’s inception, over 184 hectares of green 
+  {ProximaNova-Regular 9.0 #000000}infrastructure have been built, which is nearly  
+  {ProximaNova-Regular 9.0 #000000}one-and-a-half times the size of Grant Park.
+[IMAGE 284,393,303,413]
+[B 284,393,564,442]
+  {ProximaNova-Extrabld 9.0 #57657a}Leverage unbuilt land for permeable surfaces: {ProximaNova-Regular 9.0 #57657a}Use zoning to 
+  {ProximaNova-Regular 9.0 #57657a}ensure unbuilt land helps counter flood and heat risk by requiring 
+  {ProximaNova-Regular 9.0 #57657a}or incentivizing permeable surfaces and green infrastructure in 
+  {ProximaNova-Regular 9.0 #57657a}setbacks, open space, parkways, and parking lots.
+[B 284,450,565,523]
+  {ProximaNova-Regular 9.0 #000000}The zoning code requires properties in some zoning districts, primarily 
+  {ProximaNova-Regular 9.0 #000000}residential, to retain unbuilt space as “setbacks” or “open space.” These 
+  {ProximaNova-Regular 9.0 #000000}are areas like front yards, back yards, and side walkways. The current 
+  {ProximaNova-Regular 9.0 #000000}ordinance does not require that these spaces include permeable 
+  {ProximaNova-Regular 9.0 #000000}surfaces or green infrastructure. Incorporating these as requirements or 
+  {ProximaNova-Regular 9.0 #000000}incentives could help reduce the impacts of heat and flooding. 
+[B 284,531,554,640]
+  {ProximaNova-Regular 9.0 #000000}The code also regulates landscaping in and around parking lots and 
+  {ProximaNova-Regular 9.0 #000000}parkways, which are the space between the sidewalk and the street. 
+  {ProximaNova-Regular 9.0 #000000}Parking lots smaller than 1,200 square feet do not require screening 
+  {ProximaNova-Regular 9.0 #000000}from the street, and lots smaller than 3,000 square feet do not 
+  {ProximaNova-Regular 9.0 #000000}require internal planting. Parkway trees are not currently required for 
+  {ProximaNova-Regular 9.0 #000000}the development of single-family homes (our most common zoning 
+  {ProximaNova-Regular 9.0 #000000}district), two-flats, or three-flats. MPC recommends strengthening the 
+  {ProximaNova-Regular 9.0 #000000}requirements for permeable surfaces and planting in these spaces to 
+  {ProximaNova-Regular 9.0 #000000}increase the city’s resilience to heat and flooding challenges. 
+[IMAGE 49,648,68,668]
+[B 73,648,553,673]
+  {ProximaNova-Extrabld 9.0 #57657a}Target climate-vulnerable areas for mitigation strategies: {ProximaNova-Regular 9.0 #57657a}Prioritize communities most vulnerable to heat and flooding for 
+  {ProximaNova-Regular 9.0 #57657a}more green space and remediation.
+[B 49,681,554,730]
+  {ProximaNova-Regular 9.0 #000000}Heat, flooding, and pollution exposure are not equally distributed across the city. As MPC’s research in the section above shows, 
+  {ProximaNova-Regular 9.0 #000000}Black and Latinx communities are most likely to face climate impacts. As part of a comprehensive planning process, areas 
+  {ProximaNova-Regular 9.0 #000000}disproportionately affected by climate impacts should be prioritized for investment in climate mitigation and adaptation strategies, 
+  {ProximaNova-Regular 9.0 #000000}such as converting city-owned vacant land to green space, targeted remediation funding, and green infrastructure projects. 

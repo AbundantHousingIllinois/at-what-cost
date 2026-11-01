@@ -1,0 +1,7 @@
+=== mpc PDF page 41 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    39
+[IMAGE 51,753,150,767]
+[B 49,45,185,61]
+  {ProximaNova-Bold 11.0 #000000}Chicago Zoning Map (2023)
+[IMAGE 49,65,560,737]

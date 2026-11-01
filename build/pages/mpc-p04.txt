@@ -1,0 +1,67 @@
+=== mpc PDF page 4 (w=612 h=792) ===
+[B 370,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    2
+[IMAGE 51,753,150,767]
+[B 49,42,558,91]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Citywide problems require citywide solutions: A way forward on  
+  {IvyPrestoHeadline-Regula 20.0 #e36841}zoning and land use
+[B 49,104,560,141]
+  {ProximaNova-Bold 9.0 #000000}Chicago is a city known for what we’ve built—and what we’ve rebuilt. {ProximaNova-Regular 9.0 #000000}We are renowned for our architecture, our elevated trains, 
+  {ProximaNova-Regular 9.0 #000000}our sweeping public parks, our lakefront skyline, and our people. When the city we had created was destroyed by a historic fire, we 
+  {ProximaNova-Regular 9.0 #000000}marshaled the industry and innovation of the time and built it again.  
+[B 49,149,553,198]
+  {ProximaNova-Bold 9.0 #000000}Our story of rebuilding is also one of segregation and harm. {ProximaNova-Regular 9.0 #000000}Highways carved up our neighborhoods, rampant redlining and 
+  {ProximaNova-Regular 9.0 #000000}exclusionary zoning practices blocked families in Black and Latinx communities from homeownership and wealth building, and 
+  {ProximaNova-Regular 9.0 #000000}polluting industries left some communities with unhealthy air and contaminated land that is still in need of remediation. Just as we 
+  {ProximaNova-Regular 9.0 #000000}have rebuilt our skyline after tragedy, our task now is to rebuild toward a future that addresses the wrongs of our past. 
+[B 49,206,550,267]
+  {ProximaNova-Bold 9.0 #000000}We need to craft citywide solutions to citywide problems. {ProximaNova-Regular 9.0 #000000}We are in a time of skepticism about cities. And the challenges are 
+  {ProximaNova-Regular 9.0 #000000}real: new housing is being built in too few neighborhoods, and the costs of housing continue to rise faster than wages. Too many 
+  {ProximaNova-Regular 9.0 #000000}lots and storefronts are sitting vacant, while small business owners struggle to navigate complicated policies to get businesses 
+  {ProximaNova-Regular 9.0 #000000}off the ground. Across Chicago, all residents are exposed to unhealthy levels of air pollution, and some communities still bear a 
+  {ProximaNova-Regular 9.0 #000000}disproportionate burden. All of these are complex land use questions that the city has a responsibility to tackle.
+[B 49,275,565,372]
+  {ProximaNova-Bold 9.0 #000000}Citywide zoning and land use reforms are a chance to flex our citywide muscle: an opportunity to prove that cities can work, 
+  {ProximaNova-Bold 9.0 #000000}while improving life for all Chicagoans. {ProximaNova-Regular 9.0 #000000}The recommendations below are informed by MPC and Urban Institute’s stakeholder-
+  {ProximaNova-Regular 9.0 #000000}guided research, and the perspectives we heard from hundreds of Chicagoans over the course of the Zoning and Land Use 
+  {ProximaNova-Regular 9.0 #000000}Assessment—experts and everyday residents alike. These are reforms that take a citywide approach. We can allow the construction 
+  {ProximaNova-Regular 9.0 #000000}of more homes without project-by-project aldermanic approval, like the two-to-four flats that already fill our neighborhoods but 
+  {ProximaNova-Regular 9.0 #000000}remain illegal to build and rebuild throughout much of the city. We can remove the requirement for new small businesses to navigate 
+  {ProximaNova-Regular 9.0 #000000}expensive zoning relief processes. And we can modernize our zoning to allow areas near transit to evolve into dynamic and 
+  {ProximaNova-Regular 9.0 #000000}walkable places to live and work. 
+[B 67,400,191,544]
+  {IvyPrestoHeadline-Light 14.0 #000000}The result has been 
+  {IvyPrestoHeadline-Light 14.0 #000000}that Chicago is seen 
+  {IvyPrestoHeadline-Light 14.0 #000000}as too unpredictable a 
+  {IvyPrestoHeadline-Light 14.0 #000000}place to build, housing 
+  {IvyPrestoHeadline-Light 14.0 #000000}continues to become 
+  {IvyPrestoHeadline-Light 14.0 #000000}more expensive, and 
+  {IvyPrestoHeadline-Light 14.0 #000000}segregation continues 
+  {IvyPrestoHeadline-Light 14.0 #000000}to divide our city.
+[B 226,380,565,513]
+  {ProximaNova-Bold 9.0 #000000}Aldermanic prerogative—Chicago’s version of hyper-local control—is standing in the 
+  {ProximaNova-Bold 9.0 #000000}way of building a more equitable future for our city. {ProximaNova-Regular 9.0 #000000}Aldermanic prerogative is a 
+  {ProximaNova-Regular 9.0 #000000}deeply rooted practice here. Through policy and practice, City Council and other 
+  {ProximaNova-Regular 9.0 #000000}government bodies defer to the local alderperson when making decisions about 
+  {ProximaNova-Regular 9.0 #000000}development proposals. Because Chicago’s current zoning and land use policies 
+  {ProximaNova-Regular 9.0 #000000}restrict what’s possible to build “by-right”—under the current zoning rules—many 
+  {ProximaNova-Regular 9.0 #000000}projects can’t advance without the blessing of the local alderperson. This gives 
+  {ProximaNova-Regular 9.0 #000000}alderpersons virtually unquestioned control over what gets built within the boundaries 
+  {ProximaNova-Regular 9.0 #000000}of each of the 50 separate wards. The result has been that Chicago is seen as too 
+  {ProximaNova-Regular 9.0 #000000}unpredictable a place to build, housing continues to become more expensive, and 
+  {ProximaNova-Regular 9.0 #000000}segregation continues to divide our city. 
+[B 49,521,566,618]
+  {ProximaNova-Bold 9.0 #000000}Our neighborhoods have different needs, but aldermanic prerogative is not an 
+  {ProximaNova-Bold 9.0 #000000}effective stand-in for neighborhood desires.{ProximaNova-Regular 9.0 #000000} Each alderperson approaches their 
+  {ProximaNova-Regular 9.0 #000000}role differently. Some have local zoning advisory boards composed of hand-selected 
+  {ProximaNova-Regular 9.0 #000000}residents, local businesses, or local institutions. Some solicit feedback, hold community 
+  {ProximaNova-Regular 9.0 #000000}meetings, or encourage developers to hold meetings. And some do none of these things, negotiating directly with developers. Even 
+  {ProximaNova-Regular 9.0 #000000}when alderpersons receive input from residents, there is no mechanism to check whether this feedback is representative of their 
+  {ProximaNova-Regular 9.0 #000000}constituents, or whether it simply represents those with the time and resources to engage. At the same time, there is also no way to 
+  {ProximaNova-Regular 9.0 #000000}ensure that feedback gets implemented—the power remains the alderperson’s to wield as they wish.  
+[B 49,626,553,687]
+  {ProximaNova-Bold 9.0 #000000}The current system pushes our politics toward territorialism and zero-sum thinking. {ProximaNova-Regular 9.0 #000000}Our challenges are not contained within 
+  {ProximaNova-Regular 9.0 #000000}individual wards, and the solutions are not either. The availability and affordability of new homes, the vibrancy of our business 
+  {ProximaNova-Regular 9.0 #000000}corridors, and the role of industry in our neighborhoods are all citywide issues, and citywide zoning and land use policy could be 
+  {ProximaNova-Regular 9.0 #000000}powerful tools to address them. But for over a century, aldermanic prerogative has prevented this citywide approach, keeping our 
+  {ProximaNova-Regular 9.0 #000000}elected officials locked in political infighting rather than common-sense policymaking.  

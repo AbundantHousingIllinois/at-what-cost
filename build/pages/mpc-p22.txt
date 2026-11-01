@@ -1,0 +1,46 @@
+=== mpc PDF page 22 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    20
+[IMAGE 51,753,150,767]
+[IMAGE 257,62,287,92]
+[B 162,76,450,113]
+  {ProximaNova-Regular 15.0 #755134}The vision:  
+  {ProximaNova-Regular 15.0 #755134}Clear the way for vibrant, livable communities
+[IMAGE 49,156,68,175]
+[B 73,156,548,180]
+  {ProximaNova-Extrabld 9.0 #755134}Zone for a dynamic mix of uses near transit: {ProximaNova-Regular 9.0 #755134}Allow more opportunities for Chicagoans to live, work, and visit places near 
+  {ProximaNova-Regular 9.0 #755134}transit, especially in areas with fewer jobs and/or higher vacancy rates.
+[B 49,189,565,249]
+  {ProximaNova-Regular 9.0 #000000}In addition to allowing more housing near transit (see {ProximaNova-Regular 9.0 #0000ff}page 16{ProximaNova-Regular 9.0 #000000}), MPC recommends adjusting zoning near transit to support the 
+  {ProximaNova-Regular 9.0 #000000}development of mixed-use employment hubs and business corridors, especially in areas with fewer jobs and higher vacancy rates 
+  {ProximaNova-Regular 9.0 #000000}where minimizing barriers to development is one step towards revitalization. This may require reevaluating business and commercial 
+  {ProximaNova-Regular 9.0 #000000}zoning district categories to ensure that districts are flexible enough, allowing both residential uses and a wide enough range of 
+  {ProximaNova-Regular 9.0 #000000}commercial uses.
+[IMAGE 49,258,68,277]
+[B 73,258,561,282]
+  {ProximaNova-Extrabld 9.0 #755134}Expand pedestrian streets near transit: {ProximaNova-Regular 9.0 #755134}Standardize the use of the pedestrian street designation near transit and modernize 
+  {ProximaNova-Regular 9.0 #755134}pedestrian street eligibility and standards. 
+[B 49,291,566,339]
+  {ProximaNova-Regular 9.0 #000000}Currently the “pedestrian street” designation is a limited, preservation-oriented tool, allowing individual alders to opt-in to pedestrian 
+  {ProximaNova-Regular 9.0 #000000}friendliness standards for specific, eligible streets. This treats pedestrian friendliness as an exceptional case requiring additional 
+  {ProximaNova-Regular 9.0 #000000}legislation and approvals, while streetscapes that are hostile to pedestrians are considered the status quo. Our current approach has 
+  {ProximaNova-Regular 9.0 #000000}had inequitable outcomes, with pedestrian streets concentrated on the North side. 
+[B 49,348,556,420]
+  {ProximaNova-Regular 9.0 #000000}MPC recommends standardizing the proactive use of the pedestrian street designation on business corridors near transit citywide, 
+  {ProximaNova-Regular 9.0 #000000}while making allowances for preexisting uses and exceptional situations, like transit along highways. MPC also recommends 
+  {ProximaNova-Regular 9.0 #000000}strengthening the definition of the pedestrian street designation itself. This means including a list of prohibited and explicitly 
+  {ProximaNova-Regular 9.0 #000000}allowed uses in the definition, limiting future downzonings, and updating eligibility criteria to allow pedestrian streets to be used 
+  {ProximaNova-Regular 9.0 #000000}as a forward-looking planning tool citywide. A standardized, expanded set of pedestrian streets could also be anchors for citywide 
+  {ProximaNova-Regular 9.0 #000000}planning efforts discussed on {ProximaNova-Regular 9.0 #0000ff}page 31
+[IMAGE 49,429,68,448]
+[B 73,429,541,442]
+  {ProximaNova-Extrabld 9.0 #755134}Bring small-scale business into neighborhoods: {ProximaNova-Regular 9.0 #755134}Increase the types of businesses allowed in residential neighborhoods
+[B 49,450,560,510]
+  {ProximaNova-Regular 9.0 #000000}Currently, only a very limited number of businesses—such as bed and breakfasts and vacation rentals—are allowed in 
+  {ProximaNova-Regular 9.0 #000000}residential districts (and even then, only in some districts). “Business Live/Work Units” and “Artist Live/Work Units” are only allowed 
+  {ProximaNova-Regular 9.0 #000000}in areas zoned for business and commercial use, often also requiring approval by the Zoning Board of Appeals. Allowing small-
+  {ProximaNova-Regular 9.0 #000000}scale, low-impact businesses like corner stores, cafes, small-scale retail, and artist studios is a step toward improving the livability of 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods and supporting small business development.
+--- LINKS ---
+  [page 16 siness co] -> internal page 18
+  [tool city  page 31] -> internal page 33

@@ -1,0 +1,186 @@
+=== mpc PDF page 45 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    43
+[IMAGE 51,753,150,767]
+[B 53,50,486,66]
+  {ProximaNova-Bold 11.0 #ffffff}Variable
+  {ProximaNova-Bold 11.0 #ffffff}Data Source(s)
+  {ProximaNova-Bold 11.0 #ffffff}Data Year(s)
+  {ProximaNova-Bold 11.0 #ffffff}Outcomes
+[B 53,68,208,91]
+  {ProximaNova-Regular 9.0 #000000}Population Density (percent of total city 
+  {ProximaNova-Regular 9.0 #000000}population)
+[B 228,68,330,101]
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,68,559,91]
+  {ProximaNova-Regular 9.0 #000000}2019-2023
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs, 
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,104,559,147]
+  {ProximaNova-Regular 9.0 #000000}Total City-owned Land
+  {ProximaNova-Regular 9.0 #000000}City of Chicago
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs, 
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change, Productive 
+  {ProximaNova-Regular 9.0 #000000}Land Use 
+[B 53,151,189,173]
+  {ProximaNova-Regular 9.0 #000000}Access to Jobs (Number of jobs 
+  {ProximaNova-Regular 9.0 #000000}accessible in 30 minutes by transit)
+[B 228,151,329,183]
+  {ProximaNova-Regular 9.0 #000000}Center for Neighborhood 
+  {ProximaNova-Regular 9.0 #000000}Technology, All Transit 
+  {ProximaNova-Regular 9.0 #000000}Database
+[B 350,151,554,163]
+  {ProximaNova-Regular 9.0 #000000}2024
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs
+[B 53,187,330,219]
+  {ProximaNova-Regular 9.0 #000000}Racial and Ethnic Diversity
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,187,554,199]
+  {ProximaNova-Regular 9.0 #000000}2019-2023
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs
+[B 53,223,330,255]
+  {ProximaNova-Regular 9.0 #000000}Car Ownership (Total and percentage)
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,223,554,235]
+  {ProximaNova-Regular 9.0 #000000}2019-2023
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs
+[B 53,259,216,291]
+  {ProximaNova-Regular 9.0 #000000}SNAP Grocery Vendor data (total number 
+  {ProximaNova-Regular 9.0 #000000}of grocery stores, supermarkets, and 
+  {ProximaNova-Regular 9.0 #000000}super stores)
+[B 228,259,320,291]
+  {ProximaNova-Regular 9.0 #000000}U. S. Department of 
+  {ProximaNova-Regular 9.0 #000000}Agriculture, Food and 
+  {ProximaNova-Regular 9.0 #000000}Nutrition Administration
+[B 350,259,530,281]
+  {ProximaNova-Regular 9.0 #000000}2023
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,295,196,338]
+  {ProximaNova-Regular 9.0 #000000}Food Access (Percentage of tract 
+  {ProximaNova-Regular 9.0 #000000}population living more than one-half 
+  {ProximaNova-Regular 9.0 #000000}mile from the nearest supermarket, 
+  {ProximaNova-Regular 9.0 #000000}supercenter, or large grocery store
+[B 228,295,320,328]
+  {ProximaNova-Regular 9.0 #000000}U. S. Department of 
+  {ProximaNova-Regular 9.0 #000000}Agriculture, Food and 
+  {ProximaNova-Regular 9.0 #000000}Nutrition Administration
+[B 350,295,530,318]
+  {ProximaNova-Regular 9.0 #000000}2010, 2019
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,341,213,374]
+  {ProximaNova-Regular 9.0 #000000}Primary Care Community Health Centers 
+  {ProximaNova-Regular 9.0 #000000}(Total number of hospitals and primary 
+  {ProximaNova-Regular 9.0 #000000}care clinics)
+[B 228,341,337,374]
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal, 
+  {ProximaNova-Regular 9.0 #000000}U. S. Department of Health 
+  {ProximaNova-Regular 9.0 #000000}and Human Services
+[B 350,341,530,364]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,377,219,410]
+  {ProximaNova-Regular 9.0 #000000}Physician and Outpatient Access (Total 
+  {ProximaNova-Regular 9.0 #000000}number of outpatient clinics and physician 
+  {ProximaNova-Regular 9.0 #000000}offices/clinics) 
+[B 228,377,342,400]
+  {ProximaNova-Regular 9.0 #000000}National Neighborhood Data 
+  {ProximaNova-Regular 9.0 #000000}Archive
+[B 350,377,530,400]
+  {ProximaNova-Regular 9.0 #000000}2021
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,413,205,446]
+  {ProximaNova-Regular 9.0 #000000}Primary Care Access (Total number 
+  {ProximaNova-Regular 9.0 #000000}of adults who report with at least one 
+  {ProximaNova-Regular 9.0 #000000}personal doctor or healthcare provider)
+[B 228,413,322,436]
+  {ProximaNova-Regular 9.0 #000000}Chicago Health Atlas, 
+  {ProximaNova-Regular 9.0 #000000}Healthy Chicago Survey
+[B 350,413,530,436]
+  {ProximaNova-Regular 9.0 #000000}2023-2024
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,449,179,472]
+  {ProximaNova-Regular 9.0 #000000}Uninsured Population (Total and 
+  {ProximaNova-Regular 9.0 #000000}percentage)
+[B 228,449,330,492]
+  {ProximaNova-Regular 9.0 #000000}Chicago Health Atlas, 
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,449,553,482]
+  {ProximaNova-Regular 9.0 #000000}2018-2022
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare, Mitigation and 
+  {ProximaNova-Regular 9.0 #000000}Adaptation to Climate Change
+[B 53,495,212,528]
+  {ProximaNova-Regular 9.0 #000000}Health Insurance Coverage Type 
+  {ProximaNova-Regular 9.0 #000000}(Percentage of adult residents who have 
+  {ProximaNova-Regular 9.0 #000000}at least one source of private insurance)
+[B 228,495,330,528]
+  {ProximaNova-Regular 9.0 #000000}U. S. Census American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey 5-Year 
+  {ProximaNova-Regular 9.0 #000000}Estimates
+[B 350,495,530,518]
+  {ProximaNova-Regular 9.0 #000000}2018-2022
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,532,320,554]
+  {ProximaNova-Regular 9.0 #000000}Total Number of Pharmacies
+  {ProximaNova-Regular 9.0 #000000}OpenStreet Facilities 
+  {ProximaNova-Regular 9.0 #000000}Pharmacy Designations
+[B 350,532,530,554]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,558,530,580]
+  {ProximaNova-Regular 9.0 #000000}Total Number of Farmers Markets
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,584,530,606]
+  {ProximaNova-Regular 9.0 #000000}Total Number of Community Gardens
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,610,530,633]
+  {ProximaNova-Regular 9.0 #000000}Total Number of Urban Farms
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Available Groceries and 
+  {ProximaNova-Regular 9.0 #000000}Healthcare
+[B 53,636,219,659]
+  {ProximaNova-Regular 9.0 #000000}Heat Index (Morning, afternoon, night, and 
+  {ProximaNova-Regular 9.0 #000000}average all-day heat index)
+[B 228,636,548,659]
+  {ProximaNova-Regular 9.0 #000000}Heat Watch/Cool Chi
+  {ProximaNova-Regular 9.0 #000000}2023
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,662,548,685]
+  {ProximaNova-Regular 9.0 #000000}Air Temperature
+  {ProximaNova-Regular 9.0 #000000}Heat Watch/Cool Chi
+  {ProximaNova-Regular 9.0 #000000}2023
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change
+[B 53,688,314,711]
+  {ProximaNova-Regular 9.0 #000000}Urban Flooding Susceptibility Index
+  {ProximaNova-Regular 9.0 #000000}Chicago Metropolitan 
+  {ProximaNova-Regular 9.0 #000000}Agency for Planning
+[B 350,688,548,711]
+  {ProximaNova-Regular 9.0 #000000}2017
+  {ProximaNova-Regular 9.0 #000000}Mitigation and Adaptation to 
+  {ProximaNova-Regular 9.0 #000000}Climate Change

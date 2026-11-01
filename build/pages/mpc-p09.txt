@@ -1,0 +1,82 @@
+=== mpc PDF page 9 (w=612 h=792) ===
+[B 371,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    7
+[IMAGE 51,753,150,767]
+[B 49,42,313,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}What is land use? What is zoning?
+[B 49,82,563,119]
+  {ProximaNova-Regular 9.0 #000000}Land use is how Chicagoans experience the places we live, work, and visit in our daily lives. The apartment building next door, the 
+  {ProximaNova-Regular 9.0 #000000}nearby park, that favorite corner store or local coffee shop, that empty lot or big-box store, the factory or car wash across the street—
+  {ProximaNova-Regular 9.0 #000000}all are examples of different land uses.
+[IMAGE 49,137,263,365]
+[B 67,398,198,414]
+  {ProximaNova-Bold 11.0 #000000}A zine to demystify zoning 
+[B 67,421,254,554]
+  {ProximaNova-Regular 9.0 #000000}For more on zoning basics, a detailed history 
+  {ProximaNova-Regular 9.0 #000000}of zoning in Chicago, and the nitty-gritty of how 
+  {ProximaNova-Regular 9.0 #000000}zoning works, check out MPC’s zine, developed 
+  {ProximaNova-Regular 9.0 #000000}as part of the Assessment. MPC collaborated 
+  {ProximaNova-Regular 9.0 #000000}with the Assessment’s Community Advisory 
+  {ProximaNova-Regular 9.0 #000000}Group to develop {ProximaNova-RegularIt 9.0 #0000ff}In the Zone: A Chicagoan’s 
+  {ProximaNova-RegularIt 9.0 #0000ff}Guide to Zoning and Land Use{ProximaNova-BoldIt 9.0 #000000}.{ProximaNova-Regular 9.0 #000000} Available in 
+  {ProximaNova-Regular 9.0 #000000}physical and digital form—and in Spanish and 
+  {ProximaNova-Regular 9.0 #000000}Simplified Chinese—this illustrated resource is 
+  {ProximaNova-Regular 9.0 #000000}for anyone who wants to learn about zoning in 
+  {ProximaNova-Regular 9.0 #000000}Chicago.
+[IMAGE 97,572,215,690]
+[B 281,127,563,212]
+  {ProximaNova-Regular 9.0 #000000}Zoning regulates land uses by setting limits on what can be built, and 
+  {ProximaNova-Regular 9.0 #000000}where. In this report, “zoning” includes the zoning ordinance (also 
+  {ProximaNova-Regular 9.0 #000000}known as the zoning code or text) which sets out rules for development 
+  {ProximaNova-Regular 9.0 #000000}in different zoning districts, the zoning map which determines the 
+  {ProximaNova-Regular 9.0 #000000}districts that apply to different areas of the city, and the zoning process—
+  {ProximaNova-Regular 9.0 #000000}the people and pathways through which decisions about zoning get 
+  {ProximaNova-Regular 9.0 #000000}made. 
+[B 281,220,565,305]
+  {ProximaNova-Regular 9.0 #000000}Together, these things determine which land uses are allowed in specific 
+  {ProximaNova-Regular 9.0 #000000}locations and set limits on new development’s size and shape. Zoning 
+  {ProximaNova-Regular 9.0 #000000}controls how tall a building can be and how close it can be to the street. 
+  {ProximaNova-Regular 9.0 #000000}It influences allowable density: how many of something, like homes 
+  {ProximaNova-Regular 9.0 #000000}or storefronts, exist in a space. Zoning also influences how long the 
+  {ProximaNova-Regular 9.0 #000000}development process takes, how much it costs, and who can weigh in 
+  {ProximaNova-Regular 9.0 #000000}along the way.
+[B 281,313,556,398]
+  {ProximaNova-Regular 9.0 #000000}Zoning reform isn’t a silver bullet. Many other factors also play an 
+  {ProximaNova-Regular 9.0 #000000}important role in shaping development and the feel of neighborhoods. 
+  {ProximaNova-Regular 9.0 #000000}This encompasses everything from other regulatory systems like 
+  {ProximaNova-Regular 9.0 #000000}building codes and business licensing, to the market for development 
+  {ProximaNova-Regular 9.0 #000000}(including what financing is available for development), taxes and 
+  {ProximaNova-Regular 9.0 #000000}other revenue structures, and community institutions that anchor 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods. 
+[B 281,406,552,443]
+  {ProximaNova-Regular 9.0 #000000}For more information on Chicago’s zoning districts, including each 
+  {ProximaNova-Regular 9.0 #000000}zoning designation’s share of city land—plus a map of zoning districts 
+  {ProximaNova-Regular 9.0 #000000}across the city—see {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ZONING DISTRICTS
+[B 281,456,447,477]
+  {ProximaNova-Regular 15.0 #4e5154}Why does zoning matter? 
+[B 281,483,558,568]
+  {ProximaNova-Regular 9.0 #000000}Improving zoning means improving life for Chicagoans. Zoning is 
+  {ProximaNova-Regular 9.0 #000000}one of the most direct tools policymakers have to influence how 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods look and feel. As the research in this report shows, our 
+  {ProximaNova-Regular 9.0 #000000}current zoning system does not always result in equitable outcomes. 
+  {ProximaNova-Regular 9.0 #000000}Zoning is part of a long, ongoing history of laws and practices that 
+  {ProximaNova-Regular 9.0 #000000}have contributed to a segregated Chicago, with disinvestment in some 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods and abundant resources in others. 
+[B 281,576,557,673]
+  {ProximaNova-Regular 9.0 #000000}Currently, zoning is controlled through a longstanding practice called 
+  {ProximaNova-Regular 9.0 #000000}“aldermanic prerogative.” Alderpersons have control over what gets 
+  {ProximaNova-Regular 9.0 #000000}built within the boundaries of each of our 50 wards. This approach has 
+  {ProximaNova-Regular 9.0 #000000}not been successful in meeting our challenges: Chicago is seen as 
+  {ProximaNova-Regular 9.0 #000000}too unpredictable a place to build, housing continues to become more 
+  {ProximaNova-Regular 9.0 #000000}expensive, and segregation continues to divide our city. We have an 
+  {ProximaNova-Regular 9.0 #000000}opportunity with zoning to think as a city, moving beyond a ward-by-
+  {ProximaNova-Regular 9.0 #000000}ward system and taking a bigger-picture policy approach. 
+[B 281,681,558,718]
+  {ProximaNova-Regular 9.0 #000000}For more on zoning basics and the history of zoning in Chicago, read 
+  {ProximaNova-Regular 9.0 #000000}MPC’s zine {ProximaNova-RegularIt 9.0 #0000ff}In the Zone: A Chicagoan’s Guide to Zoning and Land Use{ProximaNova-Regular 9.0 #000000}, 
+  {ProximaNova-Regular 9.0 #000000}developed as part of the Zoning Assessment. 
+--- LINKS ---
+  [ent’s Community Advisory   In the Zone: A Chicagoan’s  nd Land Use. Available in] -> https://metroplanning.org/in-the-zone-a-chicagoans-guide-to-zoning-and-land-use/
+  [Group to develop In the Zone: A Guide to Zoning and Land Use physical and digital form—and i] -> https://metroplanning.org/in-the-zone-a-chicagoans-guide-to-zoning-and-land-use/
+  [s share of city land—plus a map o  APPENDIX: ZONING DISTRICTS] -> internal page 39
+  [on zoning basics and the history of zoning in Chicago, read  e In the Zone: A Chicagoan’s Guide to Zoning and Land Use  as part of the Zoning Assessment.] -> https://metroplanning.org/in-the-zone-a-chicagoans-guide-to-zoning-and-land-use/

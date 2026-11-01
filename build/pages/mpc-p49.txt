@@ -1,0 +1,117 @@
+=== mpc PDF page 49 (w=612 h=792) ===
+[B 367,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    47
+[IMAGE 51,753,150,767]
+[B 49,44,242,65]
+  {ProximaNova-Regular 15.0 #4e5154}Accessible Public Transit Hubs
+[B 49,72,557,96]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: All communities feature public transit options that are convenient and reliable, and serve hubs with 
+  {ProximaNova-RegularIt 9.0 #000000}housing, businesses, recreation and other services
+[B 49,105,273,118]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Primary research questions and variables used
+[B 49,126,549,162]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Research questions:{ProximaNova-Regular 9.0 #000000} How accessible is the transit system to Chicagoans? What levels of density and uses are 
+  {ProximaNova-Regular 9.0 #000000}currently permitted in areas adjacent to the city’s transit system, according to the zoning code? What is the 
+  {ProximaNova-Regular 9.0 #000000}association between zoning near transit and certain demographic variables?
+[B 49,171,565,195]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary dependent variables: {ProximaNova-Regular 9.0 #000000}population near transit, including by race/ethnicity, income, and other demographic 
+  {ProximaNova-Regular 9.0 #000000}characteristics.
+[B 49,204,549,228]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary independent variables:{ProximaNova-Regular 9.0 #000000} city zoning policies; land use data (CMAP); data on job accessibility via transit 
+  {ProximaNova-Regular 9.0 #000000}(CNT); transit station locations.
+[B 49,237,220,250]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Research and analytical methods 
+[B 49,258,551,306]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Descriptive analyses: {ProximaNova-Regular 9.0 #000000}In this work, we conducted primarily descriptive analyses, combined with geospatial 
+  {ProximaNova-Regular 9.0 #000000}work, to understand the relationships between zoning, transit access, and demographics. This approach made 
+  {ProximaNova-Regular 9.0 #000000}it feasible for us to understand the degree to which the city is currently zoned for high densities in near transit 
+  {ProximaNova-Regular 9.0 #000000}stations, and to specify the mix of zoning allowances for different parts of the city.
+[B 49,315,371,328]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important assumptions made that were central to the research findings
+[B 49,336,554,372]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}We did not control for levels of investment demand. In other words, we assumed in this analysis that all parts of 
+  {ProximaNova-Regular 9.0 #000000}the city should be zoned to accommodate high densities, even though it is likely that in many cases, there is no 
+  {ProximaNova-Regular 9.0 #000000}demand to invest in such projects.
+[B 49,381,231,394]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important limitations of the research
+[B 49,402,564,438]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}We conducted research across a variety of transit modes—bus, frequent bus, L, and Metra—but did not always 
+  {ProximaNova-Regular 9.0 #000000}account for different levels of service. One key area of additional research could be to identify the parts of the city 
+  {ProximaNova-Regular 9.0 #000000}that are zoned for, or already include, high densities, but nonetheless have low levels of transit service.
+[B 49,451,168,472]
+  {ProximaNova-Regular 15.0 #4e5154}Business Corridors
+[B 49,479,555,503]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: Strong and vibrant business corridors with diverse business opportunities to support the economic 
+  {ProximaNova-RegularIt 9.0 #000000}needs and resiliency of every community
+[B 49,512,273,525]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Primary research questions and variables used
+[B 49,533,565,629]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Research questions:{ProximaNova-Regular 9.0 #000000} How are business and commercial uses distributed across the city, and does this distribution 
+  {ProximaNova-Regular 9.0 #000000}relate to demographics, geography, or other characteristics? How have business and commercial uses changed 
+  {ProximaNova-Regular 9.0 #000000}over time? How much of the city (tracts, area) has seen increased or decreased zoning for business and 
+  {ProximaNova-Regular 9.0 #000000}commercial use? How are changes in business and commercial zoning related to neighborhood characteristics 
+  {ProximaNova-Regular 9.0 #000000}(demographic, income, land uses, proximity to transit, proximity to Loop)? What are the relationships (correlations) 
+  {ProximaNova-Regular 9.0 #000000}between increases/decreases in business and commercial zoning and other neighborhood characteristics? What 
+  {ProximaNova-Regular 9.0 #000000}are the relationships (correlations) between increases/decreases in business and commercial zoning and changes 
+  {ProximaNova-Regular 9.0 #000000}in active businesses or business vacancies? 
+[B 49,638,542,662]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Primary dependent variables:{ProximaNova-Regular 9.0 #000000} business vacancy rate, number of active businesses, business diversity score 
+  {ProximaNova-Regular 9.0 #000000}(index created to indicate the breadth of business type in a census tract), total consumer spending amount.
+[B 49,671,557,695]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Primary independent variables:{ProximaNova-Regular 9.0 #000000} share of business and commercial zoning, change in share and square footage 
+  {ProximaNova-Regular 9.0 #000000}of business of commercial zoning over time.

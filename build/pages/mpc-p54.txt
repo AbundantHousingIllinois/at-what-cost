@@ -1,0 +1,75 @@
+=== mpc PDF page 54 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    52
+[IMAGE 51,753,150,767]
+[B 49,46,260,59]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Important assumptions of research findings
+[B 49,67,558,164]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}In this analysis, we recognized that the increasing impacts of climate change on neighborhoods, particularly on 
+  {ProximaNova-Regular 9.0 #000000}urban heat and flooding are influenced by larger and global factors beyond zoning, and that zoning reform may 
+  {ProximaNova-Regular 9.0 #000000}not likely be the most effective solution in climate proofing Chicago. In our research, we focused primarily on 
+  {ProximaNova-Regular 9.0 #000000}the relationships between heat and flooding and built environment conditions, and the ways in which zoning 
+  {ProximaNova-Regular 9.0 #000000}policy can help increase tree canopy and coverage and reduce impervious surfaces across the city. Specifically, 
+  {ProximaNova-Regular 9.0 #000000}we focused on elements of the zoning code such as setback requirements across different zoning districts that 
+  {ProximaNova-Regular 9.0 #000000}influence green space within properties, as well as the City’s landscape ordinance, which regulates tree planting 
+  {ProximaNova-Regular 9.0 #000000}across the city.
+[B 49,172,216,185]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important limitations of research
+[B 49,193,563,290]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}A major limitation was with the flooding data we had access to. Presently, there is still no data source that 
+  {ProximaNova-Regular 9.0 #000000}accurately captures flooding occurrences at a granular level. For instance, CMAP’s urban flood susceptibility 
+  {ProximaNova-Regular 9.0 #000000}index is a probabilistic index. The City’s 311 flood complaints are somewhat biased toward single family residential 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods. In our analysis, we combined the two data sources to come up with a more robust index for 
+  {ProximaNova-Regular 9.0 #000000}flooding. Another major limitation is that urban heat and flooding are individually complex and are influenced by 
+  {ProximaNova-Regular 9.0 #000000}many different factors that we could not account for in our research. For instance, with regard to urban flooding, 
+  {ProximaNova-Regular 9.0 #000000}we primarily focused on above-ground risk factors such as impervious surfaces and green infrastructure, despite 
+  {ProximaNova-Regular 9.0 #000000}the importance of below-ground infrastructure, such as the City’s sewer system.
+[B 49,303,185,324]
+  {ProximaNova-Regular 15.0 #4e5154}Productive Land Use 
+[B 49,330,557,355]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: All land in communities is used productively, meaning beneficial to local residents and aligned with 
+  {ProximaNova-RegularIt 9.0 #000000}community needs
+[B 49,363,273,376]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•{ProximaNova-Bold 9.0 #000000}	 Primary research questions and variables used
+[B 49,384,556,409]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Research Questions:{ProximaNova-Regular 9.0 #000000} How does access to infrastructure vary across Chicago? How is density distributed across 
+  {ProximaNova-Regular 9.0 #000000}Chicago? How does zoning vary across typologies of infrastructure access and density? 
+[B 49,417,561,454]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Defining and Measuring Infrastructure and Density: {ProximaNova-Regular 9.0 #000000}We developed an index to measure infrastructure access 
+  {ProximaNova-Regular 9.0 #000000}and quality, as well as a measure of density focused on both built space and intensity of use, which were overlaid 
+  {ProximaNova-Regular 9.0 #000000}to understand typologies across the city   
+[B 49,462,562,499]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Creating an Urban Services Index (Infrastructure): {ProximaNova-Regular 9.0 #000000}Measures of proximity to—and quality of—infrastructure were 
+  {ProximaNova-Regular 9.0 #000000}identified and weighted, in part through feedback from stakeholder workshops, across Education, Transportation, 
+  {ProximaNova-Regular 9.0 #000000}and Neighborhood Amenities  

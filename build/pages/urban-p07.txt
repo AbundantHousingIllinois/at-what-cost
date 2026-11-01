@@ -1,0 +1,24 @@
+=== urban PDF page 7 (w=612 h=792) ===
+[IMAGE 46,36,566,556]
+[B 46,566,530,590]
+  {Lato-Bold 8.9 #000000}Sources: {Lato-Regular 8.9 #000000}Authors’ analysis of Cook County Assessor parcel data, City of Chicago zoning data, and 2020–24 census tract–level
+  {Lato-Regular 8.9 #000000}American Community Survey data.
+[B 46,595,554,618]
+  {Lato-Bold 8.9 #000000}Notes: {Lato-Regular 8.9 #000000}These estimates assume the city makes no changes to its zoning code and permits continue at the same pace as they did from
+  {Lato-Regular 8.9 #000000}2011 to 2025 under the same economic conditions. Estimates are for cumulative development from 2026 to 2041.
+[B 46,630,48,641]
+  {Lato-Regular 8.9 #000000} 
+[B 46,654,565,668]
+  {Lato-Regular 11.5 #353535}These are modeled estimates, not guarantees of future development. Developers’ economic calculations,
+[B 46,671,563,685]
+  {Lato-Regular 11.5 #353535}value assessments, and developers’ and residents’ perceptions of neighborhood conditions could change
+[B 46,688,529,702]
+  {Lato-Regular 11.5 #353535}between now and 2041. Additionally, the city, private actors, or community groups could invest in
+[B 46,706,476,719]
+  {Lato-Regular 11.5 #353535}infrastructure, amenities, and marketing that changes neighborhoods’ perceived value.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}7/17

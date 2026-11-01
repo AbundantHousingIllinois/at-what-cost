@@ -1,0 +1,13 @@
+{
+  "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+  "pages": [60],
+  "figures_placed": [],
+  "footnotes": [],
+  "notes": [
+    "Groups as printed: Contributors (h3) → Current and former MPC staff (13), Urban Institute researchers (2), Other MPC project contributors (10), Report design (1); Advisors (h3) intro + 62 names with (SC)/(CAG) tags as <li data-groups> + <span class=\"tag\">; funders heading 'This work was made possible by the generous support of:' (h4) + 11 funders; closing disclaimer paragraph.",
+    "Advisors list continues from column 2 into column 3 in the PDF; emitted as one list in printed order.",
+    "Funder headings/sub-group headings are printed in bold dark-red; rendered as h4.",
+    "'Iván Arenas' keeps accent. 'U.S. Bank' normalized from extraction artifact 'U. S. Bank'.",
+    "No typos noted."
+  ]
+}

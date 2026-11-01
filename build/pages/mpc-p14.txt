@@ -1,0 +1,33 @@
+=== mpc PDF page 14 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    12
+[IMAGE 51,753,150,767]
+[IMAGE 49,49,62,63]
+[B 49,46,558,119]
+  {ProximaNova-Extrabld 9.0 #4e717a}Black and Latinx Chicagoans have experienced the most significant drops in affordability. {ProximaNova-Regular 9.0 #000000}Typical Black and Latinx 
+  {ProximaNova-Regular 9.0 #000000}households (median income by race/ethnicity citywide) have seen the greatest declines in housing affordability, seeing a 
+  {ProximaNova-Regular 9.0 #000000}decrease in the share of the city that is viable for renting. In 2000, the median Black household could afford the median rental in 
+  {ProximaNova-Regular 9.0 #000000}90% of census tracts in the city. By 2022, the median Black household could only afford to rent in 61% of census tracts. For the 
+  {ProximaNova-Regular 9.0 #000000}typical Latinx household, this drop was from 94% to 82%. Across the same period, the median white household could afford to rent 
+  {ProximaNova-Regular 9.0 #000000}in every neighborhood (100%).
+[IMAGE 49,137,560,300]
+[B 49,309,561,328]
+  {ProximaNova-RegularIt 7.5 #000000}The percent of census tracts where the median household by race and ethnicity in Chicago can afford the median rent (left) or buy the median home (right) in 
+  {ProximaNova-RegularIt 7.5 #000000}that tract.  
+[B 49,336,554,355]
+  {ProximaNova-RegularIt 7.5 #000000}Note: 2000 median incomes: All households: $38,625; White families: $62,680;  Hispanic families: $37,166; Black families: $32,776; Asian families: $47,838 
+  {ProximaNova-RegularIt 7.5 #000000}2018–2022 median incomes: All households: $71,673; White families: $154,749;  Hispanic families: $68,370; Black families: $53,587; Asian families: $89,416 
+[B 49,363,416,373]
+  {ProximaNova-RegularIt 7.5 #000000}Created by Urban Institute ; Source: Census 1990–2010; Census ACS 2018–2022, both via National Equity Atlas. 
+[IMAGE 49,415,62,429]
+[B 49,412,565,473]
+  {ProximaNova-Extrabld 9.0 #4e717a}Chicago’s zoning code limits the amount of new housing that can be legally built in the city. Though half the city is 
+  {ProximaNova-Extrabld 9.0 #4e717a}zoned to allow homes, most of that land only allows very low density development. {ProximaNova-Regular 9.0 #000000}53% of Chicago is set aside for homes 
+  {ProximaNova-Regular 9.0 #000000}through residential zoning. Most of that land (41% of the city) is zoned Residential Single-Family (RS), a zoning district that allows the 
+  {ProximaNova-Regular 9.0 #000000}construction of only single family homes, or two-flats in some limited circumstances.{ProximaNova-Regular 5.2 #000000} 6{ProximaNova-Regular 9.0 #000000} This means 41% of the city is zoned to nearly 
+  {ProximaNova-Regular 9.0 #000000}always allow only the most expensive type of housing: detached single family homes. 
+[B 49,682,565,722]
+  {ProximaNova-Regular 7.5 #4e5154}6 Under current zoning rules, two-flats are not permitted in the RS1 and RS2 zoning districts. In the remaining RS district, RS3, two-flats are allowed only under 
+  {ProximaNova-Regular 7.5 #4e5154}specific circumstances. On a standard RS3 Chicago lot, a two-flat is allowed only when either (1) the lot is within the boundaries of the “Predominance of the 
+  {ProximaNova-Regular 7.5 #4e5154}Block” district (a portion of the Northwest side), or (2) at least 60% of lots on the block contain multifamily housing. Because two-flats are allowed only in these 
+  {ProximaNova-Regular 7.5 #4e5154}very limited cases, in this report we refer to RS districts as single-family districts.

@@ -1,0 +1,26 @@
+=== urban PDF page 5 (w=612 h=792) ===
+[IMAGE 46,36,566,556]
+[B 46,566,530,590]
+  {Lato-Bold 8.9 #000000}Sources: {Lato-Regular 8.9 #000000}Authors’ analysis of Cook County Assessor parcel data, City of Chicago zoning data, and 2020–24 census tract–level
+  {Lato-Regular 8.9 #000000}American Community Survey data.
+[B 46,595,554,618]
+  {Lato-Bold 8.9 #000000}Notes: {Lato-Regular 8.9 #000000}These estimates assume the city makes no changes to its zoning code and permits continue at the same pace as they did from
+  {Lato-Regular 8.9 #000000}2011 to 2025 under the same economic conditions. Estimates are for cumulative development from 2026 to 2041.
+[B 46,630,48,641]
+  {Lato-Regular 8.9 #000000} 
+[B 46,654,555,668]
+  {Lato-Regular 11.5 #353535}The probability that a parcel will have residential permitting by 2041 is highest in neighborhoods north
+[B 46,671,552,685]
+  {Lato-Regular 11.5 #353535}and northwest of downtown. In comparison, we estimate that parcels located in neighborhoods on the
+[B 46,688,510,702]
+  {Lato-Regular 11.5 #353535}far south, southwest, and western areas of the city have the lowest probabilities of residential
+[B 46,706,529,719]
+  {Lato-Regular 11.5 #353535}permitting. Neighborhoods on much of the far west side would have limited housing development
+[B 46,723,150,737]
+  {Lato-Regular 11.5 #353535}probabilities, as well.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}5/17

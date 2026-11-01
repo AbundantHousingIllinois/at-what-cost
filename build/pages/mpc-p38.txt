@@ -1,0 +1,21 @@
+=== mpc PDF page 38 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    36
+[IMAGE 51,753,150,767]
+[IMAGE 49,49,62,63]
+[B 73,46,528,71]
+  {ProximaNova-Extrabld 9.0 #6a2310}Food stores overall are most likely to be located in areas zoned B3{ProximaNova-Regular 9.0 #000000}. At the same time, the larger food store types—
+  {ProximaNova-Regular 9.0 #000000}superstores and supermarkets—are most often located within Planned Developments.
+[B 49,86,191,99]
+  {ProximaNova-Bold 9.0 #000000}USDA SNAP vendor counts by zone
+[IMAGE 49,70,561,308]
+[B 49,314,427,333]
+  {ProximaNova-RegularIt 7.5 #000000}Source: 2025 USDA SNAP Vendors (grocery stores, supermarkets, and super stores) and 2023 Chicago zoning data
+  {ProximaNova-RegularIt 7.5 #000000}Note: This excludes specialty stores, pharmacies, corner stores, convenience stores, and farmers markets
+[IMAGE 49,366,62,380]
+[B 49,363,565,424]
+  {ProximaNova-Extrabld 9.0 #6a2310}Chicago’s zoning ordinance widely allows both medical uses and grocery stores in business-oriented zoning districts, 
+  {ProximaNova-Extrabld 9.0 #6a2310}but does not explicitly incentivize these types of development.{ProximaNova-Regular 9.0 #000000} Medical services is a permitted use in all B and C zones, 
+  {ProximaNova-Regular 9.0 #000000}and all D zones except DR. Food and beverage retail sales is a permitted use in all B and C zones. Other cities use various strategies 
+  {ProximaNova-Regular 9.0 #000000}to incentivize grocery stores in overlay districts (e. g. , Tulsa, OK); offer density bonuses to developments that include grocery stores 
+  {ProximaNova-Regular 9.0 #000000}(e. g. Carteret County, NC); or explicitly encourage healthy grocery access (e. g. Madison, WI).

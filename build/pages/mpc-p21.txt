@@ -1,0 +1,32 @@
+=== mpc PDF page 21 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    19
+[IMAGE 51,753,150,767]
+[IMAGE 49,49,62,63]
+[B 49,46,564,119]
+  {ProximaNova-Extrabld 9.0 #755134}Zoning for “pedestrian streets,” areas designed as walkable business corridors, is concentrated on the North side. 
+  {ProximaNova-Regular 9.0 #000000}Pedestrian streets are streets designated in the zoning code that must follow certain pedestrian-friendly street design 
+  {ProximaNova-Regular 9.0 #000000}standards. Making a street an official pedestrian street currently requires a zoning change, in which individual alders opt in a specific 
+  {ProximaNova-Regular 9.0 #000000}street in their ward. Importantly, only some business corridors—those with high concentrations of stores and restaurants, and with 
+  {ProximaNova-Regular 9.0 #000000}low vacancy—are currently eligible for the designation. Pedestrian streets are concentrated on the North side. Of Chicago’s 62 
+  {ProximaNova-Regular 9.0 #000000}pedestrian streets outside of downtown, only 12 are not on the North side.
+[IMAGE 49,130,62,144]
+[B 49,127,564,200]
+  {ProximaNova-Extrabld 9.0 #755134}Zoning districts that allow businesses and mixed-uses—B, C, and D districts—tend to concentrate near transit. However, 
+  {ProximaNova-Extrabld 9.0 #755134}a significant amount of low-density residential zoning still exists near transit.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}Of the total land in the city that is zoned to 
+  {ProximaNova-Regular 9.0 #000000}allow businesses and mixed-use development (B, C, and D districts), 41% is within a half-mile of a CTA rail station. By comparison, 
+  {ProximaNova-Regular 9.0 #000000}25% of all zoned land in the city is within a half-mile of a CTA rail station. However, a large share of the total land near transit stations 
+  {ProximaNova-Regular 9.0 #000000}(26%) is still zoned to only allow low-density residential development (RS), limiting the potential for transit-connected businesses and 
+  {ProximaNova-Regular 9.0 #000000}more housing. Citywide, a total of about 15 square miles of land is both within a half-mile radius of a CTA rail station and zoned RS.
+[B 49,301,206,324]
+  {ProximaNova-Bold 9.0 #000000}Zoning-designated “pedestrian streets”
+  {ProximaNova-Bold 9.0 #000000}are concentrated on the North side
+[IMAGE 49,331,318,698]
+[B 268,223,550,246]
+  {ProximaNova-Bold 9.0 #000000}Business zoning types vary across demographic groups, showing  
+  {ProximaNova-Bold 9.0 #000000}auto-oriented zoning is more common for Black and Latinx Chicagoans
+[B 343,510,563,520]
+  {ProximaNova-RegularIt 7.5 #000000}Source: Census ACS 2018-2022; City of Chicago zoning map, 2023.
+[IMAGE 268,252,563,504]
+[B 49,702,186,712]
+  {ProximaNova-RegularIt 7.5 #000000}Source: City of Chicago zoning map, 2023

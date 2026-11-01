@@ -1,0 +1,67 @@
+=== mpc PDF page 31 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    29
+[IMAGE 51,753,150,767]
+[IMAGE 257,51,287,82]
+[B 138,65,474,103]
+  {ProximaNova-Regular 15.0 #726535}The vision:  
+  {ProximaNova-Regular 15.0 #726535}Clarify and streamline zoning process and categories
+[IMAGE 49,125,68,144]
+[B 73,125,562,149]
+  {ProximaNova-Extrabld 9.0 #726535}Modernize special uses: {ProximaNova-Regular 9.0 #726535}Permit most current special use categories by-right, with accompanying use standards. Require ZBA 
+  {ProximaNova-Regular 9.0 #726535}review only for uses with likely impacts on health and safety. 
+[B 49,158,563,242]
+  {ProximaNova-Regular 9.0 #000000}For uses with likely impacts on health and safety—uses like heavy manufacturing, waste processing facilities, and adult-oriented 
+  {ProximaNova-Regular 9.0 #000000}uses, among others—the additional layer of review and transparency that the ZBA provides is warranted. But for the majority of uses 
+  {ProximaNova-Regular 9.0 #000000}that currently go through the special use process—including but not limited to uses like salons, live-work spaces, and community 
+  {ProximaNova-Regular 9.0 #000000}centers—this zoning review is serving as a barrier for small businesses. Instead of imposing exceptional review for these uses, 
+  {ProximaNova-Regular 9.0 #000000}MPC recommends that they be regulated like all other business types, and permitted by-right in the zoning districts where they are 
+  {ProximaNova-Regular 9.0 #000000}currently only possible as a special use. When businesses are subject to ZBA approval, the process should be simple enough to 
+  {ProximaNova-Regular 9.0 #000000}navigate without the need for a lawyer.
+[B 49,251,562,287]
+  {ProximaNova-Regular 9.0 #000000}MPC recommends removing the requirement that single-room occupancy buildings, shelters, and other group living quarters 
+  {ProximaNova-Regular 9.0 #000000}seeking to open in many zoning districts obtain special use approval. This requirement delays or blocks a necessary housing option 
+  {ProximaNova-Regular 9.0 #000000}that offers health and safety for our lowest-resourced neighbors.
+[IMAGE 49,296,68,315]
+[B 73,296,560,320]
+  {ProximaNova-Extrabld 9.0 #726535}Reassess other zoning relief categories:{ProximaNova-Bold 9.0 #304362} {ProximaNova-Regular 9.0 #726535}Conduct a review of variation and administrative adjustment requests to determine 
+  {ProximaNova-Regular 9.0 #726535}zoning code updates.
+[B 49,329,563,413]
+  {ProximaNova-Regular 9.0 #000000}Broadly, variations and administrative adjustments (another type of zoning relief approved by the Zoning Administrator at DPD) tend 
+  {ProximaNova-Regular 9.0 #000000}to be requests for exceptions to bulk and density limits, such as setbacks or open space requirements. A thorough review is needed 
+  {ProximaNova-Regular 9.0 #000000}to understand the complexities of variations and administrative adjustments, particularly their impact on housing development. 
+  {ProximaNova-Regular 9.0 #000000}When these changes become commonplace, it’s often a signal that the zoning code and map need to be updated, and these 
+  {ProximaNova-Regular 9.0 #000000}relief mechanisms have become pay-to-play loopholes. A review is needed to better understand the nuances of specific types 
+  {ProximaNova-Regular 9.0 #000000}of variations and administrative adjustments, including whether zoning relief also plays a role in facilitating the deconversion of 
+  {ProximaNova-Regular 9.0 #000000}multifamily housing into single-family homes, decreasing housing supply.
+[B 49,422,561,482]
+  {ProximaNova-Regular 9.0 #000000}One clear opportunity for improvement is the variation for businesses seeking public place of amusement licenses near low-density 
+  {ProximaNova-Regular 9.0 #000000}residential districts. This is an outlier among variations, as it is a use type, rather than a bulk and density requirement. Bizarrely, 
+  {ProximaNova-Regular 9.0 #000000}applicants who are seeking a business license must legally argue they are not applying for the variation “based exclusively upon 
+  {ProximaNova-Regular 9.0 #000000}a desire to make more money out of the property”—a requirement that unnecessarily limits potential small businesses seeking to 
+  {ProximaNova-Regular 9.0 #000000}establish “third spaces” in neighborhoods.                                               
+[IMAGE 49,491,68,510]
+[B 73,491,537,515]
+  {ProximaNova-Extrabld 9.0 #726535}Centralize information about zoning: {ProximaNova-Regular 9.0 #726535}Provide a central hub for plain-language materials around zoning standards and 
+  {ProximaNova-Regular 9.0 #726535}processes, prioritizing information that facilitates housing and small business development.
+[B 49,524,556,596]
+  {ProximaNova-Regular 9.0 #000000}Zoning gets very technical, very fast. The Department of Planning and Development has been making significant strides in making 
+  {ProximaNova-Regular 9.0 #000000}zoning accessible, as demonstrated by their production of the {ProximaNova-RegularIt 9.0 #000000}Zoning Design Guidebook{ProximaNova-Regular 9.0 #000000}, which provides information on zoning 
+  {ProximaNova-Regular 9.0 #000000}regulations for property owners and developers in multiple languages.{ProximaNova-Regular 5.2 #000000} 21{ProximaNova-Regular 9.0 #000000} The City can build on this milestone by centralizing this 
+  {ProximaNova-Regular 9.0 #000000}and other resources about zoning and development—such as a more user-friendly zoning map, resources on business zoning and 
+  {ProximaNova-Regular 9.0 #000000}business licensing, and information on financial supports for development—in a single online hub, and optimizing this hub for web 
+  {ProximaNova-Regular 9.0 #000000}searches. 
+[B 49,605,565,629]
+  {ProximaNova-Regular 9.0 #000000}Where it is not possible to explain zoning rules in plain language, MPC recommends that the standard or process be re-evaluated, as 
+  {ProximaNova-Regular 9.0 #000000}excessive complexity can be a barrier to entry for newer and smaller-scale developers.
+[IMAGE 49,635,68,654]
+[B 73,638,438,651]
+  {ProximaNova-Extrabld 9.0 #726535}Close zoning data gaps:{ProximaNova-Bold 9.0 #304362} {ProximaNova-Regular 9.0 #726535}Standardize and publicize data on zoning processes and outcomes. 
+[B 49,659,563,695]
+  {ProximaNova-Regular 9.0 #000000}The lack of standardized data on zoning processes, including Zoning Board of Appeals applications, Planned Development 
+  {ProximaNova-Regular 9.0 #000000}agreements, and zoning amendments, is holding Chicago back. Up-to-date, standardized, and searchable datasets would build trust 
+  {ProximaNova-Regular 9.0 #000000}in government by increasing transparency into opaque processes, while advancing research that can improve zoning policy. 
+[B 49,722,243,733]
+  {ProximaNova-Regular 7.5 #4e5154}21 City of Chicago, “{ProximaNova-Regular 7.5 #0000ff}Zoning Design Guidebook{ProximaNova-Regular 7.5 #4e5154},” May 2026.
+--- LINKS ---
+  [“Zoning Design Guidebook] -> https://www.chicago.gov/city/en/sites/zoning-design-guidelines/home.html

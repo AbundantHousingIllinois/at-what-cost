@@ -1,0 +1,61 @@
+=== mpc PDF page 43 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    41
+[IMAGE 51,753,150,767]
+[B 49,46,323,59]
+  {ProximaNova-Bold 9.0 #000000}ESTABLISHING COMMON GEOGRAPHIES AND UNITS OF ANALYSIS
+[B 49,67,559,116]
+  {ProximaNova-Regular 9.0 #000000}After collecting all zoning and land use variables, we conducted several data transformation steps to prepare variables for analysis. 
+  {ProximaNova-Regular 9.0 #000000}Once prepared, these tract-level zoning variables allowed us to understand the relationships between zoning and all the other 
+  {ProximaNova-Regular 9.0 #000000}tract-level data collected from different secondary sources, such as sociodemographic information collected from the American 
+  {ProximaNova-Regular 9.0 #000000}Community Survey.
+[B 49,124,565,245]
+  {ProximaNova-Regular 9.0 #000000}First, we spatially attributed all zoning and land use variables to the City of Chicago parcel level, using a shapefile of tax parcels from 
+  {ProximaNova-Regular 9.0 #000000}Cook County. This ensured that both zoning and land use variables were transformed into a common geographic unit, but it was 
+  {ProximaNova-Regular 9.0 #000000}also necessary in certain analyses that required parcel-level information (for example, calculating the development envelope, i. e. , the 
+  {ProximaNova-Regular 9.0 #000000}maximum amount of housing allowed to be built according to the zoning code). Next, since parcel boundaries change over time, we 
+  {ProximaNova-Regular 9.0 #000000}standardized all zoning and land use data to a common geographical reference point: 2012, the midpoint of our three time periods. 
+  {ProximaNova-Regular 9.0 #000000}The result was a City of Chicago parcel-level longitudinal zoning and land use dataset with zoning and land use data from three 
+  {ProximaNova-Regular 9.0 #000000}points in time that was then used across all outcomes. For census tract-level analyses, 2010 tract boundaries were used as the base 
+  {ProximaNova-Regular 9.0 #000000}geographic unit. Since tract boundaries also change over time, for all data associated with 2000 and 2020 tract boundaries (e. g. 
+  {ProximaNova-Regular 9.0 #000000}2018 - 2022 ACS data), areal interpolation was used to ensure that all data were standardized into the common 2010 census tract 
+  {ProximaNova-Regular 9.0 #000000}boundary reference point.
+[B 49,253,561,374]
+  {ProximaNova-Regular 9.0 #000000}Parcel-level data was then aggregated to create City of Chicago census tract-level zoning and land use variables to be used in 
+  {ProximaNova-Regular 9.0 #000000}different outcome analyses. Specific independent tract-level variables were created for each outcome. For example, in the Strong 
+  {ProximaNova-Regular 9.0 #000000}Business Corridors outcome analysis, some of the tract-level independent variables related to zoning included the total and 
+  {ProximaNova-Regular 9.0 #000000}percentage of each tract’s total area zoned for different types of Business or Commercial zoning districts. For the Limited Pollution 
+  {ProximaNova-Regular 9.0 #000000}Exposure outcome analysis, we did similar calculations for different types of Manufacturing zoning, industrial land use, and so on. 
+  {ProximaNova-Regular 9.0 #000000}Then variables related to changes in zoning and land use categories were created at the tract level (e. g. the percent of a tract that 
+  {ProximaNova-Regular 9.0 #000000}was rezoned from one zoning district to another). The universe of parcels also somewhat varied, and this was another way the land 
+  {ProximaNova-Regular 9.0 #000000}use data was used in conjunction with zoning data. For instance, in the Affordable Housing outcome analysis, we used the land use 
+  {ProximaNova-Regular 9.0 #000000}data to remove parcels that we considered to be “undevelopable,” e. g. airports, civic landmarks, cemeteries, public parks, and even 
+  {ProximaNova-Regular 9.0 #000000}patches of right-of-way (roads, railroads, highways) that overlap with parcels. 
+[B 49,385,245,398]
+  {ProximaNova-Bold 9.0 #000000}THE EXCLUSION OF PLANNED DEVELOPMENTS
+[B 49,406,565,551]
+  {ProximaNova-Regular 9.0 #000000}A major limitation of the zoning data in the study was that the bulk and density requirements and other zoning attributes and all 
+  {ProximaNova-Regular 9.0 #000000}the changes occurring related to Planned Developments—roughly 13% of the City of Chicago’s zoned land—were excluded from 
+  {ProximaNova-Regular 9.0 #000000}our zoning district shapefiles and thus could not be attributed to parcels using the method mentioned above. All information and 
+  {ProximaNova-Regular 9.0 #000000}changes within each Planned Development are described in independent master agreements between the developer and the 
+  {ProximaNova-Regular 9.0 #000000}City of Chicago. Consequently, many of our research findings did not factor in any of these parcels contained within Planned 
+  {ProximaNova-Regular 9.0 #000000}Developments. In our Affordable Housing research, for example, our calculations of zoned capacity were likely significant 
+  {ProximaNova-Regular 9.0 #000000}underestimates in neighborhoods where Planned Developments are more common. In our Strong Business Corridors research, 
+  {ProximaNova-Regular 9.0 #000000}we could not factor in how much business activity and uses were within Planned Developments, and that similarly could potentially 
+  {ProximaNova-Regular 9.0 #000000}skew our research findings. All in all, given that Planned Developments comprise a significant portion of our city’s land area, and 
+  {ProximaNova-Regular 9.0 #000000}our research shows that Planned Developments account for most new multi-family housing units, we understand the importance of 
+  {ProximaNova-Regular 9.0 #000000}addressing these gaps. Analysis of Planned Development agreements for their land uses and the resulting relationships with our key 
+  {ProximaNova-Regular 9.0 #000000}outcomes is a subject for future data work and research.
+[B 49,566,206,582]
+  {ProximaNova-Bold 11.0 #000000}Additional longitudinal variables
+[B 49,589,561,710]
+  {ProximaNova-Regular 9.0 #000000}Simultaneously, we collected data that was used in different outcome-specific analyses. This included socioeconomic and 
+  {ProximaNova-Regular 9.0 #000000}demographic data from the Census American Community Survey (ACS) that were used in all the different outcomes, but also 
+  {ProximaNova-Regular 9.0 #000000}numerous other data sources that varied by outcome. Most of the data collected was at the census tract level, except for a few 
+  {ProximaNova-Regular 9.0 #000000}instances where block group data was necessary, particularly for the accessible public transit hubs and productive land use 
+  {ProximaNova-Regular 9.0 #000000}outcomes. To the extent possible, we attempted to match the data as closely as possible to the years for which we had zoning data. 
+  {ProximaNova-Regular 9.0 #000000}For instance, we used 2018-2022 ACS data to match 2023 zoning, 2010-2014 ACS data to match 2012 zoning, and 2000 Decennial 
+  {ProximaNova-Regular 9.0 #000000}Census data to match 2003 zoning. Perfect year-to-year alignment was not always feasible depending on the source; however, 
+  {ProximaNova-Regular 9.0 #000000}all sources align closely enough to the zoning time periods to serve as proxies, resulting in a dataset with extensive variables 
+  {ProximaNova-Regular 9.0 #000000}representing three distinct time periods. See the table below for a full list of all the different data sources and years used for each 
+  {ProximaNova-Regular 9.0 #000000}outcome. 

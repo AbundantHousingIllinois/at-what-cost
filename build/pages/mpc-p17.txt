@@ -1,0 +1,101 @@
+=== mpc PDF page 17 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    15
+[IMAGE 51,753,150,767]
+[IMAGE 49,49,62,63]
+[B 49,46,548,95]
+  {ProximaNova-Extrabld 9.0 #4e717a}Designated affordable housing options are limited and distributed inequitably across Chicago. {ProximaNova-Regular 9.0 #000000}Some of the most 
+  {ProximaNova-Regular 9.0 #000000}common affordable housing units—federally subsidized units with guaranteed affordability for households with low and 
+  {ProximaNova-Regular 9.0 #000000}moderate incomes—are concentrated in a few communities on Chicago’s South and West sides and are sparse in the areas with 
+  {ProximaNova-Regular 9.0 #000000}predominantly white and high-income populations. 
+[IMAGE 49,106,62,120]
+[B 49,103,556,164]
+  {ProximaNova-Extrabld 9.0 #4e717a}Downzoning and historic preservation create more exclusionary neighborhoods. {ProximaNova-Regular 9.0 #000000}In the decades since 1970, City Council 
+  {ProximaNova-Regular 9.0 #000000}tended to downzone or designate for historic preservation areas with higher housing values and with predominantly white 
+  {ProximaNova-Regular 9.0 #000000}residents.{ProximaNova-Regular 5.2 #000000} 9{ProximaNova-Regular 9.0 #000000} Compared to other neighborhoods, these areas had lower rates of housing construction, neighborhood demographics 
+  {ProximaNova-Regular 9.0 #000000}shifted to a higher share of white residents, and housing costs increased. This finding aligns with previous research about the 
+  {ProximaNova-Regular 9.0 #000000}impacts of downzoning and historic preservation in Chicago.{ProximaNova-Regular 5.2 #000000} 10{ProximaNova-Regular 9.0 #000000} 
+[IMAGE 49,175,62,189]
+[B 49,172,559,221]
+  {ProximaNova-Extrabld 9.0 #4e717a}Deconversions of multifamily housing stock into single family homes results in housing supply losses that the city 
+  {ProximaNova-Extrabld 9.0 #4e717a}cannot afford. {ProximaNova-Regular 9.0 #000000}The DePaul Institute for Housing Studies found that between 2010 and 2023, the city lost nearly 23,000 units 
+  {ProximaNova-Regular 9.0 #000000}in two-to-four unit buildings, with the largest losses in lower-cost neighborhoods.{ProximaNova-Regular 5.2 #000000} 11{ProximaNova-Regular 9.0 #000000} With so little of the city currently zoned to allow 
+  {ProximaNova-Regular 9.0 #000000}new two-to-four flats, the city has been unable to compensate for this housing loss.
+[IMAGE 257,245,287,275]
+[B 128,259,484,296]
+  {ProximaNova-Regular 15.0 #4e717a}The vision:  
+  {ProximaNova-Regular 15.0 #4e717a}Make space for more homes that Chicagoans can afford
+[B 303,316,540,344]
+  {ProximaNova-Bold 11.0 #000000}City Spotlights: Cities are making room for more 
+  {ProximaNova-Bold 11.0 #000000}housing
+[B 303,351,531,376]
+  {ProximaNova-Regular 9.0 #000000}Cities across the country are making changes to zoning to 
+  {ProximaNova-Regular 9.0 #000000}address the need for more homes. Some examples:
+[B 303,380,549,404]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Regular 9.0 #0000ff} Portland, OR{ProximaNova-Regular 9.0 #000000} (2020) passed zoning reforms allowing four-to-
+  {ProximaNova-Regular 9.0 #000000}six unit buildings and ADUs in its lowest-density zoning districts.
+[B 303,408,549,445]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Regular 9.0 #0000ff} Cincinnati, OH{ProximaNova-Regular 9.0 #000000} (2024) passed a zoning reform called 
+  {ProximaNova-Regular 9.0 #000000}Connected Communities, allowing up to four-unit housing near 
+  {ProximaNova-Regular 9.0 #000000}transit. 
+[B 303,449,532,485]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Regular 9.0 #0000ff} New York City, NY{ProximaNova-Regular 9.0 #000000} (2024) passed the City of Yes zoning 
+  {ProximaNova-Regular 9.0 #000000}reform plan, a change expected to enable the creation of 
+  {ProximaNova-Regular 9.0 #000000}82,000 homes over 15 years.
+[B 303,489,546,514]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Regular 9.0 #0000ff} Madison, WI{ProximaNova-Regular 9.0 #000000} (2025) passed a proposal to allow two units of 
+  {ProximaNova-Regular 9.0 #000000}housing on any residential lot.
+[B 303,518,553,554]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Regular 9.0 #0000ff} Tulsa, OK{ProximaNova-Regular 9.0 #000000} (2024) made both citywide and neighborhood-
+  {ProximaNova-Regular 9.0 #000000}specific changes to its zoning code to encourage more types of 
+  {ProximaNova-Regular 9.0 #000000}housing development.
+[B 303,558,550,631]
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Regular 9.0 #0000ff} San Francisco, CA{ProximaNova-Regular 9.0 #000000} (2025) passed the Family Zoning Plan, 
+  {ProximaNova-Regular 9.0 #000000}which created capacity for more than 36,000 additional homes 
+  {ProximaNova-Regular 9.0 #000000}by increasing building height limits and allowing more homes 
+  {ProximaNova-Regular 9.0 #000000}to fit within existing height limits. The legislation also includes 
+  {ProximaNova-Regular 9.0 #000000}provisions for displaced legacy businesses, preservation 
+  {ProximaNova-Regular 9.0 #000000}protections for historic resources, and tenant protections.
+[IMAGE 49,326,68,345]
+[B 49,326,273,375]
+  {ProximaNova-Extrabld 9.0 #4e717a}Legalize 4-flats and ADUs citywide: {ProximaNova-Bold 9.0 #4e717a}At minimum, 
+  {ProximaNova-Bold 9.0 #4e717a}allow housing types with up to four units by-right 
+  {ProximaNova-Bold 9.0 #4e717a}and additional dwelling units (ADUs) in all residential 
+  {ProximaNova-Bold 9.0 #4e717a}areas.
+[B 49,383,282,539]
+  {ProximaNova-Regular 9.0 #000000}To create space for more housing, MPC recommends 
+  {ProximaNova-Regular 9.0 #000000}legalizing building types of up to at least four-flats on 
+  {ProximaNova-Regular 9.0 #000000}residential land across the city and updating accompanying 
+  {ProximaNova-Regular 9.0 #000000}bulk and density requirements to allow these types of 
+  {ProximaNova-Regular 9.0 #000000}construction. MPC also recommends legalizing additional 
+  {ProximaNova-Regular 9.0 #000000}dwelling units (ADUs) on all residential land. ADUs are 
+  {ProximaNova-Regular 9.0 #000000}additional homes connected to or outside an existing 
+  {ProximaNova-Regular 9.0 #000000}building (like a basement or attic apartment, or a coach 
+  {ProximaNova-Regular 9.0 #000000}house). Chicago’s City Council expanded ADU allowances 
+  {ProximaNova-Regular 9.0 #000000}in 2025,{ProximaNova-Regular 5.2 #000000}12{ProximaNova-Regular 9.0 #000000} but in the ongoing tradition of aldermanic 
+  {ProximaNova-Regular 9.0 #000000}prerogative, this expansion requires alders to opt-in any 
+  {ProximaNova-Regular 9.0 #000000}area zoned RS in their wards, rather than allowing ADUs 
+  {ProximaNova-Regular 9.0 #000000}by-right citywide.
+[B 49,548,271,608]
+  {ProximaNova-Regular 9.0 #000000}Allowing housing to be built more densely across the 
+  {ProximaNova-Regular 9.0 #000000}city would allow for more units that are typically more 
+  {ProximaNova-Regular 9.0 #000000}affordable than single family homes, while still fitting the 
+  {ProximaNova-Regular 9.0 #000000}current character of Chicago, where two-to-four flats and 
+  {ProximaNova-Regular 9.0 #000000}coach houses are common housing types. 
+[B 49,670,564,722]
+  {ProximaNova-Regular 7.5 #4e5154}9 Freemark and Kiesel, {ProximaNova-Regular 7.5 #0000ff}“Downzoning Chicago: How Local Land Use Policy Has Reduced Housing Construction and Reinforced Segregation,”{ProximaNova-Regular 7.5 #4e5154} Urban Findings, 
+  {ProximaNova-Regular 7.5 #4e5154}November 2025.
+  {ProximaNova-Regular 7.5 #4e5154}10 Shriver Center on Poverty Law, {ProximaNova-Regular 7.5 #0000ff}“A City Fragmented,”{ProximaNova-Regular 7.5 #4e5154} 2018.
+  {ProximaNova-Regular 7.5 #4e5154}11 DePaul Institute for Housing Studies, {ProximaNova-Regular 7.5 #0000ff}“Rental Affordability Challenges,”{ProximaNova-Regular 7.5 #4e5154} October 2025.
+  {ProximaNova-Regular 7.5 #4e5154}12 City of Chicago, {ProximaNova-Regular 7.5 #0000ff}“Additional Dwelling Unit (ADU) Program.”
+--- LINKS ---
+  [Portland, OR   unit building] -> https://www.portland.gov/bps/planning/rip
+  [Cincinnati, OH  onnected Comm] -> https://soapboxmedia.com/impact-predictions-cincinnati-connected-communities/
+  [New York City, NY  orm plan, a change] -> https://www.nyc.gov/content/planning/pages/our-work/plans/citywide/city-of-yes-housing-opportunity
+  [Madison, WI  using on any] -> https://www.cityofmadison.com/news/2025-07-15/madison-common-council-approves-housing-proposals
+  [Tulsa, OK  ecific chan] -> https://tulsaplanning.org/programs/projects/housing/citywide/
+  [San Francisco, CA  hich created capaci] -> https://sfplanning.org/sf-family-zoning-plan
+  [“Downzoning Chicago: How Local Land Use Policy Has Reduced Housing Construction and Reinforced Segregation,”] -> https://findingspress.org/article/147490-downzoning-chicago-how-local-land-use-policy-has-reduced-housing-construction-and-reinforced-segregation
+  [“A City Fragmented,” dies, “Rental Affordab] -> https://www.povertylaw.org/article/a-city-fragmented-2/
+  [ty Fragmented,” 2018.  “Rental Affordability Challenges,”  Unit (ADU) Program.”] -> https://www.housingstudies.org/blog/rental-affordability-challenges/
+  [for Housing Studies, “Rental Affordability C  “Additional Dwelling Unit (ADU) Program.”] -> https://www.chicago.gov/city/en/depts/doh/provdrs/homeowners/svcs/adu-ordinance.html

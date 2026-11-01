@@ -1,0 +1,46 @@
+=== mpc PDF page 37 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    35
+[IMAGE 51,753,150,767]
+[B 49,44,269,65]
+  {ProximaNova-Regular 15.0 #4e5154}Available groceries and healthcare
+[IMAGE 49,75,62,89]
+[B 49,72,566,120]
+  {ProximaNova-Extrabld 9.0 #6a2310}Zoning does not appear to be responsible for disparities in healthcare and grocery access.{ProximaNova-Extrabld 9.0 #000000} {ProximaNova-Regular 9.0 #000000}Other factors like wealth, 
+  {ProximaNova-Regular 9.0 #000000}census tract demographics, antitrust enforcement, and health insurance access seem to be more related. Though zoning itself 
+  {ProximaNova-Regular 9.0 #000000}may not have caused these problems, there may be an opportunity to use zoning policies or other incentives to encourage the siting 
+  {ProximaNova-Regular 9.0 #000000}of groceries and healthcare in places that lack these key amenities. 
+[IMAGE 49,133,255,339]
+[IMAGE 269,132,282,146]
+[B 269,129,559,249]
+  {ProximaNova-Extrabld 9.0 #6a2310}The wealthiest and most diverse tracts tend to have the best 
+  {ProximaNova-Extrabld 9.0 #6a2310}access to primary care,{ProximaNova-Regular 9.0 #000000} as measured by city-identified primary care 
+  {ProximaNova-Regular 9.0 #000000}clinic locations and self-reported access to doctors. Except for the 
+  {ProximaNova-Regular 9.0 #000000}wealthiest and most diverse tracts, most tracts in Chicago have below the 
+  {ProximaNova-Regular 9.0 #000000}World Health Organization (WHO) recommended density of at least 1 
+  {ProximaNova-Regular 9.0 #000000}physician practice per 1,000 residents. In 2021, just 20% of Chicago’s 
+  {ProximaNova-Regular 9.0 #000000}population lived in a tract with the WHO-recommended physician density. 
+  {ProximaNova-Regular 9.0 #000000}We also found stark gaps in access to pharmacies and the share of 
+  {ProximaNova-Regular 9.0 #000000}residents with private insurance, with both much more likely on the North 
+  {ProximaNova-Regular 9.0 #000000}side than other parts of the city.. 
+[IMAGE 269,261,283,275]
+[B 269,258,565,366]
+  {ProximaNova-Extrabld 9.0 #6a2310}Residents on the North side have greater access to healthy food 
+  {ProximaNova-Extrabld 9.0 #6a2310}options.{ProximaNova-Regular 9.0 #000000} While all census tracts have at least one food store in 
+  {ProximaNova-Regular 9.0 #000000}USDA’s SNAP food vendor database, the North side and parts of the West 
+  {ProximaNova-Regular 9.0 #000000}side are more likely to have food stores likely to provide healthier food 
+  {ProximaNova-Regular 9.0 #000000}options (grocery stories, supermarkets, superstores, etc. ) in addition to food 
+  {ProximaNova-Regular 9.0 #000000}stores likely to have less healthy food (convenience stores, drug stores, and 
+  {ProximaNova-Regular 9.0 #000000}dollar stores). Poor grocery access for low-income households is strongly 
+  {ProximaNova-Regular 9.0 #000000}correlated with tract racial demographics, especially segregated Black 
+  {ProximaNova-Regular 9.0 #000000}communities. 
+[B 49,382,509,395]
+  {ProximaNova-Bold 9.0 #000000}Northside communities have access to more healthy food stores, and less healthy food stores are evenly distributed
+[IMAGE 49,404,563,644]
+[B 49,650,176,661]
+  {ProximaNova-RegularIt 7.5 #000000}Data: USDA SNAP Food Vendors 2025
+[B 54,514,410,534]
+  {ProximaNovaCond-Semibold 7.0 #000000}Number of Unhealthy 
+  {ProximaNovaCond-Semibold 7.0 #000000}Food Stores
+  {ProximaNovaCond-Semibold 7.0 #000000}Number of Healthy 
+  {ProximaNovaCond-Semibold 7.0 #000000}Food Stores

@@ -1,0 +1,26 @@
+=== urban PDF page 1 (w=612 h=792) ===
+[B 46,143,549,252]
+  {Lato-Regular 8.9 #696969}ARTICLE
+  {FuturaPTWeb-Heavy 23.0 #000000}Zoning Reforms Could Boost Chicago’s Housing
+  {FuturaPTWeb-Heavy 23.0 #000000}Supply, But Other Investments Are Needed to
+  {FuturaPTWeb-Heavy 23.0 #000000}Ensure Development Benefits All Neighborhoods
+[B 140,267,144,281]
+  {Lato-Regular 11.5 #353535}, 
+[B 46,289,115,300]
+  {Lato-Regular 8.9 #696969}October 23, 2026
+[IMAGE 46,348,566,694]
+[B 46,705,90,716]
+  {Lato-Italic 8.9 #353535}halbergman
+[B 46,266,190,281]
+  {Lato-Bold 12.8 #1696d2}Yonah Freemark Lydia Lo
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}1/17
+--- LINKS ---
+  [ARTICLE] -> https://www.urban.org/research
+  [Yonah Freemark] -> https://www.urban.org/author/yonah-freemark
+  [Lydia Lo] -> https://www.urban.org/author/lydia-lo
+  [] -> https://www.urban.org/

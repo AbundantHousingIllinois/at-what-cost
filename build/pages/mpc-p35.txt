@@ -1,0 +1,53 @@
+=== mpc PDF page 35 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    33
+[IMAGE 51,753,150,767]
+[B 49,46,352,83]
+  {ProximaNova-Regular 9.0 #000000} 
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Appendix: Additional research findings
+[B 49,96,556,133]
+  {ProximaNova-Regular 9.0 #000000}This section contains key research findings for two outcome analyses that were not included in the body of this report: productive 
+  {ProximaNova-Regular 9.0 #000000}land use, and available groceries and healthcare. To view comprehensive research findings for these and other outcome analyses, 
+  {ProximaNova-Regular 9.0 #000000}please visit the Zoning and Land Use Assessment webpage.
+[B 49,141,540,166]
+  {ProximaNova-Regular 9.0 #000000}For more information on the data sources and methodology that informed the research findings below, please see {ProximaNova-Regular 9.0 #0000ff}APPENDIX: 
+  {ProximaNova-Regular 9.0 #0000ff}RESEARCH METHODOLOGY{ProximaNova-Regular 9.0 #000000}. 
+[B 49,179,174,216]
+  {ProximaNova-Regular 15.0 #4e5154} 
+  {ProximaNova-Regular 15.0 #4e5154}Productive land use
+[B 49,222,564,295]
+  {ProximaNova-Regular 9.0 #000000}This outcome examined the relationship between infrastructure and density citywide. To understand infrastructure access, MPC 
+  {ProximaNova-Regular 9.0 #000000}developed an Urban Services Index, which combined measures to capture the quality of and the proximity to infrastructure 
+  {ProximaNova-Regular 9.0 #000000}across three categories: Transportation, Education, and Neighborhood Amenities. MPC also developed a Density Index based on 
+  {ProximaNova-Regular 9.0 #000000}population density, job density, and the amount of building space compared to developable land. These indices were calculated 
+  {ProximaNova-Regular 9.0 #000000}and assigned to block groups, which were then ranked by quartile. The rankings were used to identify different typologies related to 
+  {ProximaNova-Regular 9.0 #000000}infrastructure access and density (e. g. Low Infrastructure, Moderate Density).
+[B 49,310,206,323]
+  {ProximaNova-Bold 9.0 #000000}Cumulative Urban Services Index Score
+[B 59,596,120,604]
+  {Arial-BoldMT 5.8 #000000}Cumulative USI Score
+[B 74,606,104,614]
+  {ArialMT 5.8 #000000}1st Quartile
+[B 74,617,106,624]
+  {ArialMT 5.8 #000000}2nd Quartile
+[B 74,627,104,635]
+  {ArialMT 5.8 #000000}3rd Quartile
+[B 74,637,104,645]
+  {ArialMT 5.8 #000000}4th Quartile
+[IMAGE 313,334,327,348]
+[B 313,331,565,476]
+  {ProximaNova-Extrabld 9.0 #6a2310}Infrastructure access and quality are not universal, but 
+  {ProximaNova-Extrabld 9.0 #6a2310}each part of the city has infrastructural strengths. 
+  {ProximaNova-Regular 9.0 #000000}While disparities exist in public services across neighborhoods, 
+  {ProximaNova-Regular 9.0 #000000}every part of the city has strengths to support quality of life and 
+  {ProximaNova-Regular 9.0 #000000}continued growth. Using our Urban Services Index, MPC’s 
+  {ProximaNova-Regular 9.0 #000000}analysis indicated that the Northwest and Southwest sides 
+  {ProximaNova-Regular 9.0 #000000}showed strong scores on education infrastructure, the Central 
+  {ProximaNova-Regular 9.0 #000000}and West sides strong scores on transportation infrastructure, 
+  {ProximaNova-Regular 9.0 #000000}and the North and Southeast strong scores on neighborhood 
+  {ProximaNova-Regular 9.0 #000000}amenities. Top-scoring neighborhoods citywide for infrastructure 
+  {ProximaNova-Regular 9.0 #000000}access and quality include The Loop, Edgewater, Uptown, 
+  {ProximaNova-Regular 9.0 #000000}Kenwood, Near South Side, and Hyde Park.
+--- LINKS ---
+  [APPENDIX:] -> internal page 42
+  [For more information on the d RESEARCH METHODOLOGY] -> internal page 42

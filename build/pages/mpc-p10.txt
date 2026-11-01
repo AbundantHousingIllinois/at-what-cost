@@ -1,0 +1,94 @@
+=== mpc PDF page 10 (w=612 h=792) ===
+[B 370,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    8
+[IMAGE 51,753,150,767]
+[B 49,44,291,65]
+  {ProximaNova-Regular 15.0 #4e5154}How was the Assessment conducted?
+[B 49,72,480,96]
+  {ProximaNova-Regular 9.0 #000000}This section provides a high-level overview of the process of conducting the Assessment. For more detail, see  
+  {ProximaNova-Regular 9.0 #0000ff}APPENDIX: ENGAGEMENT METHODOLOGY{ProximaNova-Regular 9.0 #000000} and {ProximaNova-Regular 9.0 #0000ff}APPENDIX: RESEARCH METHODOLOGY{ProximaNova-Regular 9.0 #000000}. 
+[B 49,112,320,127]
+  {ProximaNova-Bold 11.0 #000000}Defining core values and selecting outcomes to analyze
+[B 49,135,566,183]
+  {ProximaNova-Regular 9.0 #000000}To lay the groundwork for the project, MPC facilitated a series of monthly meetings with the project’s Steering Committee, composed 
+  {ProximaNova-Regular 9.0 #000000}of 42 members across a wide range of sectors, including city agency staff, environmental justice and housing advocates, community 
+  {ProximaNova-Regular 9.0 #000000}organizations, architects, planners, and real estate professionals. The Committee created shared definitions for core project values—
+  {ProximaNova-Regular 9.0 #000000}equity, sustainability, and public health.  
+[B 67,209,97,224]
+  {ProximaNova-Bold 11.0 #000000}Equity
+[B 67,232,196,352]
+  {ProximaNova-Regular 9.0 #000000}Outcomes and processes that 
+  {ProximaNova-Regular 9.0 #000000}result in fair and just access to 
+  {ProximaNova-Regular 9.0 #000000}opportunities and resources by 
+  {ProximaNova-Regular 9.0 #000000}way of repairing past harms and 
+  {ProximaNova-Regular 9.0 #000000}transforming power dynamics so 
+  {ProximaNova-Regular 9.0 #000000}that everyone, but particularly 
+  {ProximaNova-Regular 9.0 #000000}oppressed groups, both 
+  {ProximaNova-Regular 9.0 #000000}historically and presently, have 
+  {ProximaNova-Regular 9.0 #000000}the power and resources that 
+  {ProximaNova-Regular 9.0 #000000}they need to thrive.
+[B 244,209,309,224]
+  {ProximaNova-Bold 11.0 #000000}Sustainability
+[B 244,232,373,340]
+  {ProximaNova-Regular 9.0 #000000}An inclusive, systemic approach 
+  {ProximaNova-Regular 9.0 #000000}that improves and integrates 
+  {ProximaNova-Regular 9.0 #000000}environment, climate, health, 
+  {ProximaNova-Regular 9.0 #000000}social equity, and economic 
+  {ProximaNova-Regular 9.0 #000000}vitality in order to create thriving, 
+  {ProximaNova-Regular 9.0 #000000}healthy, diverse, and resilient 
+  {ProximaNova-Regular 9.0 #000000}communities and natural 
+  {ProximaNova-Regular 9.0 #000000}ecosystems for this generation 
+  {ProximaNova-Regular 9.0 #000000}and generations to come.
+[B 418,210,482,226]
+  {ProximaNova-Bold 11.0 #000000}Public health
+[B 418,233,547,306]
+  {ProximaNova-Regular 9.0 #000000}The physical, mental, and social 
+  {ProximaNova-Regular 9.0 #000000}wellbeing of individuals and 
+  {ProximaNova-Regular 9.0 #000000}neighborhoods and populations. 
+  {ProximaNova-Regular 9.0 #000000}All of these are shaped by 
+  {ProximaNova-Regular 9.0 #000000}social and physical structures, 
+  {ProximaNova-Regular 9.0 #000000}conditions, and processes.
+[B 49,402,566,462]
+  {ProximaNova-Regular 9.0 #000000}The Steering Committee also mapped out the zoning process and identified challenges based on their experiences. Finally, 
+  {ProximaNova-Regular 9.0 #000000}the Steering Committee developed a list of more than 120 outcomes of interest for the research. From that list, they selected 13 
+  {ProximaNova-Regular 9.0 #000000}outcomes through consensus voting and discussion. Out of those 13 outcomes, based on the likelihood of a connection between the 
+  {ProximaNova-Regular 9.0 #000000}outcome and zoning, plus research feasibility, the research team selected {ProximaNova-BoldIt 9.0 #000000}seven priority outcomes{ProximaNova-Regular 9.0 #000000} for the research to focus on. The 
+  {ProximaNova-Regular 9.0 #000000}Steering Committee created shared definitions for these seven priority outcomes.
+[B 94,488,301,549]
+  {ProximaNova-Bold 9.0 #000000}Affordable housing{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}Diverse and affordable housing options (subsidized, 
+  {ProximaNova-Regular 9.0 #000000}affordable, workforce/middle, market, and luxury) are 
+  {ProximaNova-Regular 9.0 #000000}available in every neighborhood including for the job 
+  {ProximaNova-Regular 9.0 #000000}insecure and unhoused populations
+[B 94,557,290,606]
+  {ProximaNova-Bold 9.0 #000000}Strong business corridors{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}Strong and vibrant business corridors with diverse 
+  {ProximaNova-Regular 9.0 #000000}business opportunities to support the economic 
+  {ProximaNova-Regular 9.0 #000000}needs and resiliency of every community
+[B 94,614,286,663]
+  {ProximaNova-Bold 9.0 #000000}Limited pollution exposure{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}All neighborhoods feature low levels of pollution, 
+  {ProximaNova-Regular 9.0 #000000}taking into account cumulative impacts on 
+  {ProximaNova-Regular 9.0 #000000}overburdened communities
+[B 94,671,291,720]
+  {ProximaNova-Bold 9.0 #000000}Accessible public transit hubs{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}All communities feature public transit options that 
+  {ProximaNova-Regular 9.0 #000000}are convenient and reliable, and serve hubs with 
+  {ProximaNova-Regular 9.0 #000000}housing, businesses, recreation and other services
+[B 357,493,563,530]
+  {ProximaNova-Bold 9.0 #000000}Available groceries and healthcare{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}Affordable grocery options and healthcare providers 
+  {ProximaNova-Regular 9.0 #000000}are accessible in all neighborhoods
+[B 357,538,552,587]
+  {ProximaNova-Bold 9.0 #000000}Mitigation and adaptation to climate change{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}All communities feature green infrastructure and 
+  {ProximaNova-Regular 9.0 #000000}energy-efficient building stock that both mitigates 
+  {ProximaNova-Regular 9.0 #000000}and adapts to climate change
+[B 357,595,550,644]
+  {ProximaNova-Bold 9.0 #000000}Productive land use{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}All land in communities is used productively, 
+  {ProximaNova-Regular 9.0 #000000}meaning beneficial to local residents and aligned 
+  {ProximaNova-Regular 9.0 #000000}with community needs
+--- LINKS ---
+  [This section provides a high-level overview o APPENDIX: ENGAGEMENT METHODOLOGY] -> internal page 57
+  [process of conducting the Assessment. F  APPENDIX: RESEARCH METHODOLOGY] -> internal page 42

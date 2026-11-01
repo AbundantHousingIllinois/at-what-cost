@@ -1,0 +1,122 @@
+=== mpc PDF page 20 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    18
+[IMAGE 51,753,150,767]
+[IMAGE 244,55,274,86]
+[B 141,69,471,106]
+  {ProximaNova-Regular 15.0 #ffffff}The challenge:  
+  {ProximaNova-Regular 15.0 #ffffff}Jobs and business vitality are inequitably distributed
+[B 49,124,561,208]
+  {ProximaNova-Regular 9.0 #000000}Strong transit-connected business corridors provide employment and wealth-building opportunities, neighborhood amenities, and 
+  {ProximaNova-Regular 9.0 #000000}walkable shared space. But MPC research shows that business and commercial activity—measured through business concentration 
+  {ProximaNova-Regular 9.0 #000000}and vacancy rates—is inequitably distributed across Chicago. Although zoning is not necessarily the exclusive cause of these 
+  {ProximaNova-Regular 9.0 #000000}outcomes, our analysis identified inequities in the distribution of pedestrian-oriented zoning designations and zoning for car-
+  {ProximaNova-Regular 9.0 #000000}dominated businesses—highlighting the opportunity to take a citywide approach to encouraging walkable, vibrant pedestrian-
+  {ProximaNova-Regular 9.0 #000000}oriented business corridors. These corridors can be cornerstones of economic growth, tools to reduce vacancies, and landing 
+  {ProximaNova-Regular 9.0 #000000}places for small businesses.
+[IMAGE 49,220,62,234]
+[B 49,217,553,253]
+  {ProximaNova-Extrabld 9.0 #755134}Businesses are more highly concentrated in census tracts with higher shares of white population and lower shares of 
+  {ProximaNova-Extrabld 9.0 #755134}Black population. {ProximaNova-Regular 9.0 #000000}In majority-white census tracts, there were an average of 14. 7 businesses per 1,000 residents in 2023, 
+  {ProximaNova-Regular 9.0 #000000}compared with 8. 6 businesses per 1,000 residents in majority-Black census tracts. 
+[IMAGE 49,265,62,279]
+[B 49,262,563,298]
+  {ProximaNova-Extrabld 9.0 #755134}Combined business and residential property vacancy rates show similar disparities across racial and ethnic groups{ProximaNova-Regular 9.0 #000000}, with 
+  {ProximaNova-Regular 9.0 #000000}majority-Black tracts possessing vacancy rates (10%) over three times greater than majority-white (3%) and five times greater 
+  {ProximaNova-Regular 9.0 #000000}than majority-Asian census tracts (2%) in 2022.
+[B 72,455,117,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority White 
+[B 85,462,102,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 67,480,233,498]
+  {ProximaNova-RegularIt 7.1 #000000}Source: City of Chicago business license data, 2023; 
+  {ProximaNova-RegularIt 7.1 #000000}Census ACS 2018-2022
+[B 320,480,547,511]
+  {ProximaNova-RegularIt 7.1 #000000}Source: Census ACS 2018-2022; Vacancy rates from U.S. Postal Service, 
+  {ProximaNova-RegularIt 7.1 #000000}aggregated by HUD, 2022. Identiﬁes addresses that have not collected 
+  {ProximaNova-RegularIt 7.1 #000000}mail for 90 days or longer; includes both residential and business 
+  {ProximaNova-RegularIt 7.1 #000000}locations.
+[B 53,323,63,455]
+  {ProximaNovaCond-Regular 7.1 #000000}Average number of businesses per 1,000 residents
+[B 313,371,323,407]
+  {ProximaNovaCond-Regular 7.1 #000000}Vacancy rates
+[B 129,455,173,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority Black 
+[B 141,462,158,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 184,455,230,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority Latinx 
+[B 197,462,215,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 241,455,285,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority Asian 
+[B 253,462,271,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 90,337,97,348]
+  {ProximaNovaCond-Semibold 8.1 #000000}15
+[B 73,313,285,335]
+  {ProximaNova-Semibold 9.1 #000000}Businesses are most concentrated in majority-white 
+  {ProximaNova-Semibold 9.1 #000000}areas
+[B 325,313,513,335]
+  {ProximaNova-Semibold 9.1 #000000}Majority-Black tracts see the highest business 
+  {ProximaNova-Semibold 9.1 #000000}and residential property vacancy rates
+[B 148,378,152,389]
+  {ProximaNovaCond-Semibold 8.1 #000000}9
+[B 203,358,266,376]
+  {ProximaNovaCond-Semibold 8.1 #000000}11
+  {ProximaNovaCond-Semibold 8.1 #000000}12
+[B 324,455,369,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority White 
+[B 336,462,354,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 383,455,427,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority Black 
+[B 395,462,413,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 441,455,487,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority Latinx 
+[B 454,462,472,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 501,455,545,466]
+  {ProximaNovaCond-Regular 8.1 #000000}Majority Asian 
+[B 513,462,531,473]
+  {ProximaNovaCond-Regular 8.1 #000000}Tracts
+[B 341,409,350,421]
+  {ProximaNovaCond-Semibold 8.1 #000000}3%
+[B 398,340,410,351]
+  {ProximaNovaCond-Semibold 8.1 #000000}10%
+[B 458,388,468,399]
+  {ProximaNovaCond-Semibold 8.1 #000000}5%
+[B 517,421,527,433]
+  {ProximaNovaCond-Semibold 8.1 #000000}2%
+[B 58,530,215,546]
+  {ProximaNova-Bold 11.0 #000000}City Spotlight: Mixed-use zoning
+[B 58,553,340,698]
+  {ProximaNova-Regular 9.0 #000000}When {ProximaNova-Regular 9.0 #0000ff}Columbus, OH{ProximaNova-Regular 9.0 #000000} began updating its 70-year-old zoning code, it 
+  {ProximaNova-Regular 9.0 #000000}was clear that building more housing alone wouldn’t create vibrant 
+  {ProximaNova-Regular 9.0 #000000}communities. Columbus’s “Zone In” plan, adopted by its City Council 
+  {ProximaNova-Regular 9.0 #000000}in 2024, approached development holistically, establishing mixed-
+  {ProximaNova-Regular 9.0 #000000}use districts citywide. 140 miles of key corridors across the whole city 
+  {ProximaNova-Regular 9.0 #000000}will allow 88,000 more units of housing alongside more spaces for 
+  {ProximaNova-Regular 9.0 #000000}businesses and essential services. With different zoning allowances 
+  {ProximaNova-Regular 9.0 #000000}across six types of mixed-use districts, Columbus created more flexibility 
+  {ProximaNova-Regular 9.0 #000000}to build complete communities: more homes supporting affordability, 
+  {ProximaNova-Regular 9.0 #000000}more customers for local businesses, more jobs and lively streets, 
+  {ProximaNova-Regular 9.0 #000000}anchored around transit that allows people to save time and money 
+  {ProximaNova-Regular 9.0 #000000}when moving around the city.
+[IMAGE 369,526,382,540]
+[B 369,523,561,667]
+  {ProximaNova-Extrabld 9.0 #755134}Black and Latinx Chicagoans are more 
+  {ProximaNova-Extrabld 9.0 #755134}likely than white and Asian Chicagoans 
+  {ProximaNova-Extrabld 9.0 #755134}to live near zoning for auto-oriented business 
+  {ProximaNova-Extrabld 9.0 #755134}(B3 and C zoning), as opposed to other 
+  {ProximaNova-Extrabld 9.0 #755134}business districts that encourage retail for 
+  {ProximaNova-Extrabld 9.0 #755134}pedestrians. {ProximaNova-Regular 9.0 #000000}Citywide trends show correlations 
+  {ProximaNova-Regular 9.0 #000000}between greater shares of the more automobile-
+  {ProximaNova-Regular 9.0 #000000}oriented zoning districts (B3 and C) and more 
+  {ProximaNova-Regular 9.0 #000000}businesses, jobs, and consumer spending. 
+  {ProximaNova-Regular 9.0 #000000}However, B1 and B2 zoning, which are not 
+  {ProximaNova-Regular 9.0 #000000}oriented toward car traffic, can help contribute to 
+  {ProximaNova-Regular 9.0 #000000}business corridor vibrancy. 
+--- LINKS ---
+  [Columbus, OH ear that buildin] -> https://www.columbus.gov/News-articles/City-of-Columbus-Proposes-to-Expand-Reach-and-Focus-of-Zoning-Code-Modernization

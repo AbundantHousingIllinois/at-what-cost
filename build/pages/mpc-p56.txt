@@ -1,0 +1,91 @@
+=== mpc PDF page 56 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    54
+[IMAGE 51,753,150,767]
+[B 49,46,542,71]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-RegularIt 9.0 #000000}Developable Land:{ProximaNova-Regular 9.0 #000000} Excluded road, rail right-of-way, trails and greenways, parks and open space, stormwater 
+  {ProximaNova-Regular 9.0 #000000}management, water, landfills, and cemeteries.  
+[B 49,79,218,92]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Research and analytical methods
+[B 49,100,561,173]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Urban Service Index and Density Score: {ProximaNova-Regular 9.0 #000000}The index and score were calculated at the block group level and 
+  {ProximaNova-Regular 9.0 #000000}broken into citywide quartiles. These quartile rankings were utilized to identify typologies of infrastructure access 
+  {ProximaNova-Regular 9.0 #000000}and density, (High Infrastructure-High Density, Low Infrastructure Low-Density, Moderate Infrastructure-Low 
+  {ProximaNova-Regular 9.0 #000000}Density, and Low Infrastructure-Moderate Density). Underlying zoning was examined to understand how land use 
+  {ProximaNova-Regular 9.0 #000000}policy is supporting better use of infrastructure, and future changes to zoning that can support density in high 
+  {ProximaNova-Regular 9.0 #000000}access places.  
+[B 49,181,275,194]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Important assumptions of the research findings
+[B 49,202,557,239]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}We assume that people will want to live, work, and visit areas that have proximity to high-quality infrastructure.  
+  {ProximaNova-Regular 9.0 #000000}We also assume that land use policy should support this dynamic by supporting density in areas with high levels 
+  {ProximaNova-Regular 9.0 #000000}of access to public services.	
+  {ProximaNova-Regular 9.0 #000000} 
+[B 49,247,216,260]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Important limitations of research
+[B 49,268,559,293]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}Quality of infrastructure is somewhat subjective, and we couldn’t systematically capture elements like good state 
+  {ProximaNova-Regular 9.0 #000000}of repair, barriers to use (like language or cost), or community perceptions.
+[B 49,301,547,338]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}For the Built Space Ratio, we performed quality control on the building footprints dataset but there are likely 
+  {ProximaNova-Regular 9.0 #000000}inaccuracies given the size of the dataset, end date, and given that construction and demolition is perpetually 
+  {ProximaNova-Regular 9.0 #000000}occurring around Chicago.
+[B 49,346,526,359]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}For density by use, we captured only who lives and works in a place, versus those who are just visiting.   
+[B 49,377,272,404]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Notes on additional analyses
+[B 49,422,299,443]
+  {ProximaNova-Regular 15.0 #4e5154}Zoning Board of Appeals (ZBA) analysis
+[B 49,449,552,510]
+  {ProximaNova-Regular 9.0 #000000}MPC compiled a dataset of ZBA applications heard by the ZBA using publicly available meeting minutes from 140 total meetings, 
+  {ProximaNova-Regular 9.0 #000000}from April 2012 to October 2023. Total appearances were deduplicated to unique applications, then further narrowed to “closed” 
+  {ProximaNova-Regular 9.0 #000000}applications that had been decided by the ZBA. Application types (e. g. the frequency of hair and nail salons among special use 
+  {ProximaNova-Regular 9.0 #000000}applications) were estimated using the text available in the minutes describing the application, using a combination of text-search 
+  {ProximaNova-Regular 9.0 #000000}and manual checks.
+[B 49,523,197,544]
+  {ProximaNova-Regular 15.0 #4e5154}Planned Developments
+[B 49,550,556,623]
+  {ProximaNova-Regular 9.0 #000000}For the findings in the “Understanding Planned Developments” section, MPC used publicly available zoning data containing high-
+  {ProximaNova-Regular 9.0 #000000}level underlying data for all of Chicago’s Planned Developments. The dataset contains both the year a Planned Development 
+  {ProximaNova-Regular 9.0 #000000}agreement was created and its size, from which MPC analyzed PD creation trends by size over time. This dataset does not contain 
+  {ProximaNova-Regular 9.0 #000000}information about which land uses the Planned Development allows or other details about each Planned Development. MPC is 
+  {ProximaNova-Regular 9.0 #000000}currently retrieving key information about land uses, bulk and density, and public amenities from individual Planned Development 
+  {ProximaNova-Regular 9.0 #000000}agreements to build a more meaningful dataset. 
+[B 49,631,58,644]
+  {ProximaNova-Regular 9.0 #000000} 

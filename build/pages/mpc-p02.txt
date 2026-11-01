@@ -1,0 +1,89 @@
+=== mpc PDF page 2 (w=612 h=792) ===
+[B 49,42,192,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Table of Contents 
+[B 49,82,558,95]
+  {ProximaNova-Regular 9.0 #000000}Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}1{ProximaNova-Regular 9.0 #000000} 
+[B 49,103,556,116]
+  {ProximaNova-Regular 9.0 #000000}Citywide problems require citywide solutions: A way forward on zoning and land use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 2
+[B 49,124,558,137]
+  {ProximaNova-Regular 9.0 #000000} What can you expect from this report? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 5{ProximaNova-Regular 9.0 #000000} 
+[B 49,145,558,158]
+  {ProximaNova-Regular 9.0 #000000}About the Zoning and Land Use Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 6{ProximaNova-Regular 9.0 #000000} 
+[B 49,166,556,179]
+  {ProximaNova-Regular 9.0 #000000}Research findings and Policy Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 10
+[B 49,196,558,233]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The challenge: A worsening affordability crisis is pinching budgets and displacing Chicagoans . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 10{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The vision: Make space for more homes that Chicagoans can afford . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 15{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}Understanding Planned Developments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}17
+[B 49,250,558,275]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The challenge: Jobs and business vitality are inequitably distributed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 18{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The vision: Clear the way for vibrant, livable communities  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}20
+[B 49,292,558,317]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The challenge: Too many Chicagoans are exposed to unhealthy pollutants and vulnerable to climate impacts . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 21{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The vision: Integrate healthy air, water, and land into zoning and land use practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}26
+[B 49,334,560,359]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The challenge: Zoning and land use policy is opaque and difficult to navigate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 27{ProximaNova-Regular 9.0 #000000}  
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The vision: Clarify and streamline zoning process and categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}29
+[B 49,376,558,401]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The challenge: Proactive planning is piecemeal and focused on the neighborhood level . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}30{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}The vision: Tie zoning to foundational citywide planning and engagement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}31
+[B 49,409,556,422]
+  {ProximaNova-Regular 9.0 #000000}Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}32
+[B 49,430,556,443]
+  {ProximaNova-Regular 9.0 #000000}Appendix: Additional research findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 33
+[B 49,451,556,464]
+  {ProximaNova-Regular 9.0 #000000}Appendix: Zoning districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .{ProximaNova-Regular 9.0 #0000ff} 37
+[B 49,472,558,485]
+  {ProximaNova-Regular 9.0 #000000}Appendix: Research methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}40{ProximaNova-Regular 9.0 #000000} 
+[B 49,493,560,542]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}Research scope and process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}40{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}Data sources and preparation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}40{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}Notes on outcome analyses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}46{ProximaNova-Regular 9.0 #000000}  
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}Notes on additional analyses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}54
+[B 49,550,556,563]
+  {ProximaNova-Regular 9.0 #000000}Appendix: Engagement methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}55
+[B 49,571,556,584]
+  {ProximaNova-Regular 9.0 #000000}Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . {ProximaNova-Regular 9.0 #0000ff}58
+--- LINKS ---
+  [1] -> internal page 3
+  [2] -> internal page 4
+  [5] -> internal page 7
+  [6] -> internal page 8
+  [10] -> internal page 12
+  [10  15] -> internal page 12
+  [10  15  17] -> internal page 17
+  [15 17] -> internal page 19
+  [18 20] -> internal page 20
+  [18 20] -> internal page 22
+  [21 26] -> internal page 23
+  [21 26] -> internal page 28
+  [27 29] -> internal page 29
+  [27 29] -> internal page 31
+  [30  31] -> internal page 32
+  [30  31] -> internal page 33
+  [32] -> internal page 34
+  [33] -> internal page 35
+  [37] -> internal page 39
+  [40] -> internal page 42
+  [40 40] -> internal page 42
+  [40 40 46] -> internal page 42
+  [40 46 54] -> internal page 48
+  [46 54] -> internal page 56
+  [55] -> internal page 57
+  [58] -> internal page 60

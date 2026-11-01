@@ -1,0 +1,46 @@
+{
+ "pdf": "mpc-ZoningAssessment-Report2026_r1.pdf",
+ "pages": [
+  1,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "figures_placed": [
+  "mpc-p01-cover",
+  "mpc-p03-top5-areas",
+  "mpc-p03-illustration",
+  "mpc-p05-workshop-photos",
+  "mpc-p09-zine",
+  "mpc-p11-photos"
+ ],
+ "footnotes": [
+  1,
+  2
+ ],
+ "notes": [
+  "PDF 2 (Table of Contents) skipped; entries saved to mpc-toc.json (levels from indentation: 'Understanding Planned Developments' is level 3; section_color = section key inferred from the colored rule above each group, not from dump colors; extra 'href' field added; appendix sub-items have href null). Leading/trailing spaces trimmed from TOC titles.",
+  "mpc-p01-cover placed inside header.doc-cover (it is in the manifest though not in the lead's list) — drop if unwanted. MPC logo skipped.",
+  "mpc-p08-who-stats NOT placed: replaced by div.who-stats markup. mpc-p10-funnel NOT placed: PDF 10 has no funnel graphic, only prose; ol.funnel built from prose wording only ('more than 120' outcomes of interest / 13 outcomes / seven priority outcomes) — '120+' does not appear on the page — and marked aria-hidden since it duplicates the paragraph.",
+  "WHO infographic: only a '+' is printed between 14 and 7; the '=' is a horizontal rule, not text, so no '=' emitted (span.op holds '+'). 'WHO' label emitted as its own stat-tile with only a label.",
+  "Dump artifacts normalized (not typos): '14. 7'/'8. 6' -> 14.7/8.6 (p3); ligatures 'oﬃces'->offices (p8), 'reﬁning'->refining (p11).",
+  "Kept as printed: straight apostrophes in cover subtitle 'Chicago's', p3 'Chicago's zoning code', 'Chicago's 77', 'residents' lives' (rest of doc uses curly).",
+  "Typo kept with <!-- sic -->: matrix (PDF 6) 'green infrastructure in setbacks open space, parkways' (missing comma after 'setbacks').",
+  "Matrix: no printed heading, so section#summary-matrix has no h2. Header row emitted as div.matrix__row.matrix__row--head. '(pp. N-M)' internal links -> #housing-challenge, #jobs-challenge, #env-challenge, #process-challenge, #planning-challenge (PDF targets 12/20/23/29/32 = challenge pages; best guess). 'Periodically update zoning to align with a planning vision' — colon printed outside bold, kept outside link.",
+  "how-conducted (PDF 10-11) opens with h3 'How was the Assessment conducted?' (15pt gray subhead, same style as the h3s in about-assessment; not a TOC entry). Bold 11pt subheads are h4; card titles h5.",
+  "PDF 9 zine sidebar emitted as aside[data-kind=box] containing figure mpc-p09-zine (the 'Read Our New Zine!' graphic) + h4 + text, placed after the opening paragraph. The QR code image (PDF 9, box bottom, bit.ly) is not in the manifest and was not placed; if wanted, id suggestion 'mpc-p09-qr'.",
+  "PDF 9 sidebar: the period after the zine title link is set in BoldItalic in the PDF; emitted as plain '.'. Link text 'APPENDIX: ZONING DISTRICTS' followed by '.' (visible on page, missing from dump).",
+  "PDF 8: link 'APPENDIX: ENGAGEMENT METHODOLOGY.' — trailing period is inside the blue link in the PDF; kept inside <a>.",
+  "PDF 4 pull quote emitted once as blockquote.pullquote before the 'Aldermanic prerogative' paragraph; body paragraph keeps the same sentence.",
+  "PDF 11: '1,200' callout emitted as div.callout-stat before 'Developing the recommendations'. mpc-p11-photos (3 photos: one beside paragraphs, two at page bottom) placed once at end of section.",
+  "PDF 3 credit 'illustration: Lucie Van der Elst' and PDF 5 photo caption emitted as p.credit after their figures.",
+  "Manifest captions empty. Verbatim text for mpc-p03-top5-areas: '60% of the approximately 120,000 new housing units in the city built since 2006 were concentrated in just 5 community areas.' Labels: 'Near North Side (19%)', 'Near West Side (14%)', 'Loop (13%)', 'West Town (7%)', 'Near South Side (7%)'. mpc-p05-workshop-photos caption: 'At a workshop, participants review and share feedback on research and policy recommendations developed during the Zoning and Land Use Assessment.'",
+  "Footnote 1 and footnote 7 overlap in text; both kept as printed."
+ ]
+}

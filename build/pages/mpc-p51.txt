@@ -1,0 +1,107 @@
+=== mpc PDF page 51 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    49
+[IMAGE 51,753,150,767]
+[B 49,46,218,59]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Research and analytical methods
+[B 49,67,352,80]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Descriptive statistics:{ProximaNova-Regular 9.0 #000000} Distribution of healthy grocery stores
+[B 49,88,561,113]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Correlations:{ProximaNova-Regular 9.0 #000000} Healthy grocery options across zone types; Distribution of grocery-friendly zones with incomes and 
+  {ProximaNova-Regular 9.0 #000000}race: Pearsons correlations
+[B 49,121,548,146]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Qualitative document review + case studies on alternative models: {ProximaNova-Regular 9.0 #000000}Chicago zoning code encouragement of 
+  {ProximaNova-Regular 9.0 #000000}grocery stores
+[B 49,154,398,167]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important assumptions made that were central to any of the research findings
+[B 49,175,558,260]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}The assumptions that informed how the research questions were explored and how the results were interpreted 
+  {ProximaNova-Regular 9.0 #000000}included the fact that grocery siting is only minimally influenced by zoning and instead more broadly determined 
+  {ProximaNova-Regular 9.0 #000000}by legal provisions related to business competition among wholesalers and labor supply dynamics, and that 
+  {ProximaNova-Regular 9.0 #000000}zoning likely only plays a very small role in determining the siting of stores. Consequently, we refrained from any 
+  {ProximaNova-Regular 9.0 #000000}causal investigations that might lead to spurious conclusions. Additional assumptions were present in what data 
+  {ProximaNova-Regular 9.0 #000000}we classified as being “healthy” food stores (i. e. , no convenience stores were included nor wholesale marketers 
+  {ProximaNova-Regular 9.0 #000000}or specialty food stores). 
+[B 49,268,192,281]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•{ProximaNova-Bold 9.0 #000000}	 Limitations of the research
+[B 49,289,553,374]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}These results are merely correlational, not causational. Significant findings must be treated with caution given 
+  {ProximaNova-Regular 9.0 #000000}that the data are a cross-section rather than panel. Zoning’s influence on grocery store access appears to be 
+  {ProximaNova-Regular 9.0 #000000}moderated by its influence on housing affordability and income/racial distributions. These distributions in turn 
+  {ProximaNova-Regular 9.0 #000000}dictate the dynamics business owners consider, but even beyond that federal anti-trust legislation enforcement 
+  {ProximaNova-Regular 9.0 #000000}has been found to have the most significant effect on grocery store concentrations and locations. Additional 
+  {ProximaNova-Regular 9.0 #000000}limitations to this research include that it was conducted at the tract level rather than a point plus walkshed 
+  {ProximaNova-Regular 9.0 #000000}approach. It also doesn’t capture parking and transit’s intersections with grocery access.
+[B 49,387,273,419]
+  {ProximaNova-Regular 15.0 #4e5154}Available Groceries and Healthcare
+  {ProximaNova-Bold 11.0 #000000}Part 2 (Healthcare)
+[B 49,426,518,439]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: Affordable grocery options and healthcare providers are accessible in all neighborhoods.
+[B 49,447,273,460]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Primary research questions and variables used
+[B 49,468,564,529]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Research questions:{ProximaNova-Regular 9.0 #000000} What is the distribution of primary care, physician, pharmacy, and outpatient clinics across 
+  {ProximaNova-Regular 9.0 #000000}the city? Does the zoning code encourage healthcare clinic locations in any zones? Does the distribution of 
+  {ProximaNova-Regular 9.0 #000000}healthcare clinic access correlate positively with any specific zone types? Are there zones consistently do not 
+  {ProximaNova-Regular 9.0 #000000}have healthcare clinic access? How does the distribution of the healthcare clinic access-abundant zones correlate 
+  {ProximaNova-Regular 9.0 #000000}with the distribution of incomes and races across the city?
+[B 49,537,548,562]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary dependent variables: {ProximaNova-Regular 9.0 #000000}count and density of physician practices and outpatient clinics, physician clinic 
+  {ProximaNova-Regular 9.0 #000000}employees (i. e. , healthcare capacity), mental health clinic counts, pharmacy business counts, private insurance
+[B 49,570,561,619]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary independent variables: {ProximaNova-Regular 9.0 #000000}tract share of single-family zoning, low-density multifamily zoning, high-density 
+  {ProximaNova-Regular 9.0 #000000}multifamily zoning, low-mid density business zoning, high-density business zoning, commercial zoning, PD-zoned 
+  {ProximaNova-Regular 9.0 #000000}land, share of residents of different demographic groups, median home values, median rents, and racial and 
+  {ProximaNova-Regular 9.0 #000000}income segregation/concentration scores
+[B 49,627,75,640]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	

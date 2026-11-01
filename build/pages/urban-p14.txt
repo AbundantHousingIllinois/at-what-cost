@@ -1,0 +1,75 @@
+=== urban PDF page 14 (w=612 h=792) ===
+[B 46,37,537,51]
+  {Lato-Regular 11.5 #353535}Across all four reforms, we estimate that housing permitting in the near and far southeast would be
+[B 46,55,561,68]
+  {Lato-Regular 11.5 #353535}noticeably lower than in other areas of the city: under 100 additional units per ward compared with 400
+[B 46,72,238,86]
+  {Lato-Regular 11.5 #353535}to 1,250 more in other neighborhoods.
+[B 46,99,514,113]
+  {Lato-Regular 11.5 #353535}These results suggest that without intentional intervention and investment to balance housing
+[B 46,116,451,130]
+  {Lato-Regular 11.5 #353535}production, zoning reforms could perpetuate—or exacerbate—housing inequities.
+[B 46,152,560,197]
+  {FuturaPTWeb-Heavy 17.8 #000000}Expanding the ADU pilot citywide could have led to 3.5 times as
+  {FuturaPTWeb-Heavy 17.8 #000000}many ADU permits between 2021 and 2025
+[B 46,213,563,227]
+  {Lato-Regular 11.5 #353535}ADUs offer cities {Lato-Regular 11.5 #1696d2}a fast and generally popular way to add housing with proven results{Lato-Regular 8.6 #1696d2} (https://www.mercatus.o
+[B 46,230,556,244]
+  {Lato-Regular 8.6 #1696d2}rg/research/policy-briefs/taxonomy-state-accessory-dwelling-unit-laws-2025){Lato-Regular 11.5 #353535}. In 2021, Chicago launched a pilot initiative
+[B 46,247,557,278]
+  {Lato-Regular 11.5 #353535}that allowed construction of detached or integrated ADUs in five different neighborhoods. In three of
+  {Lato-Regular 11.5 #353535}these areas, the city required owners to live in the primary house or unit on the lot to qualify to build an
+[B 46,281,558,295]
+  {Lato-Regular 11.5 #353535}ADU. In 2026, the pilot became opt-in citywide, with alderpersons choosing what restrictions they wish
+[B 46,298,229,312]
+  {Lato-Regular 11.5 #353535}to place on ADU development terms.
+[B 46,326,555,340]
+  {Lato-Regular 11.5 #353535}To help city leaders and alderpersons weigh how their decisions could affect housing production levels,
+[B 46,343,565,357]
+  {Lato-Regular 11.5 #353535}we analyzed how the pilot’s original geographic and owner-occupancy restrictions affected development
+[B 46,361,516,374]
+  {Lato-Regular 11.5 #353535}levels. Using a new housing forecast (logit regression) model, we explored what housing and lot
+[B 46,378,325,392]
+  {Lato-Regular 11.5 #353535}characteristics were associated with ADU development.
+[B 46,405,550,419]
+  {Lato-Regular 11.5 #353535}Between 2021 and 2025, property owners permitted 343 ADUs in the pilot areas. Among these units:
+[B 61,433,528,446]
+  {Lato-Regular 11.5 #353535}28 percent were above-garage coach or carriage houses, built on lots with 2.8 existing units on
+[B 61,450,103,464]
+  {Lato-Regular 11.5 #353535}average,
+[B 61,477,556,491]
+  {Lato-Regular 11.5 #353535}66 percent were internal conversions (e.g., basement, attic, or other space conversions to add units),
+[B 61,494,311,508]
+  {Lato-Regular 11.5 #353535}built on lots with 4.6 existing units on average, and
+[B 61,522,551,536]
+  {Lato-Regular 11.5 #353535}the remaining 6 percent were either external additions (built on lots with 2.2 units existing units on
+[B 61,539,508,553]
+  {Lato-Regular 11.5 #353535}average), legalization of existing ADUs, or other forms that were unclear from their permit
+[B 61,556,119,570]
+  {Lato-Regular 11.5 #353535}application.
+[B 46,583,565,597]
+  {Lato-Regular 11.5 #353535}Overall, the pilot’s permitted ADUs largely represented additional units within, attached to, or outside of
+[B 46,601,295,614]
+  {Lato-Regular 11.5 #353535}existing small multifamily buildings across the city.
+[B 46,628,545,642]
+  {Lato-Regular 11.5 #353535}Our model shows that across the pilot areas, ADUs were more likely to be permitted on lots in places
+[B 46,646,552,676]
+  {Lato-Regular 11.5 #353535}with high demand for housing and land, and that also had higher amounts of unbuilt land on the parcel.
+  {Lato-Regular 11.5 #353535}ADUs were more common on parcels in neighborhoods with higher housing values, more multifamily
+[B 46,679,554,693]
+  {Lato-Regular 11.5 #353535}housing, and no owner-occupancy requirement under the initiative. In addition, ADU construction was
+[B 46,697,551,710]
+  {Lato-Regular 11.5 #353535}more likely if a parcel had a greater building value and lower land value. Notably, this is the opposite of
+[B 46,714,547,728]
+  {Lato-Regular 11.5 #353535}what we found for regular housing permits between 2011 and 2025, indicating that ADU reforms are
+[B 46,731,547,745]
+  {Lato-Regular 11.5 #353535}complementary to rather than substitutions for missing middle and transit-oriented housing reforms.
+[B 24,17,587,24]
+  {Times-Roman 8.0 #000000}11/1/26, 4:19 PM
+  {Times-Roman 8.0 #000000}Zoning Reforms Could Boost Chicago’s Housing Supply, But Other Investments Are Needed to Ensure Development Benefits All Neighborhoods …
+[B 24,769,588,777]
+  {Times-Roman 8.0 #000000}https://www.urban.org/research/publication/zoning-reforms-could-boost-chicagos-housing-supply
+  {Times-Roman 8.0 #000000}14/17
+--- LINKS ---
+  [a fast and generally popular way to add housing with proven results (https://www.mercatus.o] -> https://www.mercatus.org/research/policy-briefs/taxonomy-state-accessory-dwelling-unit-laws-2025
+  [rg/research/policy-briefs/taxonomy-state-accessory-dwelling-unit-laws-2025)] -> https://www.mercatus.org/research/policy-briefs/taxonomy-state-accessory-dwelling-unit-laws-2025

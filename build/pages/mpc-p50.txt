@@ -1,0 +1,108 @@
+=== mpc PDF page 50 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    48
+[IMAGE 51,753,150,767]
+[B 49,46,218,59]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Research and analytical methods
+[B 49,67,564,116]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Descriptive statistics:{ProximaNova-Regular 9.0 #000000} We conducted baseline evaluations to quantify the distribution of business and commercial 
+  {ProximaNova-Regular 9.0 #000000}zoning across the city’s census tracts. We used geospatial mapping to evaluate change over time to show how 
+  {ProximaNova-Regular 9.0 #000000}business and commercial zoning had changed across the city over time, and how it had changed within the 
+  {ProximaNova-Regular 9.0 #000000}Special Service Areas (SSAs).  
+[B 49,124,546,161]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Correlations:{ProximaNova-Regular 9.0 #000000} We examined correlations between outcomes of interest (e. g. change in active businesses) and 
+  {ProximaNova-Regular 9.0 #000000}business and commercial zoning, as well as other neighborhood characteristics such as race/ethnicity and 
+  {ProximaNova-Regular 9.0 #000000}household income. 
+[B 49,169,565,230]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Fixed-effects regressions, Analysis of Variance: {ProximaNova-Regular 9.0 #000000}To further evaluate the relationship between zoning changes 
+  {ProximaNova-Regular 9.0 #000000}and outcomes of interest, fixed-effects regressions were used to test whether changes in different types of zoning 
+  {ProximaNova-Regular 9.0 #000000}predicted changes in active businesses and business vacancies, controlling for tract and time fixed effects. One-
+  {ProximaNova-Regular 9.0 #000000}way ANOVAs were also run to test differences in shares of business and commercial zoning across different types 
+  {ProximaNova-Regular 9.0 #000000}of business corridors.
+[B 49,238,346,251]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important assumptions that were central to the research findings
+[B 49,259,562,296]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}An important assumption made in these analyses is that total shares of business and commercial zoning (both 
+  {ProximaNova-Regular 9.0 #000000}percentage and square footage), as well as the total number of businesses, are meaningful measures of business 
+  {ProximaNova-Regular 9.0 #000000}vibrancy and changes within corridors. 
+[B 49,304,231,317]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Important limitations of the research
+[B 49,325,556,398]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}Additional data sources such as revenue or investment, which were not available for these analyses, could 
+  {ProximaNova-Regular 9.0 #000000}provide a more accurate measure of business activity. In addition, these analyses were limited to by-right 
+  {ProximaNova-Regular 9.0 #000000}zoning changes and did not include business and commercial zoning changes that happened within Planned 
+  {ProximaNova-Regular 9.0 #000000}Developments (PDs). Given that PDs—each of which has its own lengthy master agreement summarizing zoning 
+  {ProximaNova-Regular 9.0 #000000}changes—make up a substantial portion of zoning changes over the study period; results could change when 
+  {ProximaNova-Regular 9.0 #000000}factoring in all zoning changes that occurred within them.
+[B 49,411,273,443]
+  {ProximaNova-Regular 15.0 #4e5154}Available Groceries and Healthcare
+  {ProximaNova-Bold 11.0 #000000}Part 1 (Groceries)
+[B 49,450,516,463]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: Affordable grocery options and healthcare providers are accessible in all neighborhoods
+[B 49,471,273,484]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	{ProximaNova-Bold 9.0 #000000} Primary research questions and variables used
+[B 49,492,565,541]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Research questions: {ProximaNova-Regular 9.0 #000000}What is the distribution of healthy grocery options across the city? Does the distribution 
+  {ProximaNova-Regular 9.0 #000000}of grocery options correlate positively with any specific zone types? Are there zones consistently do not have 
+  {ProximaNova-Regular 9.0 #000000}grocery access? How does the distribution of grocery-friendly zones correlate with the distribution of incomes and 
+  {ProximaNova-Regular 9.0 #000000}races across the city? Does the Chicago zoning code encourage grocery locations in any zones? 
+[B 49,549,556,598]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary dependent variables:{ProximaNova-Regular 9.0 #000000} tract-level total food stores, total healthy food stores, food store density per 1k 
+  {ProximaNova-Regular 9.0 #000000}population, and binary designation as low-income AND low food access tracts (having a poverty rate of at least 
+  {ProximaNova-Regular 9.0 #000000}20% and more than one-third of residents more than half a mile from a healthy grocery store). We also looked at 
+  {ProximaNova-Regular 9.0 #000000}farmers’ markets, community gardens, and urban farm locations 
+[B 49,606,554,655]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary independent variables:{ProximaNova-Regular 9.0 #000000} tract share of single-family zoning, low-density multifamily zoning, high-density 
+  {ProximaNova-Regular 9.0 #000000}multifamily zoning, low-mid density business zoning, high-density business zoning, commercial zoning, share 
+  {ProximaNova-Regular 9.0 #000000}of residents of different demographic groups, median home values, median rents, and racial and income 
+  {ProximaNova-Regular 9.0 #000000}segregation/concentration scores
+[B 49,663,51,676]
+  {ProximaNova-Regular 9.0 #000000}	

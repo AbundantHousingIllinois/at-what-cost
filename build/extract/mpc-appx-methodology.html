@@ -1,0 +1,373 @@
+<section id="appx-methodology" class="doc-section" data-section="appendix" data-pdf-page="42">
+<span class="pg" data-printed="40" data-pdf="42"></span>
+  <h2>Appendix: Research methodology</h2>
+  <p>This section provides an overview of the research design, data sources and preparation, analytical methods, and additional research activities that informed the research findings throughout this report. It is organized into the following subsections:</p>
+  <ul>
+    <li><strong>Research scope and process:</strong> A brief overview of how the research was designed and conducted and how the research questions across all outcomes were formulated.</li>
+    <li><strong>Data sources and preparation:</strong> Documentation of how all of the data used for analysis was collected and processed.</li>
+    <li><strong>Notes on outcome analyses:</strong> Documentation of how the research for each outcome was designed and conducted, the research methods employed, and important caveats and limitations that influenced the research findings.</li>
+    <li><strong>Notes on additional analyses:</strong> Notes and documentation on additional research activities conducted outside of the longitudinal research detailed in other sections.</li>
+  </ul>
+
+  <h3 id="methodology-scope">Research scope and process</h3>
+  <p>The research scope was determined collaboratively and iteratively with internal team members and the external Steering Committee, resulting in a list of seven priority outcomes. (See <a href="#how-conducted">page 6</a> for more on how outcomes were selected.)</p>
+  <p>For each outcome, findings were grouped into three categories:</p>
+  <ul>
+    <li><strong>Understand the outcome:</strong> How is this outcome showing up now and how has it shown up over time? For example, for housing affordability, we asked: Is housing affordable for Chicagoans? How does this play out among different populations and in different neighborhoods?</li>
+    <li><strong>Understanding the zoning:</strong> What are the zoning and land use policies that we think may affect this outcome? For example, for the same housing affordability focus, we asked: What kind of residential development is allowed under our zoning code?</li>
+    <li><strong>Understanding the relationship:</strong> What is the relationship between the zoning and land use policies, and the outcome we see? For example, for housing affordability, we asked: How does zoning impact housing affordability?</li>
+  </ul>
+  <p>Findings were shared at regular intervals with Steering Committee members and at public workshops following this format.</p>
+  <p>Each outcome analysis went through several rounds of presentation and iterative feedback with Steering Committee members and public event attendees. Stakeholders reacted to initial findings, provided feedback, and raised additional questions. Where feasible, MPC and Urban Institute team members worked to answer additional questions that were generated during presentations. The findings outlined in this report, while not exhaustive of all the analyses that were conducted, represent key findings generated through this participatory process.</p>
+
+  <h3 id="methodology-data">Data sources and preparation</h3>
+  <h4>Longitudinal zoning data</h4>
+  <p>The keystone underlying the research findings in the Assessment was a longitudinal zoning dataset we created for Chicago. This dataset allowed us to understand how zoning changes over time may or may not have had an impact on each of the different priority outcomes. To create this dataset, we collected zoning district shapefiles across three years: 2003, 2012, and 2023. We collected the accompanying zoning ordinances for those years so we could quantify bulk and density requirements, use tables, and other relevant zoning information associated with each zoning district and append them to the zoning district shapefiles. We also collected three different land use shapefiles from the Chicago Metropolitan Agency for Planning (CMAP) to understand how actual land uses changed over time, in addition to zoning. Land use data closely, though not perfectly, matched zoning ordinance years: 2001, 2010, and 2020. Zoning and land use variables were used as the primary independent variables across all outcomes. For our analysis of downzoning’s historical impacts, we worked with George Kisiel, whose data on parcels that had been downzoned over the course of several decades was invaluable in enabling us to examine outcomes.</p>
+<span class="pg" data-printed="41" data-pdf="43"></span>
+  <h5>ESTABLISHING COMMON GEOGRAPHIES AND UNITS OF ANALYSIS</h5>
+  <p>After collecting all zoning and land use variables, we conducted several data transformation steps to prepare variables for analysis. Once prepared, these tract-level zoning variables allowed us to understand the relationships between zoning and all the other tract-level data collected from different secondary sources, such as sociodemographic information collected from the American Community Survey.</p>
+  <p>First, we spatially attributed all zoning and land use variables to the City of Chicago parcel level, using a shapefile of tax parcels from Cook County. This ensured that both zoning and land use variables were transformed into a common geographic unit, but it was also necessary in certain analyses that required parcel-level information (for example, calculating the development envelope, i.e., the maximum amount of housing allowed to be built according to the zoning code). Next, since parcel boundaries change over time, we standardized all zoning and land use data to a common geographical reference point: 2012, the midpoint of our three time periods. The result was a City of Chicago parcel-level longitudinal zoning and land use dataset with zoning and land use data from three points in time that was then used across all outcomes. For census tract-level analyses, 2010 tract boundaries were used as the base geographic unit. Since tract boundaries also change over time, for all data associated with 2000 and 2020 tract boundaries (e.g. 2018 - 2022 ACS data), areal interpolation was used to ensure that all data were standardized into the common 2010 census tract boundary reference point.</p>
+  <p>Parcel-level data was then aggregated to create City of Chicago census tract-level zoning and land use variables to be used in different outcome analyses. Specific independent tract-level variables were created for each outcome. For example, in the Strong Business Corridors outcome analysis, some of the tract-level independent variables related to zoning included the total and percentage of each tract’s total area zoned for different types of Business or Commercial zoning districts. For the Limited Pollution Exposure outcome analysis, we did similar calculations for different types of Manufacturing zoning, industrial land use, and so on. Then variables related to changes in zoning and land use categories were created at the tract level (e.g. the percent of a tract that was rezoned from one zoning district to another). The universe of parcels also somewhat varied, and this was another way the land use data was used in conjunction with zoning data. For instance, in the Affordable Housing outcome analysis, we used the land use data to remove parcels that we considered to be “undevelopable,” e.g. airports, civic landmarks, cemeteries, public parks, and even patches of right-of-way (roads, railroads, highways) that overlap with parcels.</p>
+  <h5>THE EXCLUSION OF PLANNED DEVELOPMENTS</h5>
+  <p>A major limitation of the zoning data in the study was that the bulk and density requirements and other zoning attributes and all the changes occurring related to Planned Developments—roughly 13% of the City of Chicago’s zoned land—were excluded from our zoning district shapefiles and thus could not be attributed to parcels using the method mentioned above. All information and changes within each Planned Development are described in independent master agreements between the developer and the City of Chicago. Consequently, many of our research findings did not factor in any of these parcels contained within Planned Developments. In our Affordable Housing research, for example, our calculations of zoned capacity were likely significant underestimates in neighborhoods where Planned Developments are more common. In our Strong Business Corridors research, we could not factor in how much business activity and uses were within Planned Developments, and that similarly could potentially skew our research findings. All in all, given that Planned Developments comprise a significant portion of our city’s land area, and our research shows that Planned Developments account for most new multi-family housing units, we understand the importance of addressing these gaps. Analysis of Planned Development agreements for their land uses and the resulting relationships with our key outcomes is a subject for future data work and research.</p>
+  <h4>Additional longitudinal variables</h4>
+  <p>Simultaneously, we collected data that was used in different outcome-specific analyses. This included socioeconomic and demographic data from the Census American Community Survey (ACS) that were used in all the different outcomes, but also numerous other data sources that varied by outcome. Most of the data collected was at the census tract level, except for a few instances where block group data was necessary, particularly for the accessible public transit hubs and productive land use outcomes. To the extent possible, we attempted to match the data as closely as possible to the years for which we had zoning data. For instance, we used 2018-2022 ACS data to match 2023 zoning, 2010-2014 ACS data to match 2012 zoning, and 2000 Decennial Census data to match 2003 zoning. Perfect year-to-year alignment was not always feasible depending on the source; however, all sources align closely enough to the zoning time periods to serve as proxies, resulting in a dataset with extensive variables representing three distinct time periods. See the table below for a full list of all the different data sources and years used for each outcome.</p>
+
+<span class="pg" data-printed="42" data-pdf="44"></span>
+  <h4 id="data-files">Data files</h4>
+  <div class="table-wrap"><table class="data-table" data-filterable aria-labelledby="data-files">
+    <thead>
+      <tr><th scope="col">Variable</th><th scope="col">Data Source(s)</th><th scope="col">Data Year(s)</th><th scope="col">Outcomes</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Hispanic or Latino Origin by Race (total and percentage of each race/ethnicity)</td><td>U.S. Census American Community Survey 5-Year Estimates and Decennial Census</td><td>2000, 2010-2014, 2018-2022</td><td>All outcomes</td></tr>
+      <tr><td>Median Household Income</td><td>U.S. Census American Community Survey 5-Year Estimates and Decennial Census</td><td>2000, 2010-2014, 2018-2022</td><td>All outcomes</td></tr>
+      <tr><td>Median Home Value</td><td>U.S. Census American Community Survey 5-Year Estimates and Decennial Census</td><td>2000, 2010-2014, 2018-2022</td><td>All outcomes</td></tr>
+      <tr><td>Median Gross Rent</td><td>U.S. Census American Community Survey 5-Year Estimates and Decennial Census</td><td>2000, 2010-2014, 2018-2022</td><td>All outcomes</td></tr>
+      <tr><td>Subsidized Housing Units (total and percentage)</td><td>National Housing Preservation Database</td><td>2003, 2012, 2023</td><td>Affordable Housing</td></tr>
+      <tr><td>Downzoning (percentage of tract downzoned since prior decade)</td><td>George Kisiel, Okrent Kisiel Associates, Inc.</td><td>1970, 1980, 1990, 2000, 2010, 2016</td><td>Affordable Housing</td></tr>
+      <tr><td>Total housing units permitted</td><td>City of Chicago Data Portal – Building Permits</td><td>2006-2024</td><td>Affordable Housing</td></tr>
+      <tr><td>Business Density</td><td>City of Chicago Data Portal – Business Licenses</td><td>2023</td><td>Strong Business Corridors</td></tr>
+      <tr><td>Business Vacancy</td><td>U.S. Department of Housing and Urban Development, United States Postal Service</td><td>2022</td><td>Strong Business Corridors</td></tr>
+      <tr><td>Consumer Spending</td><td>Replica</td><td>2023</td><td>Strong Business Corridors</td></tr>
+      <tr><td>Employment Density</td><td>U.S. Census Longitudinal Employer-Household Dynamics (LEHD)</td><td>2023</td><td>Strong Business Corridors, Accessible Public Transit Hubs, Limited Pollution Exposure, Productive Land Use</td></tr>
+      <tr><td>Employment Diversity</td><td>U.S. Census Longitudinal Employer-Household Dynamics (LEHD)</td><td>2023</td><td>Strong Business Corridors</td></tr>
+      <tr><td>Cumulative Pollution Index</td><td>U.S. EPA EJ Screen</td><td>2019-2023 (depending on the pollution source)</td><td>Limited Pollution Exposure</td></tr>
+      <tr><td>Satellite-Derived PM 2.5</td><td>University of Vermont, Chicago Region Trees Initiative</td><td>2014-2018</td><td>Limited Pollution Exposure, Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Percent Tree Canopy Coverage</td><td>Chicago Region Trees Initiative</td><td>2017</td><td>Limited Pollution Exposure, Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Total Population and Population Change</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2005-2009, 2019-2023</td><td>Accessible Public Transit Hubs</td></tr>
+      <tr><td>Population Change by Race and Ethnicity</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2005-2009, 2019-2023</td><td>Accessible Public Transit Hubs</td></tr>
+      <tr><td><span class="pg" data-printed="43" data-pdf="45"></span>Population Density (percent of total city population)</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2019-2023</td><td>Accessible Public Transit Hubs, Productive Land Use</td></tr>
+      <tr><td>Total City-owned Land</td><td>City of Chicago</td><td>2025</td><td>Accessible Public Transit Hubs, Mitigation and Adaptation to Climate Change, Productive Land Use</td></tr>
+      <tr><td>Access to Jobs (Number of jobs accessible in 30 minutes by transit)</td><td>Center for Neighborhood Technology, All Transit Database</td><td>2024</td><td>Accessible Public Transit Hubs</td></tr>
+      <tr><td>Racial and Ethnic Diversity</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2019-2023</td><td>Accessible Public Transit Hubs</td></tr>
+      <tr><td>Car Ownership (Total and percentage)</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2019-2023</td><td>Accessible Public Transit Hubs</td></tr>
+      <tr><td>SNAP Grocery Vendor data (total number of grocery stores, supermarkets, and super stores)</td><td>U.S. Department of Agriculture, Food and Nutrition Administration</td><td>2023</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Food Access (Percentage of tract population living more than one-half mile from the nearest supermarket, supercenter, or large grocery store<!-- sic --></td><td>U.S. Department of Agriculture, Food and Nutrition Administration</td><td>2010, 2019</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Primary Care Community Health Centers (Total number of hospitals and primary care clinics)</td><td>City of Chicago Data Portal, U.S. Department of Health and Human Services</td><td>2025</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Physician and Outpatient Access (Total number of outpatient clinics and physician offices/clinics)</td><td>National Neighborhood Data Archive</td><td>2021</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Primary Care Access (Total number of adults who report with at least one personal doctor or healthcare provider)</td><td>Chicago Health Atlas, Healthy Chicago Survey</td><td>2023-2024</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Uninsured Population (Total and percentage)</td><td>Chicago Health Atlas, U.S. Census American Community Survey 5-Year Estimates</td><td>2018-2022</td><td>Available Groceries and Healthcare, Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Health Insurance Coverage Type (Percentage of adult residents who have at least one source of private insurance)</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2018-2022</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Total Number of Pharmacies</td><td>OpenStreet Facilities Pharmacy Designations</td><td>2025</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Total Number of Farmers Markets</td><td>City of Chicago Data Portal</td><td>2025</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Total Number of Community Gardens</td><td>City of Chicago Data Portal</td><td>2025</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Total Number of Urban Farms</td><td>City of Chicago Data Portal</td><td>2025</td><td>Available Groceries and Healthcare</td></tr>
+      <tr><td>Heat Index (Morning, afternoon, night, and average all-day heat index)</td><td>Heat Watch/Cool Chi</td><td>2023</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Air Temperature</td><td>Heat Watch/Cool Chi</td><td>2023</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Urban Flooding Susceptibility Index</td><td>Chicago Metropolitan Agency for Planning</td><td>2017</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td><span class="pg" data-printed="44" data-pdf="46"></span>Flooding Complaints to 311</td><td>City of Chicago Data Portal</td><td>2025</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Housing Age (Share of homes built before 1970)</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2018-2022</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Impervious Surface (percentage)</td><td>U.S. Geological Survey (USGS) Annual NLCD Collection 1 Science Products: U.S. Geological Survey data release</td><td>2023</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Youth and Senior Population (Percent of population under 18 and over 65)</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2018-2022</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Disabled Population (Percentage)</td><td>U.S. Census American Community Survey 5-Year Estimates</td><td>2018-2022</td><td>Mitigation and Adaptation to Climate Change</td></tr>
+      <tr><td>Students traveling &lt;15 minutes to school</td><td>Chicago Public Schools Annual Regional Analysis</td><td>2024</td><td>Productive Land Use</td></tr>
+      <tr><td>Proportion attending Zoned or School in Region</td><td>Chicago Public Schools Annual Regional Analysis</td><td>2024</td><td>Productive Land Use</td></tr>
+      <tr><td>Academic Variety (Arts, CTE, World Lnaguage)<!-- sic --></td><td>Chicago Public Schools Annual Regional Analysis</td><td>2024</td><td>Productive Land Use</td></tr>
+      <tr><td>Early Childhood Programs within ½ mile</td><td>Chicago Early Learning</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>K-12 institutions within a ½ mile</td><td>Illinois State Board of Education Report Card Data Library</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Higher Education institutions within a half-mile</td><td>National Center for Education Stat<!-- sic --></td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>AllTransit Performance Score</td><td>Center for Neighborhood Technology</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Job Access by Transit</td><td>Center for Neighborhood Technology</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Bus Frequent Network</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Divvy Bike Density</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Protected Bike Infrastructure</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>High-way<!-- sic --> On-Ramp within ½ mile</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>CTA Rail station within ¼ mile</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Metra Rail station within ½ mile</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Pace Bus within ¼ mile</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Density of Youth Programming</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Park within 1/8 mile</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Special Service Area within ½ mile</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Library within ½ mile</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Senior Center within ½ mile</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Community Service Center within 1 mile</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td><span class="pg" data-printed="45" data-pdf="47"></span>Cook County Forest Preserves within ½ mile</td><td>Cook County Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+      <tr><td>Neighborhood Business Development Center within ½ mile</td><td>City of Chicago Data Portal</td><td>2025</td><td>Productive Land Use</td></tr>
+    </tbody>
+  </table></div>
+  <h4 id="geographic-layers">Geographic shapefiles and layers</h4>
+  <div class="table-wrap"><table class="data-table" data-filterable aria-labelledby="geographic-layers">
+    <thead>
+      <tr><th scope="col">Layer</th><th scope="col">Data Source(s)</th><th scope="col">Data Year(s)</th><th scope="col">Outcomes</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Zoning Districts</td><td>City of Chicago Department of Planning and Development</td><td>2003, 2012, 2023</td><td>All Outcomes</td></tr>
+      <tr><td>Land Use Inventories</td><td>Chicago Metropolitan Agency for Planning</td><td>2000, 2012, 2020</td><td>All Outcomes</td></tr>
+      <tr><td>Special Service Areas (SSAs)</td><td>City of Chicago Data Portal</td><td>2025</td><td>Strong Business Corridors, Productive Land Use</td></tr>
+      <tr><td>Industrial Corridors</td><td>City of Chicago Data Portal</td><td>2024</td><td>Limited Pollution Exposure</td></tr>
+      <tr><td>Historical Downzoning by Decade</td><td>George Kisiel, Okrent Kisiel Associates, Inc. mp<!-- sic --></td><td>1970, 1980, 1990, 2000, 2010, 2016</td><td>Affordable Housing</td></tr>
+      <tr><td>CTA Rail Stations</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Accessible Public Transit Hubs, Productive Land Use</td></tr>
+      <tr><td>CTA Frequent Bus Network</td><td>City of Chicago Data Portal</td><td>2025</td><td>Accessible Public Transit Hubs</td></tr>
+      <tr><td>Metra Rail Stations</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Accessible Public Transit Hubs, Productive Land Use</td></tr>
+      <tr><td>Pace Bus Routes</td><td>Regional Transit Authority Data Portal</td><td>2025</td><td>Accessible Public Transit Hubs, Productive Land Use</td></tr>
+      <tr><td>Pedestrian Streets</td><td>City of Chicago Data Portal</td><td>2024</td><td>Strong Business Corridors</td></tr>
+    </tbody>
+  </table></div>
+
+<span class="pg" data-printed="46" data-pdf="48"></span>
+  <h3 id="methodology-outcomes">Notes on outcome analyses</h3>
+
+  <h4>Affordable housing</h4>
+  <p><em>Steering Committee definition: Diverse and affordable housing options (subsidized, affordable, workforce/middle, market, and luxury) are available in every neighborhood, including for the job insecure and unhoused populations</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> How affordable is housing to rent and own across the city, both in terms of comparisons with neighborhood residents and in terms of comparisons with residents of the city overall? How does the location of subsidized affordable housing vary across the city? Where have housing units been built? What is the relationship between zoning policy and housing access? And what is the connection between these variables and race or ethnicity?</li>
+        <li><strong>Primary dependent variables</strong>: affordability, calculated by linking median rent, median housing value, and median household incomes; subsidized housing units; building permits by unit count.</li>
+        <li><strong>Primary independent variables:</strong> city’s current zoning policies; historical zoning policies produced by George Kisiel; current building stock; demographic variables (e.g. race/ethnicity).</li>
+      </ul></li>
+    <li><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive statistics:</strong> We conducted baseline evaluations to quantify affordability, housing stock, and demographic data at the tract level throughout the city. We used geospatial mapping to compare outcomes and to evaluate change over time to show how affordability levels are improving or declining, depending on the location. We specifically compared outcomes by tenure (renting versus owning) and by race/ethnicity (since people of different backgrounds have different income levels in the city). We also evaluated the location of new housing building permits and identified their zoning classifications.</li>
+        <li><strong>Modeling:</strong> We developed a model of housing supply in the city with the goal of comparing existing housing units with the potential number of housing units that could be completed if land were built out according to zoning. This comparison provides insight as to the degree to which zoning policies are restricting development, and where.</li>
+        <li><strong>Fixed-effects regressions with time-trends:</strong> To evaluate the effects of changing zoning patterns in the city, we identified neighborhoods that featured downzonings (or historic district designations) between 1970 and 2016. We then used this approach to test the degree to which downzonings were associated with (a) changes in housing supply; (b) changes in housing cost; and (c) demographics.</li>
+      </ul></li>
+    <li><strong>Important assumptions central to the research findings</strong>
+      <ul>
+        <li>In this analysis, we assumed that housing affordability could be improved over time through additional housing supply. While the broader scholarship provides evidence to point to this conclusion, the relationship is not direct and there is likely to be a delay between zoning changes and housing construction, and then a delay between housing construction and housing affordability.</li>
+      </ul></li>
+    <li><strong>Important limitations of the research</strong>
+      <ul>
+        <li>Data on housing affordability is generally provided in terms of medians or averages (e.g., median housing cost, etc.). This has the advantage of providing comparability across neighborhoods, but it does not tell us much about the components of these costs. For example, even if the median home rents for $1,000, there may be homes available at a range from $500 to $4,000. As such, further research is needed to explore the degree to which different levels of housing cost are being offered to people at different incomes.</li>
+        <li>The research also does not provide us much insight into Planned Development questions. Since PDs are the primary tool by which Chicago enables high-density housing, they need further exploration.</li>
+      </ul></li>
+  </ul>
+
+<span class="pg" data-printed="47" data-pdf="49"></span>
+  <h4>Accessible Public Transit Hubs</h4>
+  <p><em>Steering Committee definition: All communities feature public transit options that are convenient and reliable, and serve hubs with housing, businesses, recreation and other services</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> How accessible is the transit system to Chicagoans? What levels of density and uses are currently permitted in areas adjacent to the city’s transit system, according to the zoning code? What is the association between zoning near transit and certain demographic variables?</li>
+        <li><strong>Primary dependent variables:</strong> population near transit, including by race/ethnicity, income, and other demographic characteristics.</li>
+        <li><strong>Primary independent variables:</strong> city zoning policies; land use data (CMAP); data on job accessibility via transit (CNT); transit station locations.</li>
+      </ul></li>
+    <li><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive analyses:</strong> In this work, we conducted primarily descriptive analyses, combined with geospatial work, to understand the relationships between zoning, transit access, and demographics. This approach made it feasible for us to understand the degree to which the city is currently zoned for high densities in near transit stations, and to specify the mix of zoning allowances for different parts of the city.</li>
+      </ul></li>
+    <li><strong>Important assumptions made that were central to the research findings</strong>
+      <ul>
+        <li>We did not control for levels of investment demand. In other words, we assumed in this analysis that all parts of the city should be zoned to accommodate high densities, even though it is likely that in many cases, there is no demand to invest in such projects.</li>
+      </ul></li>
+    <li><strong>Important limitations of the research</strong>
+      <ul>
+        <li>We conducted research across a variety of transit modes—bus, frequent bus, L, and Metra—but did not always account for different levels of service. One key area of additional research could be to identify the parts of the city that are zoned for, or already include, high densities, but nonetheless have low levels of transit service.</li>
+      </ul></li>
+  </ul>
+
+  <h4>Business Corridors</h4>
+  <p><em>Steering Committee definition: Strong and vibrant business corridors with diverse business opportunities to support the economic needs and resiliency of every community</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> How are business and commercial uses distributed across the city, and does this distribution relate to demographics, geography, or other characteristics? How have business and commercial uses changed over time? How much of the city (tracts, area) has seen increased or decreased zoning for business and commercial use? How are changes in business and commercial zoning related to neighborhood characteristics (demographic, income, land uses, proximity to transit, proximity to Loop)? What are the relationships (correlations) between increases/decreases in business and commercial zoning and other neighborhood characteristics? What are the relationships (correlations) between increases/decreases in business and commercial zoning and changes in active businesses or business vacancies?</li>
+        <li><strong>Primary dependent variables:</strong> business vacancy rate, number of active businesses, business diversity score (index created to indicate the breadth of business type in a census tract), total consumer spending amount.</li>
+        <li><strong>Primary independent variables:</strong> share of business and commercial zoning, change in share and square footage of business of commercial zoning over time.</li>
+      </ul></li>
+    <li><span class="pg" data-printed="48" data-pdf="50"></span><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive statistics:</strong> We conducted baseline evaluations to quantify the distribution of business and commercial zoning across the city’s census tracts. We used geospatial mapping to evaluate change over time to show how business and commercial zoning had changed across the city over time, and how it had changed within the Special Service Areas (SSAs).</li>
+        <li><strong>Correlations:</strong> We examined correlations between outcomes of interest (e.g. change in active businesses) and business and commercial zoning, as well as other neighborhood characteristics such as race/ethnicity and household income.</li>
+        <li><strong>Fixed-effects regressions, Analysis of Variance:</strong> To further evaluate the relationship between zoning changes and outcomes of interest, fixed-effects regressions were used to test whether changes in different types of zoning predicted changes in active businesses and business vacancies, controlling for tract and time fixed effects. One-way ANOVAs were also run to test differences in shares of business and commercial zoning across different types of business corridors.</li>
+      </ul></li>
+    <li><strong>Important assumptions that were central to the research findings</strong>
+      <ul>
+        <li>An important assumption made in these analyses is that total shares of business and commercial zoning (both percentage and square footage), as well as the total number of businesses, are meaningful measures of business vibrancy and changes within corridors.</li>
+      </ul></li>
+    <li><strong>Important limitations of the research</strong>
+      <ul>
+        <li>Additional data sources such as revenue or investment, which were not available for these analyses, could provide a more accurate measure of business activity. In addition, these analyses were limited to by-right zoning changes and did not include business and commercial zoning changes that happened within Planned Developments (PDs). Given that PDs—each of which has its own lengthy master agreement summarizing zoning changes—make up a substantial portion of zoning changes over the study period; results could change when factoring in all zoning changes that occurred within them.</li>
+      </ul></li>
+  </ul>
+
+  <h4>Available Groceries and Healthcare <strong class="h-sub">Part 1 (Groceries)</strong></h4>
+  <p><em>Steering Committee definition: Affordable grocery options and healthcare providers are accessible in all neighborhoods</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> What is the distribution of healthy grocery options across the city? Does the distribution of grocery options correlate positively with any specific zone types? Are there zones consistently do not have<!-- sic --> grocery access? How does the distribution of grocery-friendly zones correlate with the distribution of incomes and races across the city? Does the Chicago zoning code encourage grocery locations in any zones?</li>
+        <li><strong>Primary dependent variables:</strong> tract-level total food stores, total healthy food stores, food store density per 1k population, and binary designation as low-income AND low food access tracts (having a poverty rate of at least 20% and more than one-third of residents more than half a mile from a healthy grocery store). We also looked at farmers’ markets, community gardens, and urban farm locations</li>
+        <li><strong>Primary independent variables:</strong> tract share of single-family zoning, low-density multifamily zoning, high-density multifamily zoning, low-mid density business zoning, high-density business zoning, commercial zoning, share of residents of different demographic groups, median home values, median rents, and racial and income segregation/concentration scores</li>
+      </ul></li>
+    <li><span class="pg" data-printed="49" data-pdf="51"></span><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive statistics:</strong> Distribution of healthy grocery stores</li>
+        <li><strong>Correlations:</strong> Healthy grocery options across zone types; Distribution of grocery-friendly zones with incomes and race: Pearsons correlations</li>
+        <li><strong>Qualitative document review + case studies on alternative models:</strong> Chicago zoning code encouragement of grocery stores</li>
+      </ul></li>
+    <li><strong>Important assumptions made that were central to any of the research findings</strong>
+      <ul>
+        <li>The assumptions that informed how the research questions were explored and how the results were interpreted included the fact that grocery siting is only minimally influenced by zoning and instead more broadly determined by legal provisions related to business competition among wholesalers and labor supply dynamics, and that zoning likely only plays a very small role in determining the siting of stores. Consequently, we refrained from any causal investigations that might lead to spurious conclusions. Additional assumptions were present in what data we classified as being “healthy” food stores (i.e., no convenience stores were included nor wholesale marketers or specialty food stores).</li>
+      </ul></li>
+    <li><strong>Limitations of the research</strong>
+      <ul>
+        <li>These results are merely correlational, not causational. Significant findings must be treated with caution given that the data are a cross-section rather than panel. Zoning’s influence on grocery store access appears to be moderated by its influence on housing affordability and income/racial distributions. These distributions in turn dictate the dynamics business owners consider, but even beyond that federal anti-trust legislation enforcement has been found to have the most significant effect on grocery store concentrations and locations. Additional limitations to this research include that it was conducted at the tract level rather than a point plus walkshed approach. It also doesn’t capture parking and transit’s intersections with grocery access.</li>
+      </ul></li>
+  </ul>
+
+  <h4>Available Groceries and Healthcare <strong class="h-sub">Part 2 (Healthcare)</strong></h4>
+  <p><em>Steering Committee definition: Affordable grocery options and healthcare providers are accessible in all neighborhoods.</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> What is the distribution of primary care, physician, pharmacy, and outpatient clinics across the city? Does the zoning code encourage healthcare clinic locations in any zones? Does the distribution of healthcare clinic access correlate positively with any specific zone types? Are there zones consistently do not have<!-- sic --> healthcare clinic access? How does the distribution of the healthcare clinic access-abundant zones correlate with the distribution of incomes and races across the city?</li>
+        <li><strong>Primary dependent variables:</strong> count and density of physician practices and outpatient clinics, physician clinic employees (i.e., healthcare capacity), mental health clinic counts, pharmacy business counts, private insurance</li>
+        <li><strong>Primary independent variables:</strong> tract share of single-family zoning, low-density multifamily zoning, high-density multifamily zoning, low-mid density business zoning, high-density business zoning, commercial zoning, PD-zoned land, share of residents of different demographic groups, median home values, median rents, and racial and income segregation/concentration scores</li>
+      </ul></li>
+    <li><span class="pg" data-printed="50" data-pdf="52"></span><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive statistics:</strong> Distribution of counts and per-capita density of physicians, pharmacies, outpatient clinics, and physician clinic employees per tract.</li>
+        <li><strong>Qualitative document review + case studies on alternative models:</strong> Chicago zoning code encouragement of healthcare clinics</li>
+        <li><strong>Correlations, OLS regressions:</strong> Correlation of healthcare clinic access across zone types; Distribution of healthcare clinic access-abundant zones with incomes and race</li>
+      </ul></li>
+    <li><strong>Important assumptions made that were central to any of the research findings</strong>
+      <ul>
+        <li>We assumed bidirectional relationships between healthcare access and zoning: The amount of power healthcare clinics might have in negotiations with local planning offices is not measurable, and thus it’s not possible to identify whether zoning created healthcare siting or whether healthcare siting desires paved the way for the zoning to be accessible. That is why we restricted the analysis methods to correlations and simple OLS regressions without attempting longitudinal analyses with more complex causal inference mechanisms because it could lead to spurious conclusions that attribute too much influence to zoning when it was in fact negotiated/the other way around.</li>
+      </ul></li>
+    <li><strong>Limitations of research</strong>
+      <ul>
+        <li>One of the most important limitations in these research findings is that zoning has little influence over healthcare clinic siting (since these appeared to have few restrictions from the zoning code and it seemed likely they would be determined by the amount of money their patients could offer via insurance enrollment rates) and instead zoning’s influence on healthcare clinic siting appears to be mostly mediated by its influence on housing affordability/income distributions across the city. The largest limitation of this research is that it was conducted at the tract level rather than the point level, and thus it’s nigh impossible to directly associate the location of healthcare clinics with distinctive zones. Additionally, the available data on counts and density of “physician clinics” is a poor identifier of the key outcome as it doesn’t standardize an operational definition for what counts as access, but it was the best available data source.</li>
+      </ul></li>
+  </ul>
+
+  <h4>Limited Pollution Exposure</h4>
+  <p><em>Steering Committee definition: All neighborhoods feature low levels of pollution, taking into account cumulative impacts on overburdened communities</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> Which places and people experience pollution exposure? Where is the land zoned for manufacturing? How does zoning affect pollution exposure?</li>
+        <li><strong>Primary dependent variables:</strong> overall pollution (combination of multiple pollution variables from EPA’s EJ Screen), air pollution (pm2.5)</li>
+        <li><strong>Primary independent variables:</strong> Chicago zoning districts and policies, amount and share of manufacturing zoning, land use data (CMAP)</li>
+      </ul></li>
+    <li><span class="pg" data-printed="51" data-pdf="53"></span><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive analysis and geospatial mapping:</strong> We conducted baseline evaluations and used geospatial mapping to understand and visualize patterns of air pollution throughout Chicago, focusing on PM 2.5 air pollution and a cumulative pollution index combining several measures of air pollution. We also conducted similar baseline evaluations and used geospatial mapping to understand and visualize how manufacturing zoning and industrial and other heavy uses were distributed across the city by neighborhood and demographics.</li>
+        <li><strong>Correlation tests and OLS regressions:</strong> We ran some correlation tests and OLS regressions to understand what factors (i.e. built environment, demographics, geography, etc.) were statistically significant predictors of higher or lower levels of pollution. We ran some correlation tests to determine if there were any relationships between the amount of land zoned for manufacturing across neighborhoods and pollution levels in those neighborhoods.</li>
+      </ul></li>
+    <li><strong>Important assumptions of research findings</strong>
+      <ul>
+        <li>In this analysis, we assumed that manufacturing zoning and planned manufacturing districts were the primary zoning districts that would have any significant relationship with air pollution, as industrial uses and other highly polluting uses tend to be zoned as such.</li>
+      </ul></li>
+    <li><strong>Important limitations of research</strong>
+      <ul>
+        <li>The pollution data we used was imperfect at the time of our study. EPA data is not as granular for understanding tract-level disparities, and the most granular data we had for pm 2.5 were modelled estimates. We also did not account for all the complexities around air quality measurements and the different sources of air pollution and all of the variables that impact how it spreads throughout neighborhoods. For instance, we did not differentiate between chemical compositions of air pollution to determine whether it came from manufacturing sources vs road or air traffic, trash or wood burning, wildfires, etc. We also did not account for the impacts of wind and weather in how air pollutants disperse throughout neighborhoods. We also largely assumed that all Planned Manufacturing Districts (PMDs) were the same in our analyses and did not account for differences in the intensity of uses and activities within each PMD.</li>
+      </ul></li>
+  </ul>
+
+  <h4>Mitigation and Adaptation to Climate Change</h4>
+  <p><em>Steering Committee definition: All communities feature green infrastructure and energy-efficient building stock that both mitigates and adapts to climate change</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research questions:</strong> Which places and people are most likely to be affected by climate impacts? How is land zoned and used across neighborhoods? How is the way land is zoned and used across neighborhoods related to climate impacts?</li>
+        <li><strong>Primary dependent variables:</strong> heat index (average of morning, afternoon, and evening), combined flood susceptibility index (CMAP’s urban flood susceptibility index combined with City of Chicago 311 flood-related complaints, and a combined heat + flood susceptibility index</li>
+        <li><strong>Primary independent variables:</strong> city zoning districts and policies, CMAP land use data, tree canopy coverage, impervious surfaces</li>
+      </ul></li>
+    <li><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Descriptive analysis and geospatial mapping:</strong> We conducted baseline evaluations and used geospatial mapping to understand and visualize patterns of urban heat and flooding throughout Chicago. We similarly used descriptive statistics and geospatial mapping to understand how vulnerability to urban heat and flooding varied by neighborhood and demographic categories, focusing particularly on relationships with key built environment conditions like tree canopy and impervious surfaces.</li>
+      </ul></li>
+    <li><span class="pg" data-printed="52" data-pdf="54"></span><strong>Important assumptions of research findings</strong>
+      <ul>
+        <li>In this analysis, we recognized that the increasing impacts of climate change on neighborhoods, particularly on urban heat and flooding are influenced by larger and global factors beyond zoning, and that zoning reform may not likely be the most effective solution in climate proofing Chicago. In our research, we focused primarily on the relationships between heat and flooding and built environment conditions, and the ways in which zoning policy can help increase tree canopy and coverage and reduce impervious surfaces across the city. Specifically, we focused on elements of the zoning code such as setback requirements across different zoning districts that influence green space within properties, as well as the City’s landscape ordinance, which regulates tree planting across the city.</li>
+      </ul></li>
+    <li><strong>Important limitations of research</strong>
+      <ul>
+        <li>A major limitation was with the flooding data we had access to. Presently, there is still no data source that accurately captures flooding occurrences at a granular level. For instance, CMAP’s urban flood susceptibility index is a probabilistic index. The City’s 311 flood complaints are somewhat biased toward single family residential neighborhoods. In our analysis, we combined the two data sources to come up with a more robust index for flooding. Another major limitation is that urban heat and flooding are individually complex and are influenced by many different factors that we could not account for in our research. For instance, with regard to urban flooding, we primarily focused on above-ground risk factors such as impervious surfaces and green infrastructure, despite the importance of below-ground infrastructure, such as the City’s sewer system.</li>
+      </ul></li>
+  </ul>
+
+  <h4>Productive Land Use</h4>
+  <p><em>Steering Committee definition: All land in communities is used productively, meaning beneficial to local residents and aligned with community needs</em></p>
+  <ul>
+    <li><strong>Primary research questions and variables used</strong>
+      <ul>
+        <li><strong>Research Questions:</strong> How does access to infrastructure vary across Chicago? How is density distributed across Chicago? How does zoning vary across typologies of infrastructure access and density?</li>
+        <li><strong>Defining and Measuring Infrastructure and Density:</strong> We developed an index to measure infrastructure access and quality, as well as a measure of density focused on both built space and intensity of use, which were overlaid to understand typologies across the city</li>
+        <li><strong>Creating an Urban Services Index (Infrastructure):</strong> Measures of proximity to—and quality of—infrastructure were identified and weighted, in part through feedback from stakeholder workshops, across Education, Transportation, and Neighborhood Amenities
+<span class="pg" data-printed="53" data-pdf="55"></span>
+          <div class="table-wrap"><table class="data-table" data-filterable>
+            <caption>RESPONSIVE: URBAN SERVICES INDEX</caption>
+            <thead>
+              <tr><th scope="col">Category</th><th scope="col">Metric</th><th scope="col">Geography</th><th scope="col">Radius</th><th scope="col">Type</th><th scope="col">Score</th></tr>
+            </thead>
+            <tbody>
+              <tr data-category="Education"><th scope="rowgroup" rowspan="6"><strong>Education</strong> (6 Points)</th><td>Students traveling &lt;15 minutes to school</td><td>Community Area</td><td></td><td>Quality</td><td>1</td></tr>
+              <tr data-category="Education"><td>Proportion attending Zoned or School in Region</td><td>Community Area</td><td></td><td>Quality</td><td>1</td></tr>
+              <tr data-category="Education"><td>Academic Variety (Arts, CTE, World Language)</td><td>Community Area</td><td></td><td>Quality</td><td>1</td></tr>
+              <tr data-category="Education"><td>Early Childhood Programs</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>1.25</td></tr>
+              <tr data-category="Education"><td>K-12</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>1.25</td></tr>
+              <tr data-category="Education"><td>Higher Education</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>0.5</td></tr>
+              <tr data-category="Transportation"><th scope="rowgroup" rowspan="9"><strong>Transportation</strong> (6 points)</th><td>CNT AllTransit Performance Score</td><td>Block Group</td><td></td><td>Quality</td><td>0.5</td></tr>
+              <tr data-category="Transportation"><td>Job Access by Transit</td><td>Block Group</td><td></td><td>Quality</td><td>1</td></tr>
+              <tr data-category="Transportation"><td>Bus Frequent Network</td><td>Block Group</td><td></td><td>Quality</td><td>1</td></tr>
+              <tr data-category="Transportation"><td>Divvy Bike Density</td><td>Block Group</td><td></td><td>Quality</td><td>0.5</td></tr>
+              <tr data-category="Transportation"><td>Protected Bike Infrastructure</td><td>Block Group</td><td></td><td>Quality</td><td>0.5</td></tr>
+              <tr data-category="Transportation"><td>Highway On-Ramp</td><td>BG Average</td><td>1/2 Mile</td><td>Access</td><td>0.25</td></tr>
+              <tr data-category="Transportation"><td>CTA Rail</td><td>BG Average</td><td>1/4 mile</td><td>Access</td><td>1</td></tr>
+              <tr data-category="Transportation"><td>Metra Rail</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>1</td></tr>
+              <tr data-category="Transportation"><td>Pace Bus</td><td>BG Average</td><td>1/8 Mile</td><td>Access</td><td>0.25</td></tr>
+              <tr data-category="Neighborhood Amenities"><th scope="rowgroup" rowspan="8"><strong>Neighborhood Amenities</strong> (6 points)</th><td>Density of Youth Programming</td><td>Block Group</td><td></td><td>Access</td><td>1</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Park</td><td>BG Average</td><td>1/4 mile</td><td>Access</td><td>1</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Special Service Area</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>1</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Library</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>1</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Senior Center</td><td>BG Average</td><td>1 mile</td><td>Access</td><td>0.5</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Community Service Center</td><td>BG Average</td><td>1 mile</td><td>Access</td><td>0.5</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Cook County Forest Preserves</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>0.5</td></tr>
+              <tr data-category="Neighborhood Amenities"><td>Neighborhood Bus. Development Center</td><td>BG Average</td><td>1/2 mile</td><td>Access</td><td>0.5</td></tr>
+            </tbody>
+          </table></div></li>
+        <li><em>Density Score:</em> Equally weights measures of built space and use of space.
+          <ul>
+            <li>Population Density (1 point) – The number of people living in a block group divided by square mileage, based on 2023 ACS 5-Year Estimates.</li>
+            <li>Job Density (1 point) – The number of jobs located in a block group divided by square mileage, based on 2022 LEHD LODES data.</li>
+            <li>Built Space Ratio (2 points) – The square footage of building space in a block group divided by total developable land. For example, A built space ratio of 2.5 would indicate for every square foot of developable land, there is 2.5 square feet of building.</li>
+          </ul></li>
+        <li><em>Building Space:</em> Derived from the city’s 2018 Building Footprints dataset, multiplying footprint by height while correcting square footage for large and atypically shaped buildings.</li>
+        <li><span class="pg" data-printed="54" data-pdf="56"></span><em>Developable Land:</em> Excluded road, rail right-of-way, trails and greenways, parks and open space, stormwater management, water, landfills, and cemeteries.</li>
+      </ul></li>
+    <li><strong>Research and analytical methods</strong>
+      <ul>
+        <li><strong>Urban Service Index and Density Score:</strong> The index and score were calculated at the block group level and broken into citywide quartiles. These quartile rankings were utilized to identify typologies of infrastructure access and density, (High Infrastructure-High Density, Low Infrastructure Low-Density<!-- sic -->, Moderate Infrastructure-Low Density, and Low Infrastructure-Moderate Density). Underlying zoning was examined to understand how land use policy is supporting better use of infrastructure, and future changes to zoning that can support density in high access places.</li>
+      </ul></li>
+    <li><strong>Important assumptions of the research findings</strong>
+      <ul>
+        <li>We assume that people will want to live, work, and visit areas that have proximity to high-quality infrastructure. We also assume that land use policy should support this dynamic by supporting density in areas with high levels of access to public services.</li>
+      </ul></li>
+    <li><strong>Important limitations of research</strong>
+      <ul>
+        <li>Quality of infrastructure is somewhat subjective, and we couldn’t systematically capture elements like good state of repair, barriers to use (like language or cost), or community perceptions.</li>
+        <li>For the Built Space Ratio, we performed quality control on the building footprints dataset but there are likely inaccuracies given the size of the dataset, end date, and given that construction and demolition is perpetually occurring around Chicago.</li>
+        <li>For density by use, we captured only who lives and works in a place, versus those who are just visiting.</li>
+      </ul></li>
+  </ul>
+
+  <h3 id="methodology-additional">Notes on additional analyses</h3>
+  <h4>Zoning Board of Appeals (ZBA) analysis</h4>
+  <p>MPC compiled a dataset of ZBA applications heard by the ZBA using publicly available meeting minutes from 140 total meetings, from April 2012 to October 2023. Total appearances were deduplicated to unique applications, then further narrowed to “closed” applications that had been decided by the ZBA. Application types (e.g. the frequency of hair and nail salons among special use applications) were estimated using the text available in the minutes describing the application, using a combination of text-search and manual checks.</p>
+  <h4>Planned Developments</h4>
+  <p>For the findings in the “Understanding Planned Developments” section, MPC used publicly available zoning data containing high-level underlying data for all of Chicago’s Planned Developments. The dataset contains both the year a Planned Development agreement was created and its size, from which MPC analyzed PD creation trends by size over time. This dataset does not contain information about which land uses the Planned Development allows or other details about each Planned Development. MPC is currently retrieving key information about land uses, bulk and density, and public amenities from individual Planned Development agreements to build a more meaningful dataset.</p>
+</section>

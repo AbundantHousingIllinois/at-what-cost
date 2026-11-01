@@ -1,0 +1,111 @@
+=== mpc PDF page 53 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    51
+[IMAGE 51,753,150,767]
+[B 49,46,218,59]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Research and analytical methods
+[B 49,67,563,128]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Descriptive analysis and geospatial mapping:{ProximaNova-Regular 9.0 #000000} We conducted baseline evaluations and used geospatial mapping 
+  {ProximaNova-Regular 9.0 #000000}to understand and visualize patterns of air pollution throughout Chicago, focusing on PM 2. 5 air pollution and 
+  {ProximaNova-Regular 9.0 #000000}a cumulative pollution index combining several measures of air pollution. We also conducted similar baseline 
+  {ProximaNova-Regular 9.0 #000000}evaluations and used geospatial mapping to understand and visualize how manufacturing zoning and industrial 
+  {ProximaNova-Regular 9.0 #000000}and other heavy uses were distributed across the city by neighborhood and demographics. 
+[B 49,136,559,185]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Correlation tests and OLS regressions: {ProximaNova-Regular 9.0 #000000}We ran some correlation tests and OLS regressions to understand what 
+  {ProximaNova-Regular 9.0 #000000}factors (i. e. built environment, demographics, geography, etc. ) were statistically significant predictors of higher or 
+  {ProximaNova-Regular 9.0 #000000}lower levels of pollution. We ran some correlation tests to determine if there were any relationships between the 
+  {ProximaNova-Regular 9.0 #000000}amount of land zoned for manufacturing across neighborhoods and pollution levels in those neighborhoods.
+[B 49,193,260,206]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•{ProximaNova-Bold 9.0 #000000}	 Important assumptions of research findings
+[B 49,214,554,251]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}In this analysis, we assumed that manufacturing zoning and planned manufacturing districts were the primary 
+  {ProximaNova-Regular 9.0 #000000}zoning districts that would have any significant relationship with air pollution, as industrial uses and other highly 
+  {ProximaNova-Regular 9.0 #000000}polluting uses tend to be zoned as such.
+[B 49,259,216,272]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•{ProximaNova-Bold 9.0 #000000}	 Important limitations of research
+[B 49,280,565,389]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}The pollution data we used was imperfect at the time of our study. EPA data is not as granular for understanding 
+  {ProximaNova-Regular 9.0 #000000}tract-level disparities, and the most granular data we had for pm 2. 5 were modelled estimates. We also did not 
+  {ProximaNova-Regular 9.0 #000000}account for all the complexities around air quality measurements and the different sources of air pollution and 
+  {ProximaNova-Regular 9.0 #000000}all of the variables that impact how it spreads throughout neighborhoods. For instance, we did not differentiate 
+  {ProximaNova-Regular 9.0 #000000}between chemical compositions of air pollution to determine whether it came from manufacturing sources vs road 
+  {ProximaNova-Regular 9.0 #000000}or air traffic, trash or wood burning, wildfires, etc. We also did not account for the impacts of wind and weather in 
+  {ProximaNova-Regular 9.0 #000000}how air pollutants disperse throughout neighborhoods. We also largely assumed that all Planned Manufacturing 
+  {ProximaNova-Regular 9.0 #000000}Districts (PMDs) were the same in our analyses and did not account for differences in the intensity of uses and 
+  {ProximaNova-Regular 9.0 #000000}activities within each PMD.
+[B 49,402,334,423]
+  {ProximaNova-Regular 15.0 #4e5154}Mitigation and Adaptation to Climate Change
+[B 49,429,556,454]
+  {ProximaNova-RegularIt 9.0 #000000}Steering Committee definition: All communities feature green infrastructure and energy-efficient building stock that both mitigates 
+  {ProximaNova-RegularIt 9.0 #000000}and adapts to climate change
+[B 49,462,273,475]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Primary research questions and variables used
+[B 49,483,562,520]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Research questions: {ProximaNova-Regular 9.0 #000000}Which places and people are most likely to be affected by climate impacts? How is land 
+  {ProximaNova-Regular 9.0 #000000}zoned and used across neighborhoods? How is the way land is zoned and used across neighborhoods related to 
+  {ProximaNova-Regular 9.0 #000000}climate impacts?
+[B 49,528,541,565]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Bold 9.0 #000000}Primary dependent variables:{ProximaNova-Regular 9.0 #000000} heat index (average of morning, afternoon, and evening), combined flood 
+  {ProximaNova-Regular 9.0 #000000}susceptibility index (CMAP’s urban flood susceptibility index combined with City of Chicago 311 flood-related 
+  {ProximaNova-Regular 9.0 #000000}complaints, and a combined heat + flood susceptibility index
+[B 49,573,549,598]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Primary independent variables:{ProximaNova-Regular 9.0 #000000} city zoning districts and policies, CMAP land use data, tree canopy coverage, 
+  {ProximaNova-Regular 9.0 #000000}impervious surfaces
+[B 49,606,218,619]
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}	
+  {ProximaNova-Bold 9.0 #000000}•	 Research and analytical methods
+[B 49,627,558,688]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}o	
+  {ProximaNova-Regular 9.0 #000000}{ProximaNova-Bold 9.0 #000000}Descriptive analysis and geospatial mapping:{ProximaNova-Regular 9.0 #000000} We conducted baseline evaluations and used geospatial 
+  {ProximaNova-Regular 9.0 #000000}mapping to understand and visualize patterns of urban heat and flooding throughout Chicago. We similarly used 
+  {ProximaNova-Regular 9.0 #000000}descriptive statistics and geospatial mapping to understand how vulnerability to urban heat and flooding varied 
+  {ProximaNova-Regular 9.0 #000000}by neighborhood and demographic categories, focusing particularly on relationships with key built environment 
+  {ProximaNova-Regular 9.0 #000000}conditions like tree canopy and impervious surfaces.

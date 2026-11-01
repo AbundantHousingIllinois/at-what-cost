@@ -1,0 +1,98 @@
+=== mpc PDF page 47 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    45
+[IMAGE 51,753,150,767]
+[B 53,50,486,66]
+  {ProximaNova-Bold 11.0 #ffffff}Variable
+  {ProximaNova-Bold 11.0 #ffffff}Data Source(s)
+  {ProximaNova-Bold 11.0 #ffffff}Data Year(s)
+  {ProximaNova-Bold 11.0 #ffffff}Outcomes
+[B 53,68,209,91]
+  {ProximaNova-Regular 9.0 #000000}Cook County Forest Preserves within ½ 
+  {ProximaNova-Regular 9.0 #000000}mile
+[B 228,68,516,81]
+  {ProximaNova-Regular 9.0 #000000}Cook County Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,94,204,117]
+  {ProximaNova-Regular 9.0 #000000}Neighborhood Business Development 
+  {ProximaNova-Regular 9.0 #000000}Center within ½ mile
+[B 228,94,516,107]
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 49,133,211,149]
+  {ProximaNova-Bold 11.0 #000000}Geographic shapefiles and layers
+[B 54,150,488,166]
+  {ProximaNova-Bold 11.0 #ffffff}Layer
+  {ProximaNova-Bold 11.0 #ffffff}Data Source(s)
+  {ProximaNova-Bold 11.0 #ffffff}Data Year(s)
+  {ProximaNova-Bold 11.0 #ffffff}Outcomes
+[B 53,167,337,200]
+  {ProximaNova-Regular 9.0 #000000}Zoning Districts
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Department 
+  {ProximaNova-Regular 9.0 #000000}of Planning and 
+  {ProximaNova-Regular 9.0 #000000}Development
+[B 351,167,489,180]
+  {ProximaNova-Regular 9.0 #000000}2003, 2012, 2023
+  {ProximaNova-Regular 9.0 #000000}All Outcomes
+[B 53,204,313,226]
+  {ProximaNova-Regular 9.0 #000000}Land Use Inventories
+  {ProximaNova-Regular 9.0 #000000}Chicago Metropolitan 
+  {ProximaNova-Regular 9.0 #000000}Agency for Planning
+[B 351,204,489,216]
+  {ProximaNova-Regular 9.0 #000000}2000, 2012, 2020
+  {ProximaNova-Regular 9.0 #000000}All Outcomes
+[B 53,230,542,252]
+  {ProximaNova-Regular 9.0 #000000}Special Service Areas (SSAs)
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Strong Business Corridors, 
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,256,540,268]
+  {ProximaNova-Regular 9.0 #000000}Industrial Corridors
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2024
+  {ProximaNova-Regular 9.0 #000000}Limited Pollution Exposure
+[B 53,272,336,295]
+  {ProximaNova-Regular 9.0 #000000}Historical Downzoning by Decade
+  {ProximaNova-Regular 9.0 #000000}George Kisiel, Okrent Kisiel 
+  {ProximaNova-Regular 9.0 #000000}Associates, Inc. mp
+[B 351,272,512,295]
+  {ProximaNova-Regular 9.0 #000000}1970, 1980, 1990, 
+  {ProximaNova-Regular 9.0 #000000}2000, 2010, 2016
+  {ProximaNova-Regular 9.0 #000000}Affordable Housing
+[B 53,298,329,321]
+  {ProximaNova-Regular 9.0 #000000}CTA Rail Stations
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 351,298,560,321]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs, 
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,324,555,337]
+  {ProximaNova-Regular 9.0 #000000}CTA Frequent Bus Network
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs
+[B 53,340,329,363]
+  {ProximaNova-Regular 9.0 #000000}Metra Rail Stations
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 351,340,560,363]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs, 
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,366,329,389]
+  {ProximaNova-Regular 9.0 #000000}Pace Bus Routes
+  {ProximaNova-Regular 9.0 #000000}Regional Transit Authority 
+  {ProximaNova-Regular 9.0 #000000}Data Portal
+[B 351,366,560,389]
+  {ProximaNova-Regular 9.0 #000000}2025
+  {ProximaNova-Regular 9.0 #000000}Accessible Public Transit Hubs, 
+  {ProximaNova-Regular 9.0 #000000}Productive Land Use
+[B 53,392,538,405]
+  {ProximaNova-Regular 9.0 #000000}Pedestrian Streets
+  {ProximaNova-Regular 9.0 #000000}City of Chicago Data Portal
+  {ProximaNova-Regular 9.0 #000000}2024
+  {ProximaNova-Regular 9.0 #000000}Strong Business Corridors

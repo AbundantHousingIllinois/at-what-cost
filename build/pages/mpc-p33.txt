@@ -1,0 +1,97 @@
+=== mpc PDF page 33 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    31
+[IMAGE 51,753,150,767]
+[IMAGE 257,51,287,82]
+[B 110,65,502,103]
+  {ProximaNova-Regular 15.0 #4f7a60}The vision:  
+  {ProximaNova-Regular 15.0 #4f7a60}Tie zoning to foundational citywide planning and engagement
+[IMAGE 49,125,68,144]
+[B 73,125,556,149]
+  {ProximaNova-Extrabld 9.0 #4f7a60}Periodically update zoning to align with a planning vision: {ProximaNova-Regular 9.0 #4f7a60}Require regular reviews of the zoning code and map based on 
+  {ProximaNova-Regular 9.0 #4f7a60}comprehensive citywide planning that meaningfully engages the public.
+[B 49,158,562,242]
+  {ProximaNova-Regular 9.0 #000000}MPC recommends that Chicago regularly engage in comprehensive citywide planning and meaningfully engage the public in 
+  {ProximaNova-Regular 9.0 #000000}coordinated neighborhood planning that connects to a citywide comprehensive plan. Comprehensive planning could reconcile 
+  {ProximaNova-Regular 9.0 #000000}competing priorities; guide the development of vibrant, walkable business corridors across the city; buffer high-impact industry from 
+  {ProximaNova-Regular 9.0 #000000}homes; address our climate-related vulnerabilities; and make room for the homes that we need as a city to address our affordability 
+  {ProximaNova-Regular 9.0 #000000}crisis. Comprehensive planning can also be a tool to guide public investment. It is essential that this comprehensive citywide 
+  {ProximaNova-Regular 9.0 #000000}planning be durable and long-term enough to extend beyond individual mayoral administrations; tied to mandated corresponding 
+  {ProximaNova-Regular 9.0 #000000}land use updates; and reliably budgeted and staffed by the City.
+[IMAGE 49,251,68,270]
+[B 73,251,564,275]
+  {ProximaNova-Extrabld 9.0 #4f7a60}Improve public input processes:{ProximaNova-Regular 9.0 #304362} {ProximaNova-Regular 9.0 #4f7a60}Create a more standardized, transparent, and equitable public input process for public input 
+  {ProximaNova-Regular 9.0 #4f7a60}on land use.
+[B 58,293,248,309]
+  {ProximaNova-Bold 11.0 #000000}City Spotlight: Minneapolis, Minnesota 
+[B 58,319,313,368]
+  {ProximaNova-Bold 9.0 #000000}COMPREHENSIVE PLANNING 
+  {ProximaNova-Regular 9.0 #000000}Minnesota state statute requires local governments in the Twin 
+  {ProximaNova-Regular 9.0 #000000}Cities metropolitan area to keep their comprehensive plans up to 
+  {ProximaNova-Regular 9.0 #000000}date and consistent with zoning rules and regional planning goals.
+[B 58,376,309,401]
+  {ProximaNova-Regular 9.0 #000000}•	 Local governments must review their comprehensive plans at 
+  {ProximaNova-Regular 9.0 #000000}least every 10 years.
+[B 58,409,307,434]
+  {ProximaNova-Regular 9.0 #000000}•	 The local governments must update their plans as needed to 
+  {ProximaNova-Regular 9.0 #000000}stay consistent with the regional planning organization’s plan.
+[B 58,442,305,467]
+  {ProximaNova-Regular 9.0 #000000}•	 Zoning and other local regulations must generally match the 
+  {ProximaNova-Regular 9.0 #000000}comprehensive plan.
+[B 58,475,314,572]
+  {ProximaNova-Regular 9.0 #000000}•	 When plans are updated, neighboring communities and 
+  {ProximaNova-Regular 9.0 #000000}affected public agencies get an opportunity to review and 
+  {ProximaNova-Regular 9.0 #000000}comment. In 2019, Minneapolis’ 2040 Comprehensive Plan 
+  {ProximaNova-Regular 9.0 #000000}included recommendations for major land use reforms, like the 
+  {ProximaNova-Regular 9.0 #000000}legalization of duplexes and triplexes citywide, and increased 
+  {ProximaNova-Regular 9.0 #000000}density allowance along transit and commercial corridors. This 
+  {ProximaNova-Regular 9.0 #000000}comprehensive planning process led to concrete changes to 
+  {ProximaNova-Regular 9.0 #000000}the zoning code.
+[B 58,583,319,680]
+  {ProximaNova-Bold 9.0 #000000}PUBLIC ENGAGEMENT 
+  {ProximaNova-Regular 9.0 #000000}In 2007, the Minneapolis City Council adopted the Core Principles 
+  {ProximaNova-Regular 9.0 #000000}of Community Engagement from The International Association 
+  {ProximaNova-Regular 9.0 #000000}of Public Participation. These principles were expanded in 
+  {ProximaNova-Regular 9.0 #000000}the “Blueprint for Equitable Engagement” in 2015. The City of 
+  {ProximaNova-Regular 9.0 #000000}Minneapolis’ Neighborhood and Community Relations Department 
+  {ProximaNova-Regular 9.0 #000000}follows this blueprint department-wide, and it was used to facilitate 
+  {ProximaNova-Regular 9.0 #000000}meaningful public engagement in the 2040 Comprehensive Plan.
+[B 337,284,563,356]
+  {ProximaNova-Regular 9.0 #000000}MPC envisions shifting away from the status quo of 
+  {ProximaNova-Regular 9.0 #000000}projct-by-project community meetings as projects wind 
+  {ProximaNova-Regular 9.0 #000000}their way through various decision-making bodies. 
+  {ProximaNova-Regular 9.0 #000000}Instead, we recommend that public feedback occur at the 
+  {ProximaNova-Regular 9.0 #000000}neighborhood and city level, feeding into coordinated 
+  {ProximaNova-Regular 9.0 #000000}neighborhood and city planning. 
+[B 337,365,564,497]
+  {ProximaNova-Regular 9.0 #000000}With this shift, there also needs to be an updated 
+  {ProximaNova-Regular 9.0 #000000}approach to public engagement itself. Where there are 
+  {ProximaNova-Regular 9.0 #000000}opportunities for public input on neighborhood and 
+  {ProximaNova-Regular 9.0 #000000}city planning, this engagement should be conducted in 
+  {ProximaNova-Regular 9.0 #000000}standardized and predictable ways across neighborhoods 
+  {ProximaNova-Regular 9.0 #000000}or wards, guided by a central coordinating agency. Within 
+  {ProximaNova-Regular 9.0 #000000}the bounds of predetermined policy must-haves, such as 
+  {ProximaNova-Regular 9.0 #000000}the need for more affordable housing, participants should 
+  {ProximaNova-Regular 9.0 #000000}be able to meaningfully change the outcome, and that 
+  {ProximaNova-Regular 9.0 #000000}process should be genuinely accessible to all who are 
+  {ProximaNova-Regular 9.0 #000000}interested in participating. 
+[B 337,506,561,518]
+  {ProximaNova-Regular 9.0 #000000}This could mean, as a starting point, approaches such as: 
+[B 346,527,557,563]
+  {ProximaNova-Regular 9.0 #000000}•  clear messaging in advance about what is being 
+  {ProximaNova-Regular 9.0 #000000}decided, how the public can weigh in, and what can 
+  {ProximaNova-Regular 9.0 #000000}or cannot legally be considered in that decision
+[B 346,572,543,608]
+  {ProximaNova-Regular 9.0 #000000}•  holding meetings in neighborhoods, rather than  
+  {ProximaNova-Regular 9.0 #000000}City Hall, and at a time outside of traditional  
+  {ProximaNova-Regular 9.0 #000000}business hours
+[B 346,617,543,641]
+  {ProximaNova-Regular 9.0 #000000}•  intentionally recruiting participants through local 
+  {ProximaNova-Regular 9.0 #000000}organizations and institutions
+[B 346,650,544,674]
+  {ProximaNova-Regular 9.0 #000000}•  reducing barriers with support for transportation, 
+  {ProximaNova-Regular 9.0 #000000}childcare, translation, or compensation.{ProximaNova-Regular 5.2 #000000} 26{ProximaNova-Regular 9.0 #000000} 
+[B 49,712,518,722]
+  {ProximaNova-Regular 7.5 #4e5154}26 For more on best practices for equitable public engagement, see {ProximaNova-Regular 7.5 #0000ff}“Exploring zoning-related public engagement | Part 2/2”{ProximaNova-Regular 7.5 #4e5154} on MPC’s website.
+--- LINKS ---
+  [“Exploring zoning-related public engagement | Part 2/2”] -> https://metroplanning.org/exploring-zoning-related-public-engagement-part-2-2/

@@ -1,0 +1,50 @@
+=== mpc PDF page 16 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    14
+[IMAGE 51,753,150,767]
+[B 58,48,237,96]
+  {ProximaNova-Black 32.0 #4e5154}60%{ProximaNova-Regular 15.0 #4e5154} of all new homes 
+[B 58,91,234,112]
+  {ProximaNova-Regular 15.0 #4e5154}added in Chicago between 
+[B 58,115,213,136]
+  {ProximaNova-Regular 15.0 #4e5154}2006 and 2024 were in 
+[B 58,123,207,171]
+  {ProximaNova-Regular 15.0 #4e5154}just {ProximaNova-Black 32.0 #4e5154}5{ProximaNova-Regular 15.0 #4e5154} of Chicago’s 77 
+[B 58,163,208,184]
+  {ProximaNova-Regular 15.0 #4e5154}community areas: Near 
+[B 58,187,238,208]
+  {ProximaNova-Regular 15.0 #4e5154}North Side, Near West Side, 
+[B 58,211,235,232]
+  {ProximaNova-Regular 15.0 #4e5154}Loop, West Town, and Near 
+[B 58,235,127,256]
+  {ProximaNova-Regular 15.0 #4e5154}South Side
+[IMAGE 266,70,280,84]
+[B 266,67,563,140]
+  {ProximaNova-Extrabld 9.0 #4e717a}New housing is concentrated in just a few neighborhoods.{ProximaNova-Extrabld 9.0 #6a2310} {ProximaNova-Regular 9.0 #000000}Most 
+  {ProximaNova-Regular 9.0 #000000}community areas (45 out of 77) have built fewer than 500 new homes 
+  {ProximaNova-Regular 9.0 #000000}since 2006. The majority (60%) of the approximately 120,000 new housing 
+  {ProximaNova-Regular 9.0 #000000}units built in the city since 2006 were concentrated in just five community 
+  {ProximaNova-Regular 9.0 #000000}areas: Near North Side (19%); Near West Side (14%); Loop (13%); West Town 
+  {ProximaNova-Regular 9.0 #000000}(7%); Near South Side (7%).{ProximaNova-Regular 5.2 #000000} 8{ProximaNova-Regular 9.0 #000000} 
+[IMAGE 266,151,280,165]
+[B 266,148,561,233]
+  {ProximaNova-Extrabld 9.0 #4e717a}Most new housing is being built through the Planned 
+  {ProximaNova-Extrabld 9.0 #4e717a}Development process. {ProximaNova-Regular 9.0 #000000}From 2006 to 2024, 58% of new housing 
+  {ProximaNova-Regular 9.0 #000000}units—and 68% of new housing units in projects with five or more units—
+  {ProximaNova-Regular 9.0 #000000}were built as part of a Planned Development (PD), a type of zoning 
+  {ProximaNova-Regular 9.0 #000000}amendment and in-depth project review, as opposed to built under by-right 
+  {ProximaNova-Regular 9.0 #000000}zoning. This means Planned Developments are playing an outsized role in 
+  {ProximaNova-Regular 9.0 #000000}our development environment. For more on PDs, see {ProximaNova-Regular 9.0 #0000ff}page 17
+[B 49,297,282,310]
+  {ProximaNova-Bold 9.0 #000000}Permits for new housing, by project unit count, 2006-2024
+[IMAGE 49,322,562,640]
+[B 49,644,452,663]
+  {ProximaNova-RegularIt 7.5 #000000}New units permitted between 2006 and 2024. Most new multifamily units were constructed in Planned Development areas. 
+  {ProximaNova-RegularIt 7.5 #000000}Created by Urban Institute. Source: Building permit data, City of Chicago
+[B 49,712,555,733]
+  {ProximaNova-Regular 7.5 #4e5154}8 For more on the concentration of housing units in and near downtown, see Urban Institute, {ProximaNova-Regular 7.5 #0000ff}“Zoning Restrictions and Demand Have Divided Chicago into 
+  {ProximaNova-Regular 7.5 #0000ff}Three “Cities,” Limiting Housing Availability,”{ProximaNova-Regular 7.5 #4e5154} Yonah Freemark, December 2024.
+--- LINKS ---
+  [g an ou  page 17] -> internal page 19
+  [“Zoning Restrictions and Demand Have Divided Chicago into] -> https://www.urban.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing
+  [8 For more on the concentration of housin Three “Cities,” Limiting Housing Availability,”] -> https://www.urban.org/urban-wire/zoning-restrictions-and-demand-have-divided-chicago-three-cities-limiting-housing

@@ -1,0 +1,64 @@
+=== mpc PDF page 3 (w=612 h=792) ===
+[B 372,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    1
+[IMAGE 51,753,150,767]
+[IMAGE 49,49,563,184]
+[B 76,75,132,91]
+  {ProximaNova-Bold 11.0 #000000}About MPC
+[B 76,99,531,171]
+  {ProximaNova-Regular 9.0 #000000}Metropolitan Planning Council (MPC) charts the policies, plans, and innovations that build a good life for people 
+  {ProximaNova-Regular 9.0 #000000}in Chicago, its suburbs, and American cities. An independent think tank, we network across divides and drive 
+  {ProximaNova-Regular 9.0 #000000}collaborative action with private and public stakeholders to evaluate policies, design new practices, and advocate for 
+  {ProximaNova-Regular 9.0 #000000}enduring and large-scale change in every area of city living. We believe the American dream will become possible 
+  {ProximaNova-Regular 9.0 #000000}when cities are accessible places to live, work, and get around, and when all residents can experience upward 
+  {ProximaNova-Regular 9.0 #000000}economic mobility.
+[B 49,190,150,217]
+  {IvyPrestoHeadline-Regula 20.0 #e36841}Introduction
+[B 49,230,547,302]
+  {ProximaNova-Regular 9.0 #000000}Chicago's zoning code shapes far more than building heights and lot sizes: it determines who can afford to live here, where 
+  {ProximaNova-Regular 9.0 #000000}economic opportunity takes root, and how equitably the city's future growth is shared. This report presents findings from a three-
+  {ProximaNova-Regular 9.0 #000000}year study by Metropolitan Planning Council, examining how zoning law and regulation have influenced housing availability and 
+  {ProximaNova-Regular 9.0 #000000}affordability, business vitality, and adaptation to climate risks across the city. Grounded in the values of equity, sustainability, 
+  {ProximaNova-Regular 9.0 #000000}and public health, the research draws on an extensive engagement process involving more than 700 individuals from over 450 
+  {ProximaNova-Regular 9.0 #000000}organizations, including government agencies, community organizations, ward offices, and private sector partners.
+[B 49,311,558,371]
+  {ProximaNova-Regular 9.0 #000000}The findings reveal a city constrained by its own regulatory framework. Just 11% of Chicago is zoned for multifamily housing{ProximaNova-Regular 5.2 #000000}1{ProximaNova-Regular 9.0 #000000}, while 
+  {ProximaNova-Regular 9.0 #000000}41% is reserved for the most expensive and land-intensive housing type: detached single-family homes. The consequences of our 
+  {ProximaNova-Regular 9.0 #000000}outdated zoning system are stark and geographically concentrated. For example, 60% of new housing built since 2006 has landed 
+  {ProximaNova-Regular 9.0 #000000}in just five community areas, while 45 of Chicago's 77 community areas have added fewer than 500 new homes in nearly two 
+  {ProximaNova-Regular 9.0 #000000}decades. Meanwhile, Black and Latinx residents have experienced sharp declines in affordability over the last two decades.
+[B 57,388,281,456]
+  {ProximaNovaCond-Extrabld 18.0 #6a2310}60%{ProximaNovaCond-Regular 10.5 #000000} of the approximately {ProximaNovaCond-Bold 10.5 #000000}120,000{ProximaNovaCond-Regular 10.5 #000000} 
+  {ProximaNovaCond-Regular 10.5 #000000}new housing units in the city built 
+  {ProximaNovaCond-Regular 10.5 #000000}since 2006 were concentrated in just 
+  {ProximaNovaCond-Extrabld 18.0 #6a2310}5{ProximaNovaCond-Regular 10.5 #000000} community areas.
+  {ProximaNovaCond-Semibold 8.5 #ffffff}Near North Side 
+  {ProximaNovaCond-Semibold 8.5 #ffffff}(19%)
+[B 289,429,324,450]
+  {ProximaNovaCond-Semibold 8.5 #ffffff}Near West 
+  {ProximaNovaCond-Semibold 8.5 #ffffff}Side (14%)
+[B 338,429,373,441]
+  {ProximaNovaCond-Semibold 8.5 #ffffff}Loop (13%)
+[B 443,446,511,458]
+  {ProximaNovaCond-Semibold 8.5 #000000}Near South Side (7%)
+[B 429,429,480,441]
+  {ProximaNovaCond-Semibold 8.5 #000000}West Town (7%)
+[B 49,485,563,569]
+  {ProximaNova-Regular 9.0 #000000}These disparities extend beyond housing into the economic fabric of neighborhoods. Business concentration follows similar 
+  {ProximaNova-Regular 9.0 #000000}patterns of inequity: majority-white census tracts average 14. 7 businesses per 1,000 residents, compared to just 8. 6 in majority-Black 
+  {ProximaNova-Regular 9.0 #000000}tracts, a gap tied in part to how zoning allocates space for walkable, pedestrian-oriented commercial corridors. Zoning also has 
+  {ProximaNova-Regular 9.0 #000000}tangible impacts on air, water, and land. Our research shows that Latinx Chicagoans make up 50% of the population in the top fifth 
+  {ProximaNova-Regular 9.0 #000000}most air-polluted areas—and that Latinx neighborhoods tend to have more land zoned 
+  {ProximaNova-Regular 9.0 #000000}for industrial use. These disparities pose both health and economic risks for Chicago’s 
+  {ProximaNova-Regular 9.0 #000000}population.
+[B 49,578,379,614]
+  {ProximaNova-Bold 9.0 #000000}This report argues that hyper-local control, absent a coherent citywide strategy, 
+  {ProximaNova-Bold 9.0 #000000}comes at a real cost to residents' lives. {ProximaNova-Regular 9.0 #000000}What follows are the key findings and policy 
+  {ProximaNova-Regular 9.0 #000000}recommendations to build a more equitable and thriving Chicago.
+[B 49,692,559,722]
+  {ProximaNova-Regular 7.5 #4e5154}1 8% of the city is zoned Residential Two-Flat, Townhouse, and Multi-Unit (RT), and 3% is zoned Residential Multi-Unit (RM). Many, but not all B, C, and D 
+  {ProximaNova-Regular 7.5 #4e5154}districts also allow the development of housing units as part of mixed-use development. Some districts require that multi-unit residential development receive 
+  {ProximaNova-Regular 7.5 #4e5154}special use approval. These districts together cover about 10% of the city.
+[IMAGE 384,541,565,671]
+[B 464,656,559,667]
+  {ProximaNova-RegularIt 7.5 #000000}illustration: Lucie Van der Elst

@@ -1,0 +1,85 @@
+=== mpc PDF page 23 (w=612 h=792) ===
+[B 368,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    21
+[IMAGE 51,753,150,767]
+[IMAGE 244,55,274,85]
+[B 120,69,499,106]
+  {ProximaNova-Regular 15.0 #ffffff}The challenge:  
+  {ProximaNova-Regular 15.0 #ffffff}Too many Chicagoans are exposed to unhealthy pollutants  
+[B 200,101,412,122]
+  {ProximaNova-Regular 15.0 #ffffff}and vulnerable to climate impacts
+[B 58,134,206,150]
+  {ProximaNova-Bold 11.0 #000000}Terms you’ll see in this section
+[B 58,158,336,194]
+  {ProximaNova-Bold 9.0 #000000}pollution: {ProximaNova-Regular 9.0 #000000}waste that contaminates our air, land, and water; in this 
+  {ProximaNova-Regular 9.0 #000000}analysis, measured through an index that includes many different types 
+  {ProximaNova-Regular 9.0 #000000}of pollution, released by U. S. EPA
+[B 58,202,342,239]
+  {ProximaNova-Bold 9.0 #000000}air pollution: {ProximaNova-Regular 9.0 #000000}small particulates in the air, also known as PM2. 5, known to 
+  {ProximaNova-Regular 9.0 #000000}have harmful effects on health; in this analysis, estimated using satellite 
+  {ProximaNova-Regular 9.0 #000000}data, from researchers at the University of Illinois Chicago
+[B 58,247,319,284]
+  {ProximaNova-Bold 9.0 #000000}combined heat + flood susceptibility:{ProximaNova-Regular 9.0 #000000} an index combining multiple 
+  {ProximaNova-Regular 9.0 #000000}data sources on flooding and felt heat (accounting for both all-day 
+  {ProximaNova-Regular 9.0 #000000}temperature and humidity), compiled by MPC
+[B 361,136,562,257]
+  {ProximaNova-Regular 9.0 #000000}Environmental hazards like pollution, heat, and 
+  {ProximaNova-Regular 9.0 #000000}flooding are major threats to Chicagoans’ health 
+  {ProximaNova-Regular 9.0 #000000}and well-being.{ProximaNova-Regular 5.2 #000000} 14{ProximaNova-Regular 9.0 #000000} Our analysis shows that all 
+  {ProximaNova-Regular 9.0 #000000}Chicagoans are being exposed to air pollution at 
+  {ProximaNova-Regular 9.0 #000000}unhealthy levels, but some populations, particularly 
+  {ProximaNova-Regular 9.0 #000000}Latinx Chicagoans, are much more exposed than 
+  {ProximaNova-Regular 9.0 #000000}others. Susceptibility to heat and flooding are 
+  {ProximaNova-Regular 9.0 #000000}likewise inequitably distributed, with Black and 
+  {ProximaNova-Regular 9.0 #000000}Latinx Chicagoans overrepresented in the areas 
+  {ProximaNova-Regular 9.0 #000000}more likely to experience climate impacts. 
+[B 49,265,558,338]
+  {ProximaNova-Regular 9.0 #000000}The majority of land in Chicago with high heat and 
+  {ProximaNova-Regular 9.0 #000000}flood susceptibility is zoned for residential use, 
+  {ProximaNova-Regular 9.0 #000000}meaning adapting residential land to also address 
+  {ProximaNova-Regular 9.0 #000000}climate change through both mitigation and adaptation will be essential to combat these climate risks. The research also shows a 
+  {ProximaNova-Regular 9.0 #000000}strong correlation between manufacturing zoning and pollution levels. Black and Latinx Chicagoans tend to see larger amounts of 
+  {ProximaNova-Regular 9.0 #000000}land zoned for manufacturing, and a greater likelihood of heavier manufacturing in their neighborhoods.
+[IMAGE 49,350,62,363]
+[B 49,346,559,383]
+  {ProximaNova-Extrabld 9.0 #57657a}All Chicagoans breathe unhealthy air. {ProximaNova-Regular 9.0 #000000}All across the city, Chicagoans are exposed to small particulate air pollution at higher 
+  {ProximaNova-Regular 9.0 #000000}levels than recommended by 2024 US EPA public health standards for long-term exposure (9 micrograms per cubic meter). 
+  {ProximaNova-Regular 9.0 #000000}Estimated levels across Chicago range from about 9 to 12 micrograms per cubic meter on an average summer day.
+[B 49,398,273,411]
+  {ProximaNova-Bold 9.0 #000000}Racial Composition in Highest and Lowest PM 2.5 Tracts
+[IMAGE 324,397,553,690]
+[B 49,425,267,438]
+  {ProximaNova-Semibold 9.0 #000000}Racial composition in highest and lowest PM 2.5 tracts
+[B 337,395,525,408]
+  {ProximaNova-Semibold 9.0 #000000}Small particulate air pollution exposure citywide
+[B 64,448,262,459]
+  {ProximaNovaCond-Semibold 8.0 #000000}Latinx
+  {ProximaNovaCond-Semibold 8.0 #000000}White
+  {ProximaNovaCond-Semibold 8.0 #000000}Black
+  {ProximaNovaCond-Semibold 8.0 #000000}Asian
+[B 49,659,310,669]
+  {ProximaNova-RegularIt 7.5 #000000}Source: University of Illinois HeRoP Lab; Data collected between 2014 and 2018
+[B 49,604,107,623]
+  {ProximaNovaCond-Medium 8.0 #000000}City of Chicago
+  {ProximaNovaCond-Medium 8.0 #000000}Racial Composition
+[B 154,596,203,624]
+  {ProximaNovaCond-Medium 8.0 #000000}Highest PM 2.5 
+  {ProximaNovaCond-Medium 8.0 #000000}Tracts (Top 20%
+  {ProximaNovaCond-Medium 8.0 #000000}of Tracts)
+[B 232,596,278,624]
+  {ProximaNovaCond-Medium 8.0 #000000}Lowest PM 2.5 
+  {ProximaNovaCond-Medium 8.0 #000000}Tracts (Bottom 
+  {ProximaNovaCond-Medium 8.0 #000000}20% of Tracts)
+[B 57,572,270,582]
+  {ArialNarrow-Bold 7.2 #64676b}5%
+  {ArialNarrow-Bold 7.2 #6a2310}9%
+  {ArialNarrow-Bold 7.2 #6a2310}10%
+  {ArialNarrow-Bold 7.2 #64676b}43%
+  {ArialNarrow-Bold 7.2 #6a2310}29%
+  {ArialNarrow-Bold 7.2 #64676b}34%
+  {ArialNarrow-Bold 7.2 #6a2310}50%
+  {ArialNarrow-Bold 7.2 #64676b}15%
+[B 49,712,549,722]
+  {ProximaNova-Regular 7.5 #4e5154}14 For example, PM2. 5 air pollution causes an estimated 5% of all premature deaths in the city. See City of Chicago, {ProximaNova-Regular 7.5 #0000ff}“Air Quality and Health Report,”{ProximaNova-Regular 7.5 #4e5154} 2020.
+--- LINKS ---
+  [“Air Quality and Health Report,”] -> https://www.chicago.gov/content/dam/city/depts/doe/supp_info/Air_Quality_Health_doc_FINALv4.pdf

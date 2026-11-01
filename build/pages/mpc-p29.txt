@@ -1,0 +1,66 @@
+=== mpc PDF page 29 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    27
+[IMAGE 51,753,150,767]
+[IMAGE 244,53,274,83]
+[B 112,67,500,104]
+  {ProximaNova-Regular 15.0 #ffffff}The challenge:  
+  {ProximaNova-Regular 15.0 #ffffff}Zoning and land use policy is opaque and difficult to navigate
+[B 58,140,233,227]
+  {ProximaNova-Regular 15.0 #4e5154}At least {ProximaNova-Black 32.0 #4e5154}28{ProximaNova-Regular 15.0 #4e5154} geographic 
+  {ProximaNova-Regular 15.0 #4e5154}overlays exist in the zoning 
+  {ProximaNova-Regular 15.0 #4e5154}code, layered on top of 
+  {ProximaNova-Regular 15.0 #4e5154}standard zoning districts.
+[B 253,127,564,247]
+  {ProximaNova-Regular 9.0 #000000}Navigating zoning in Chicago can be extremely complex. There are at least 67 
+  {ProximaNova-Regular 9.0 #000000}zoning districts,{ProximaNova-Regular 5.2 #000000}16{ProximaNova-Regular 9.0 #000000} with at least 28 geographic overlays layered on top of these 
+  {ProximaNova-Regular 9.0 #000000}districts.{ProximaNova-Regular 5.2 #000000} 17{ProximaNova-Regular 9.0 #000000} At least 180 specific land use types are listed in the zoning code, and 
+  {ProximaNova-Regular 9.0 #000000}at least five government decision-making bodies{ProximaNova-Regular 5.2 #000000}18{ProximaNova-Regular 9.0 #000000} make official decisions about 
+  {ProximaNova-Regular 9.0 #000000}zoning. Contingencies and overlay geographies written into the code can make 
+  {ProximaNova-Regular 9.0 #000000}identifying specific requirements, like setbacks and other bulk and density 
+  {ProximaNova-Regular 9.0 #000000}requirements, a mazelike task. Adding to all this complexity is the reality of 
+  {ProximaNova-Regular 9.0 #000000}aldermanic control over zoning decisions, which takes a variety of forms across 
+  {ProximaNova-Regular 9.0 #000000}wards, as well as the increasingly common use of Planned Developments as a 
+  {ProximaNova-Regular 9.0 #000000}development vehicle (see {ProximaNova-Regular 9.0 #0000ff}page 17{ProximaNova-Regular 9.0 #000000}). 
+[B 49,256,563,304]
+  {ProximaNova-Regular 9.0 #000000}For a resident interested in understanding how zoning impacts their neighborhood, excess complexity can make city government 
+  {ProximaNova-Regular 9.0 #000000}inaccessible, which erodes trust. And when complexity becomes standard, even for types of development that meet citywide goals, 
+  {ProximaNova-Regular 9.0 #000000}the result is added costs and delays, creating an unpredictable development environment. Those with the resources to navigate the 
+  {ProximaNova-Regular 9.0 #000000}system and weather delays—such as land use attorneys and/or surplus financing—are the ones who benefit.
+[B 49,313,564,385]
+  {ProximaNova-Regular 9.0 #000000}One place this dynamic plays out is the zoning landscape for small businesses. To better understand how zoning complexity impacts 
+  {ProximaNova-Regular 9.0 #000000}small businesses, MPC examined processes like the Zoning Board of Appeals (ZBA){ProximaNova-Regular 5.2 #000000}19{ProximaNova-Regular 9.0 #000000}, a quasi-judicial voting body that the city 
+  {ProximaNova-Regular 9.0 #000000}must have for property owners to appeal zoning decisions. The ZBA reviews requests for certain types of “zoning relief,” specific 
+  {ProximaNova-Regular 9.0 #000000}exemptions from zoning rules: special uses, which are land uses allowed with additional review in specific districts; variations, which 
+  {ProximaNova-Regular 9.0 #000000}are designated changes to bulk and density requirements; and appeals of zoning decisions made by the Zoning Administrator at the 
+  {ProximaNova-Regular 9.0 #000000}Department of Planning and Development. MPC’s research found that:  
+[B 58,397,212,500]
+  {ProximaNova-Black 32.0 #4e5154}11{ProximaNova-Regular 15.0 #4e5154} out of {ProximaNova-Black 32.0 #4e5154}12{ProximaNova-Regular 15.0 #4e5154}  
+  {ProximaNova-Regular 15.0 #4e5154}applications that are 
+  {ProximaNova-Regular 15.0 #4e5154}reviewed by the Zoning 
+  {ProximaNova-Regular 15.0 #4e5154}Board of Appeals are 
+  {ProximaNova-Regular 15.0 #4e5154}approved
+[IMAGE 256,397,270,411]
+[B 256,394,563,466]
+  {ProximaNova-Extrabld 9.0 #726535}The Zoning Board of Appeals approves most applications it receives{ProximaNova-Extrabld 9.0 #6a2310}.{ProximaNova-Regular 9.0 #000000} 
+  {ProximaNova-Regular 9.0 #000000}The ZBA approves 92% of applications and explicitly denies only about 
+  {ProximaNova-Regular 9.0 #000000}3% to 4%, with the remainder being withdrawn from consideration by the 
+  {ProximaNova-Regular 9.0 #000000}applicant. ZBA members rarely disagree, with members voting unanimously in 
+  {ProximaNova-Regular 9.0 #000000}96% of the votes the board takes. The majority of applications are variations 
+  {ProximaNova-Regular 9.0 #000000}(56%) or special uses (43%) and a very small number (less than 1%) are appeals.
+[B 49,610,564,722]
+  {ProximaNova-Regular 7.5 #4e5154}16 Includes Residential, Business, Commercial, Downtown, Manufacturing, Parks and Open Space, and Transportation districts, including individual bulk and 
+  {ProximaNova-Regular 7.5 #4e5154}density designations. Does not include PMDs, which are each established as individual districts, or PDs.
+  {ProximaNova-Regular 7.5 #4e5154}17 This includes special character overlay districts, designated areas like multi-unit preservation districts, and 10 separate ADU-related zones. It does 
+  {ProximaNova-Regular 7.5 #4e5154}not include non-zoning geographic overlays that affect development, such as ARO areas, special sign districts, landmark districts, and the lakefront zones 
+  {ProximaNova-Regular 7.5 #4e5154}identified in the Lakefront Protection Ordinance.
+  {ProximaNova-Regular 7.5 #4e5154}18 City Council; City Council’s Committee on Zoning, Landmarks and Building Standards; Department of Planning Development and the Zoning 
+  {ProximaNova-Regular 7.5 #4e5154}Administrator’s office; Zoning Board of Appeals; and the Chicago Plan Commission. In addition, depending on the ward, there may be ward-level decision-
+  {ProximaNova-Regular 7.5 #4e5154}making bodies such as ward advisory groups in the mix. For more on the roles of each of these decision-making bodies, see {ProximaNova-Regular 7.5 #0000ff}In the Zone: A Chicagoan’s Guide 
+  {ProximaNova-Regular 7.5 #0000ff}to Zoning and Land Use.
+  {ProximaNova-Regular 7.5 #4e5154}19 This analysis is based on Zoning Board of Appeals data from April 2011 – October 2023. For more information on this analysis, see APPENDIX: RESEARCH 
+  {ProximaNova-Regular 7.5 #4e5154}METHODOLOGY.
+--- LINKS ---
+  [asingly c  page 17] -> internal page 19
+  [e may be ward-level decision-  In the Zone: A Chicagoan’s Guide] -> https://metroplanning.org/in-the-zone-a-chicagoans-guide-to-zoning-and-land-use/
+  [making bodies such as w to Zoning and Land Use. 19 This analysis is base] -> https://metroplanning.org/in-the-zone-a-chicagoans-guide-to-zoning-and-land-use/

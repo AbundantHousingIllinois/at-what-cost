@@ -1,0 +1,91 @@
+=== mpc PDF page 42 (w=612 h=792) ===
+[B 366,755,563,766]
+  {ProximaNova-Medium 6.5 #63676b}ZONING AND LAND USE ASSESSMENT  •  OCTOBER 2026{ProximaNova-Regular 7.0 #000000} {ProximaNova-Regular 8.0 #000000}   |    40
+[IMAGE 51,753,150,767]
+[B 49,42,320,69]
+  {IvyPrestoHeadline-Regula 20.0 #e36841} Appendix: Research methodology
+[B 49,82,564,107]
+  {ProximaNova-Regular 9.0 #000000}This section provides an overview of the research design, data sources and preparation, analytical methods, and additional research 
+  {ProximaNova-Regular 9.0 #000000}activities that informed the research findings throughout this report. It is organized into the following subsections: 
+[B 49,115,535,140]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Research scope and process:{ProximaNova-Regular 9.0 #000000} A brief overview of how the research was designed and conducted and how the 
+  {ProximaNova-Regular 9.0 #000000}research questions across all outcomes were formulated.
+[B 49,148,554,161]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Data sources and preparation:{ProximaNova-Regular 9.0 #000000} Documentation of how all of the data used for analysis was collected and processed.
+[B 49,169,565,194]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Notes on outcome analyses:{ProximaNova-Regular 9.0 #000000} Documentation of how the research for each outcome was designed and conducted, the 
+  {ProximaNova-Regular 9.0 #000000}research methods employed, and important caveats and limitations that influenced the research findings.
+[B 49,202,552,227]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Notes on additional analyses:{ProximaNova-Regular 9.0 #000000} Notes and documentation on additional research activities conducted outside of the 
+  {ProximaNova-Regular 9.0 #000000}longitudinal research detailed in other sections.
+[B 49,240,232,261]
+  {ProximaNova-Regular 15.0 #4e5154}Research scope and process
+[B 49,267,519,292]
+  {ProximaNova-Regular 9.0 #000000}The research scope was determined collaboratively and iteratively with internal team members and the external Steering 
+  {ProximaNova-Regular 9.0 #000000}Committee, resulting in a list of seven priority outcomes. (See {ProximaNova-Regular 9.0 #0000ff}page 6{ProximaNova-Regular 9.0 #000000} for more on how outcomes were selected. )
+[B 49,300,299,313]
+  {ProximaNova-Regular 9.0 #000000}For each outcome, findings were grouped into three categories: 
+[B 49,321,549,358]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Understand the outcome:{ProximaNova-Regular 9.0 #000000} How is this outcome showing up now and how has it shown up over time? For example, 
+  {ProximaNova-Regular 9.0 #000000}for housing affordability, we asked: Is housing affordable for Chicagoans? How does this play out among different 
+  {ProximaNova-Regular 9.0 #000000}populations and in different neighborhoods? 
+[B 49,366,553,403]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Understanding the zoning:{ProximaNova-Regular 9.0 #000000} What are the zoning and land use policies that we think may affect this outcome? For 
+  {ProximaNova-Regular 9.0 #000000}example, for the same housing affordability focus, we asked: What kind of residential development is allowed under 
+  {ProximaNova-Regular 9.0 #000000}our zoning code?
+[B 49,411,561,436]
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}	
+  {ProximaNova-Regular 9.0 #000000}•	
+  {ProximaNova-Bold 9.0 #000000}Understanding the relationship: {ProximaNova-Regular 9.0 #000000}What is the relationship between the zoning and land use policies, and the outcome 
+  {ProximaNova-Regular 9.0 #000000}we see? For example, for housing affordability, we asked: How does zoning impact housing affordability? 
+[B 49,444,522,457]
+  {ProximaNova-Regular 9.0 #000000}Findings were shared at regular intervals with Steering Committee members and at public workshops following this format.
+[B 49,465,560,526]
+  {ProximaNova-Regular 9.0 #000000}Each outcome analysis went through several rounds of presentation and iterative feedback with Steering Committee members 
+  {ProximaNova-Regular 9.0 #000000}and public event attendees. Stakeholders reacted to initial findings, provided feedback, and raised additional questions. Where 
+  {ProximaNova-Regular 9.0 #000000}feasible, MPC and Urban Institute team members worked to answer additional questions that were generated during presentations. 
+  {ProximaNova-Regular 9.0 #000000}The findings outlined in this report, while not exhaustive of all the analyses that were conducted, represent key findings generated 
+  {ProximaNova-Regular 9.0 #000000}through this participatory process.
+[B 49,539,237,560]
+  {ProximaNova-Regular 15.0 #4e5154}Data sources and preparation
+[B 49,573,169,589]
+  {ProximaNova-Bold 11.0 #000000}Longitudinal zoning data
+[B 49,596,566,717]
+  {ProximaNova-Regular 9.0 #000000}The keystone underlying the research findings in the Assessment was a longitudinal zoning dataset we created for Chicago. This 
+  {ProximaNova-Regular 9.0 #000000}dataset allowed us to understand how zoning changes over time may or may not have had an impact on each of the different priority 
+  {ProximaNova-Regular 9.0 #000000}outcomes. To create this dataset, we collected zoning district shapefiles across three years: 2003, 2012, and 2023. We collected 
+  {ProximaNova-Regular 9.0 #000000}the accompanying zoning ordinances for those years so we could quantify bulk and density requirements, use tables, and other 
+  {ProximaNova-Regular 9.0 #000000}relevant zoning information associated with each zoning district and append them to the zoning district shapefiles. We also collected 
+  {ProximaNova-Regular 9.0 #000000}three different land use shapefiles from the Chicago Metropolitan Agency for Planning (CMAP) to understand how actual land uses 
+  {ProximaNova-Regular 9.0 #000000}changed over time, in addition to zoning. Land use data closely, though not perfectly, matched zoning ordinance years: 2001, 2010, 
+  {ProximaNova-Regular 9.0 #000000}and 2020. Zoning and land use variables were used as the primary independent variables across all outcomes. For our analysis of 
+  {ProximaNova-Regular 9.0 #000000}downzoning’s historical impacts, we worked with George Kisiel, whose data on parcels that had been downzoned over the course of 
+  {ProximaNova-Regular 9.0 #000000}several decades was invaluable in enabling us to examine outcomes.
+--- LINKS ---
+  [tively wi  page 6] -> internal page 8
